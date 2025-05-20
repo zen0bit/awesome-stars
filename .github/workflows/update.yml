@@ -1,4 +1,4 @@
-name: update awesome-stars
+name: ⭐update
 
 on:
   workflow_dispatch:
@@ -30,9 +30,29 @@ jobs:
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
       run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by language update by github actions cron, created by starred'
+
     - name: update repo category by topic
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
       run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md
+
+    - name: Add Void category
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        USERNAME: ${{ github.repository_owner }}
+      run: |
+        file=README.tmp
+        grep -i 'Void' < README.md | grep -iv "QaidVoid" > void.md
+        start=$(head -n +5 < README.md)
+        end=$(tail -n +5 < README.md)
+        echo "$start" > $file
+        echo -e "\n# Void Linux related\n" >> $file
+        cat void.md >> $file
+        echo "$end" >> $file
+        rm void.md
+        mv README.tmp README.md
+        git commit --amend
+        git push --with-lease
