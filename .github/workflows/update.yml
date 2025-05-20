@@ -53,7 +53,7 @@ jobs:
         end=$(tail -n +5 < README.md)
         echo "$start" > $file
         echo -e "\n# Void Linux related\n" >> $file
-        echo "(Not removed from Content)" >> $file
+        echo "(Not removed from Contents)" >> $file
         cat void.md >> $file
         echo "$end" >> $file
         rm void.md
