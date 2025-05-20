@@ -38,8 +38,6 @@ jobs:
         USERNAME: ${{ github.repository_owner }}
       run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome⭐ by topic' --topic --topic_limit 500 --filename topics.md
 
-    - uses: actions/checkout@v4
-
     - name: Add Void category
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -48,6 +46,7 @@ jobs:
       run: |
         git config --global user.email "zenobit@disroot.org"
         git config --global user.name ${USERNAME}
+        git pull
         file=README.tmp
         grep -i 'Void' < README.md | grep -iv "QaidVoid" > void.md
         start=$(head -n +5 < README.md)
