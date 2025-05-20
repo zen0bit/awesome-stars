@@ -56,5 +56,6 @@ jobs:
         echo "$end" >> $file
         rm void.md
         mv README.tmp README.md
+        git add README.md
         git commit -m "Add Void Linux ⭐"
         git push
