@@ -1,4 +1,4 @@
-name: ⭐update
+name: ⭐update⭐
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   awesome-stars:
-    name: update awesome-stars
+    name: ⭐update⭐
     runs-on: ubuntu-latest
     steps:
 
