@@ -29,14 +29,14 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by language update by github actions cron, created by starred'
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome⭐ by language'
 
     - name: update repo category by topic
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome⭐ by topic' --topic --topic_limit 500 --filename topics.md
 
     - name: Add Void category
       env:
@@ -44,6 +44,8 @@ jobs:
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
       run: |
+        git config --global user.email "zenobit@disroot.org"
+        git config --global user.name ${USERNAME}
         file=README.tmp
         grep -i 'Void' < README.md | grep -iv "QaidVoid" > void.md
         start=$(head -n +5 < README.md)
@@ -54,5 +56,5 @@ jobs:
         echo "$end" >> $file
         rm void.md
         mv README.tmp README.md
-        git commit --amend
-        git push --with-lease
+        git commit -m "Add Void Linux ⭐"
+        git push
