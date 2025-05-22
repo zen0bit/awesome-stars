@@ -1432,6 +1432,8 @@
 
 ## others 
 
+- [secureblue/Trivalent](https://github.com/secureblue/Trivalent) - A hardened chromium for desktop Linux inspired by Vanadium.
+- [NCalex42/simplex-bot](https://github.com/NCalex42/simplex-bot) - 
 - [oSoWoSo/projekty](https://github.com/oSoWoSo/projekty) - 
 - [oSoWoSo/stars](https://github.com/oSoWoSo/stars) - My stars
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
