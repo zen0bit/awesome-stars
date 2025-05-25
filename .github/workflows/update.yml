@@ -40,19 +40,29 @@ jobs:
         USERNAME: ${{ github.repository_owner }}
       run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome⭐ by topic' --topic --topic_limit 500 --filename topics.md
 
+    - name: Git config
+      run: |
+        git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git config --global user.name github-actions[bot]
+
     - name: Add Star badges
       run: |
-        echo "#TODO:"
-        echo "https://img.shields.io/github/stars/${OWNERslashREPO}?label=%E2%AD%90&style=for-the-badge"
+        while IFS= read -r line; do
+          if [[ $line == "- ["* ]] && [[ $line == *") "* ]]; then
+            REPO=$(echo "${line}" | grep -oP '\[\K[^]]+')
+            LINE=$(echo "${line}" | cut -d' ' -f2-)
+            echo "- ![Stars](https://img.shields.io/github/stars/${REPO}?label=%E2%AD%90&style=for-the-badge) ${LINE}" >> new.md
+          else
+            echo "${line}" >> new.md
+          fi
+        done < README.md
+        mv new.md README.md
+        git add README.md
+        git commit -m "Add ⭐⭐⭐ badges"
+        git push
 
     - name: Add Void category
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        REPOSITORY: ${{ env.REPOSITORY_NAME }}
-        USERNAME: ${{ github.repository_owner }}
       run: |
-        git config --global user.email "zenobit@disroot.org"
-        git config --global user.name ${USERNAME}
         git pull
         file=README.tmp
         grep -i 'Void' < README.md | grep -iv "QaidVoid" > void.md
@@ -66,5 +76,5 @@ jobs:
         rm void.md
         mv README.tmp README.md
         git add README.md
-        git commit -m "Add Void Linux ⭐"
+        git commit -m "Add ⭐⭐⭐ Void"
         git push
