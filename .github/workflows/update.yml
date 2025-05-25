@@ -47,6 +47,7 @@ jobs:
 
     - name: Add Star badges
       run: |
+        git pull
         while IFS= read -r line; do
           if [[ $line == "- ["* ]] && [[ $line == *") "* ]]; then
             REPO=$(echo "${line}" | grep -oP '\[\K[^]]+')
