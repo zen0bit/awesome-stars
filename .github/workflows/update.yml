@@ -38,6 +38,11 @@ jobs:
         USERNAME: ${{ github.repository_owner }}
       run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome⭐ by topic' --topic --topic_limit 500 --filename topics.md
 
+    - name: Add Star badges
+      run: |
+        echo "#TODO:"
+        echo "https://img.shields.io/github/stars/${OWNERslashREPO}?label=%E2%AD%90&style=for-the-badge"
+
     - name: Add Void category
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
