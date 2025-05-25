@@ -47,7 +47,6 @@ jobs:
 
     - name: Add Star badges
       run: |
-        git pull
         while IFS= read -r line; do
           if [[ $line == "- ["* ]] && [[ $line == *") "* ]]; then
             REPO=$(echo "${line}" | grep -oP '\[\K[^]]+')
@@ -59,6 +58,7 @@ jobs:
         done < README.md
         mv new.md README.md
         git add README.md
+        git pull
         git commit --amend --no-edit --allow-empty
         git push
 
