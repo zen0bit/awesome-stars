@@ -58,7 +58,7 @@ jobs:
         done < README.md
         mv new.md README.md
         git add README.md
-        git commit -m "Add ⭐⭐⭐ badges"
+        git commit --amend --no-edit --allow-empty
         git push
 
     - name: Add Void category
@@ -76,5 +76,5 @@ jobs:
         rm void.md
         mv README.tmp README.md
         git add README.md
-        git commit -m "Add ⭐⭐⭐ Void"
+        git commit --amend --no-edit --allow-empty
         git push
