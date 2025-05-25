@@ -45,7 +45,7 @@ jobs:
         git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
         git config --global user.name github-actions[bot]
 
-    - name: Add Star badges
+    - name: Add stars and Void category
       run: |
         while IFS= read -r line; do
           if [[ $line == "- ["* ]] && [[ $line == *") "* ]]; then
@@ -56,24 +56,18 @@ jobs:
             echo "${line}" >> new.md
           fi
         done < README.md
-        mv new.md README.md
-        git add --all
-        git commit --amend --no-edit --allow-empty
-        git push --force
-
-    - name: Add Void category
-      run: |
         file=README.tmp
-        grep -i 'Void' < README.md | grep -iv "QaidVoid" > void.md
-        start=$(head -n +5 < README.md)
-        end=$(tail -n +5 < README.md)
+        touch $file
+        grep -i 'Void' < new.md | grep -iv "QaidVoid" > void.md
+        start=$(head -n +5 < new.md)
+        end=$(tail -n +5 < new.md)
         echo "$start" > $file
         echo -e "\n# Void Linux related\n" >> $file
         echo "(Not removed from Contents)" >> $file
         cat void.md >> $file
         echo "$end" >> $file
-        rm void.md
+        rm void.md new.md
         mv README.tmp README.md
         git add --all
-        git commit --amend --no-edit --allow-empty
+        git commit -m "Add ⭐⭐⭐"
         git push --force
