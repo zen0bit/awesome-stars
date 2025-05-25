@@ -57,14 +57,12 @@ jobs:
           fi
         done < README.md
         mv new.md README.md
-        git add README.md
-        git pull
+        git add --all
         git commit --amend --no-edit --allow-empty
-        git push
+        git push --force
 
     - name: Add Void category
       run: |
-        git pull
         file=README.tmp
         grep -i 'Void' < README.md | grep -iv "QaidVoid" > void.md
         start=$(head -n +5 < README.md)
@@ -76,6 +74,6 @@ jobs:
         echo "$end" >> $file
         rm void.md
         mv README.tmp README.md
-        git add README.md
+        git add --all
         git commit --amend --no-edit --allow-empty
-        git push
+        git push --force
