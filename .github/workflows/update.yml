@@ -73,7 +73,7 @@ jobs:
             REPO=$(echo "${line}" | grep -oP '\[\K[^]]+')
             LINE=$(echo "${line}" | cut -d' ' -f2-)
             # Possible style values: [flat, flat-square, plastic, for-the-badge, social]
-            echo "- ![Stars](https://img.shields.io/github/stars/${REPO}?label=%E2%AD%90&style=plastic&logoSize=auto) ${LINE}" >> new.md
+            echo "- ![Stars](https://img.shields.io/github/stars/${REPO}?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) ${LINE}" >> new.md
           else
             echo "${line}" >> new.md
           fi
