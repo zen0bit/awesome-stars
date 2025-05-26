@@ -72,7 +72,8 @@ jobs:
           if [[ $line == "- ["* ]] && [[ $line == *") "* ]]; then
             REPO=$(echo "${line}" | grep -oP '\[\K[^]]+')
             LINE=$(echo "${line}" | cut -d' ' -f2-)
-            echo "- ![Stars](https://img.shields.io/github/stars/${REPO}?label=%E2%AD%90&style=for-the-badge) ${LINE}" >> new.md
+            # Possible style values: [flat, flat-square, plastic, for-the-badge, social]
+            echo "- ![Stars](https://img.shields.io/github/stars/${REPO}?label=%E2%AD%90&style=plastic&logoSize=auto) ${LINE}" >> new.md
           else
             echo "${line}" >> new.md
           fi
