@@ -40,13 +40,34 @@ jobs:
         USERNAME: ${{ github.repository_owner }}
       run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome⭐ by topic' --topic --topic_limit 500 --filename topics.md
 
-    - name: Git config
+    - name: Add Void category
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        USERNAME: ${{ github.repository_owner }}
       run: |
-        git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git config --global user.name github-actions[bot]
+        git config --global user.email "zenobit@disroot.org"
+        git config --global user.name ${USERNAME}
+        git pull
+        file=README.tmp
+        grep -i 'Void' < README.md | grep -iv "QaidVoid" > void.md
+        start=$(head -n +5 < README.md)
+        end=$(tail -n +5 < README.md)
+        echo "$start" > $file
+        echo -e "\n# Void Linux related\n" >> $file
+        echo "(Not removed from Contents)" >> $file
+        cat void.md >> $file
+        echo "$end" >> $file
+        rm void.md
+        mv README.tmp README.md
+        git add README.md
+        git commit -m "Add Void Linux ⭐"
+        git push
 
-    - name: Add stars and Void category
+    - name: Add ⭐⭐⭐ badges
       run: |
+        rm -f new.md
+        git pull
         while IFS= read -r line; do
           if [[ $line == "- ["* ]] && [[ $line == *") "* ]]; then
             REPO=$(echo "${line}" | grep -oP '\[\K[^]]+')
@@ -56,18 +77,8 @@ jobs:
             echo "${line}" >> new.md
           fi
         done < README.md
-        file=README.tmp
-        touch $file
-        grep -i 'Void' < new.md | grep -iv "QaidVoid" > void.md
-        start=$(head -n +5 < new.md)
-        end=$(tail -n +5 < new.md)
-        echo "$start" > $file
-        echo -e "\n# Void Linux related\n" >> $file
-        echo "(Not removed from Contents)" >> $file
-        cat void.md >> $file
-        echo "$end" >> $file
-        rm void.md new.md
-        mv README.tmp README.md
-        git add --all
-        git commit -m "Add ⭐⭐⭐"
-        git push --force
+        echo "done"
+        mv new.md README.md
+        git add --all || echo "git add fail"
+        git commit -m "Add ⭐⭐⭐ badges" || echo "git commi fail"
+        git push || echo "git push fail"
