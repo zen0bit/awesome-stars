@@ -298,8 +298,9 @@
 
 ## Go 
 
+- [nwg-piotr/gopsuinfo](https://github.com/nwg-piotr/gopsuinfo) - A gopsutil-based command to display system usage info as text in panels like Waybar or icon/text in tint2 and nwg-panel executors
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [autobrr/distribrr](https://github.com/autobrr/distribrr) - An orchestrator for distributed download of torrents
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -882,7 +883,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
 - [TuxVinyards/qqX](https://github.com/TuxVinyards/qqX) - qqX - Virtual Machine Manager for Quickemu and Qemu - easy builds of Windows, Mac and Linux for advanced users and beginners alike.
-- [djeada/Bash-Scripts](https://github.com/djeada/Bash-Scripts) - A collection of Bash scripts for automating routine tasks and streamlining your workflow.
+- [djeada/Bash-Scripts](https://github.com/djeada/Bash-Scripts) - Various Bash scripts for automating routine tasks and streamlining your workflow.
 - [TuxVinyards/quickemu-mod](https://github.com/TuxVinyards/quickemu-mod) - Virtual Machine Launcher & VM Tool Set -  Quickemu / Quickget wrapping script - A powerful text based alternative to QuickGUI for more advanced users
 - [cultab/xinst](https://github.com/cultab/xinst) - Package install menu based on fzf supporting ~many~ package managers
 - [M-Hafez22/packages-installer](https://github.com/M-Hafez22/packages-installer) - Scripts to install popular packages
