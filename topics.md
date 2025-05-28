@@ -1435,6 +1435,7 @@
 
 ## others 
 
+- [kando-menu/menu-themes](https://github.com/kando-menu/menu-themes) - 🎨 A collection of menu themes for Kando.
 - [secureblue/Trivalent](https://github.com/secureblue/Trivalent) - A hardened chromium for desktop Linux inspired by Vanadium.
 - [NCalex42/simplex-bot](https://github.com/NCalex42/simplex-bot) - 
 - [oSoWoSo/projekty](https://github.com/oSoWoSo/projekty) - 
