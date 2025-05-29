@@ -365,6 +365,7 @@
 
 ## bash 
 
+- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
 - [jkool702/forkrun](https://github.com/jkool702/forkrun) - runs multiple inputs through a script/function in parallel using bash coprocs
 - [RohitKushvaha01/ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) - A Simple Android Terminal Emulator
@@ -474,6 +475,7 @@
 
 ## cli 
 
+- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Launcher-driven Wi-Fi manager for Linux
 - [e-tho/bzmenu](https://github.com/e-tho/bzmenu) - Launcher-driven Bluetooth manager for Linux
@@ -1531,7 +1533,7 @@
 - [hexisXz/ebps](https://github.com/hexisXz/ebps) - this is a script i made for myself  to make xbps easy and convenient to use
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-- [Makrennel/hyprland-void](https://github.com/Makrennel/hyprland-void) - void linux hyprland templates for building with xbps-src
+- [Makrennel/hyprland-void](https://github.com/Makrennel/hyprland-void) - Binary repositories and xbps-src templates for building and installing Hyprland on Void Linux.
 - [wrwrabbit/Partisan-SMS](https://github.com/wrwrabbit/Partisan-SMS) - Encrypted SMS messenger for Android
 - [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher) - Telegram fork with blackjack and hookers
 - [chimera-linux/cports](https://github.com/chimera-linux/cports) - Chimera ports collection
@@ -1557,7 +1559,6 @@
 - [VX-Linux/main](https://github.com/VX-Linux/main) - A pre-configured, secure systemd-free Plasma desktop. Based on the excellent Void Linux.
 - [avently/simplex-chat](https://github.com/avently/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
 - [TuxVinyards/quickemu-mod](https://github.com/TuxVinyards/quickemu-mod) - Virtual Machine Launcher & VM Tool Set -  Quickemu / Quickget wrapping script - A powerful text based alternative to QuickGUI for more advanced users
-- [c0mmando/Hack-Liberty-Resources](https://github.com/c0mmando/Hack-Liberty-Resources) - A list of privacy, security, and cryptocurrency resources curated by the hackliberty.org community.
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [cultab/xinst](https://github.com/cultab/xinst) - Package install menu based on fzf supporting ~many~ package managers
 - [biopsin/voidpkg](https://github.com/biopsin/voidpkg) - Unoffical and custom void templates
@@ -2060,6 +2061,7 @@
 
 ## ruby 
 
+- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 
