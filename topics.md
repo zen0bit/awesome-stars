@@ -125,6 +125,7 @@
 - [mysql](#mysql)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
+- [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [objective-c](#objective-c)
@@ -880,6 +881,7 @@
 
 ## godot 
 
+- [diklor/advanced_radial_menu](https://github.com/diklor/advanced_radial_menu) - 
 - [InterstellarDragonDev/Godot-Pie](https://github.com/InterstellarDragonDev/Godot-Pie) - A simple Pie Menu made in godot
 - [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game
 - [colinbellino/lemmings](https://github.com/colinbellino/lemmings) - A small prototype trying to recreate the Lemmings game in Godot to learn the engine
@@ -1380,6 +1382,10 @@
 
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 
+## node 
+
+- [diklor/advanced_radial_menu](https://github.com/diklor/advanced_radial_menu) - 
+
 ## nodejs 
 
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
@@ -1437,6 +1443,7 @@
 
 ## others 
 
+- [labwc/labwc-menu-generator](https://github.com/labwc/labwc-menu-generator) - 
 - [AM-community/localization](https://github.com/AM-community/localization) - Locale files to use AM in your language
 - [AM-community/monorepo](https://github.com/AM-community/monorepo) - AM project community monorepo
 - [oSoWoSo/projekty](https://github.com/oSoWoSo/projekty) - 
