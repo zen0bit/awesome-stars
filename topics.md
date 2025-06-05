@@ -26,6 +26,7 @@
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
 - [chrome-extension](#chrome-extension)
 - [clash](#clash)
 - [cli](#cli)
@@ -460,6 +461,10 @@
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [clevercli/clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
 
+## chatgpt-api 
+
+- [BalanceBalls/nekot](https://github.com/BalanceBalls/nekot) - A terminal ui for speaking with AIs!
+
 ## chrome-extension 
 
 - [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
@@ -865,6 +870,7 @@
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [omriharel/deej](https://github.com/omriharel/deej) - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
 - [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge
+- [BalanceBalls/nekot](https://github.com/BalanceBalls/nekot) - A terminal ui for speaking with AIs!
 - [gogrlx/grlx](https://github.com/gogrlx/grlx) - Effective Fleet Configuration Management
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -1445,7 +1451,7 @@
 
 - [labwc/labwc-menu-generator](https://github.com/labwc/labwc-menu-generator) - 
 - [AM-community/localization](https://github.com/AM-community/localization) - Locale files to use AM in your language
-- [AM-community/monorepo](https://github.com/AM-community/monorepo) - AM project community monorepo
+- [AM-community/dev](https://github.com/AM-community/dev) - AM project community monorepo
 - [oSoWoSo/projekty](https://github.com/oSoWoSo/projekty) - 
 - [kando-menu/menu-themes](https://github.com/kando-menu/menu-themes) - 🎨 A collection of menu themes for Kando.
 - [secureblue/Trivalent](https://github.com/secureblue/Trivalent) - A hardened chromium for desktop Linux inspired by Vanadium.
@@ -1507,7 +1513,6 @@
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
-- [BalanceBalls/nekot](https://github.com/BalanceBalls/nekot) - A terminal ui for speaking with AIs!
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers
 - [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
@@ -2245,6 +2250,7 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge
+- [BalanceBalls/nekot](https://github.com/BalanceBalls/nekot) - A terminal ui for speaking with AIs!
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [michaeltd/bashpass](https://github.com/michaeltd/bashpass) - Password management for the terminal and X.
@@ -2330,6 +2336,7 @@
 ## ui 
 
 - [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
+- [BalanceBalls/nekot](https://github.com/BalanceBalls/nekot) - A terminal ui for speaking with AIs!
 - [crsolver/goduz](https://github.com/crsolver/goduz) - A GDScript library for building user interfaces with Godot Engine 4
 - [payne911/PieMenu](https://github.com/payne911/PieMenu) - A library for easy integration of a flexible circular WidgetGroup within libGDX
 
