@@ -65,6 +65,8 @@ jobs:
         git push
 
     - name: Add ⭐⭐⭐ badges
+      env:
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
       run: |
         rm -f new.md
         git pull
