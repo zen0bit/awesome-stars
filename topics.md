@@ -1449,6 +1449,7 @@
 
 ## others 
 
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - 
 - [OpenSourceEcology/ansible](https://github.com/OpenSourceEcology/ansible) - Ansible Playbooks for Provisioning of OSE Servers
 - [OpenSourceEcology/3D-Printer-OSE-Marlin](https://github.com/OpenSourceEcology/3D-Printer-OSE-Marlin) - Working files for the OSE 3D Printing ecosystem.
 - [OpenSourceEcology/Civilization-Starter-Kit](https://github.com/OpenSourceEcology/Civilization-Starter-Kit) - Fork-ready base for your project's documentation using Sphinx + Read the Docs on GitHub Pages
