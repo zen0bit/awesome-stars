@@ -1473,7 +1473,6 @@
 - [OpenSourceEcology/Civilization-Starter-Kit](https://github.com/OpenSourceEcology/Civilization-Starter-Kit) - Fork-ready base for your project's documentation using Sphinx + Read the Docs on GitHub Pages
 - [labwc/labwc-menu-generator](https://github.com/labwc/labwc-menu-generator) - 
 - [AM-community/localization](https://github.com/AM-community/localization) - Locale files to use AM in your language
-- [AM-community/dev](https://github.com/AM-community/dev) - AM project community monorepo
 - [oSoWoSo/projekty](https://github.com/oSoWoSo/projekty) - 
 - [kando-menu/menu-themes](https://github.com/kando-menu/menu-themes) - 🎨 A collection of menu themes for Kando.
 - [secureblue/Trivalent](https://github.com/secureblue/Trivalent) - A hardened chromium for desktop Linux inspired by Vanadium.
@@ -1549,7 +1548,7 @@
 - [dabrown645/quickemu](https://github.com/dabrown645/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [hyprwm/hyprland-protocols](https://github.com/hyprwm/hyprland-protocols) - Wayland protocol extensions for Hyprland
 - [tailscale-dev/deck-tailscale](https://github.com/tailscale-dev/deck-tailscale) - Tailscale install script for the Steam Deck
-- [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/great alternatives to common unix commands, which is maintained.
+- [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/greater alternatives to common UNIX commands, which is maintained.
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [private-forks/mega-linter](https://github.com/private-forks/mega-linter) - Mega-Linter analyzes 37 languages, 15 formats, 16 tooling formats , copy-pastes and spell in your repository sources, generate reports in several formats, and can even apply formatting and auto-fixes 
 - [samsullivan/jqless](https://github.com/samsullivan/jqless) - Combining jq and less for real-time JSON parsing.
@@ -1587,7 +1586,7 @@
 - [isaron/git-touch](https://github.com/isaron/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
-- [TuxVinyards/qqX](https://github.com/TuxVinyards/qqX) - qqX - A basically better Virtual Machine Manager for Quickemu and Qemu - easy builds of Windows, Mac and Linux for advanced users and beginners alike.
+- [TuxVinyards/qqX](https://github.com/TuxVinyards/qqX) - qqX Virtual Machine Manager - Next level front end for Quickemu / Qemu provides easy builds of Windows, Mac and Linux. Ideal for advanced users and beginners alike.
 - [stud0709/OneMoreSecret](https://github.com/stud0709/OneMoreSecret) - Password management based on Android KeyStore, QR and Bluetooth
 - [vmonaco/kloak](https://github.com/vmonaco/kloak) - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level.
 - [nkxxll/byebye](https://github.com/nkxxll/byebye) - byebye is a command line interface to logout, lock, suspend, hibernate, shutdown, reboot, from the command line on every Linux system (with xdg-screensaver on X11 or swaylock on wayland).
