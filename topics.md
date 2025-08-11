@@ -1189,6 +1189,7 @@
 
 ## linux 
 
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [Portable-Linux-Apps/Portable-Linux-Apps.github.io](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io) - Census, cataloging and distribution of all AppImages and portable apps for GNU/Linux, through the "AM" package manager. Largest AppImages collection!
 - [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Launcher-driven Wi-Fi manager for Linux
@@ -1334,6 +1335,7 @@
 
 ## macos 
 
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages 📚
@@ -1462,6 +1464,7 @@
 
 ## opengl 
 
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [h0m3/gpuicon](https://github.com/h0m3/gpuicon) - Exactly what says in the tin. Its a GPU icon for your system tray
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
@@ -1483,7 +1486,6 @@
 ## others 
 
 - [bahamas10/bash-web-server](https://github.com/bahamas10/bash-web-server) - An HTTP server in Pure Bash.
-- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [OpenSourceEcology/ansible](https://github.com/OpenSourceEcology/ansible) - Ansible Playbooks for Provisioning of OSE Servers
 - [OpenSourceEcology/3D-Printer-OSE-Marlin](https://github.com/OpenSourceEcology/3D-Printer-OSE-Marlin) - Working files for the OSE 3D Printing ecosystem.
 - [OpenSourceEcology/Civilization-Starter-Kit](https://github.com/OpenSourceEcology/Civilization-Starter-Kit) - Fork-ready base for your project's documentation using Sphinx + Read the Docs on GitHub Pages
@@ -2423,6 +2425,7 @@
 
 ## windows 
 
+- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
