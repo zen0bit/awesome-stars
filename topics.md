@@ -1485,6 +1485,7 @@
 
 ## others 
 
+- [brandflake11/void-pro-audio](https://github.com/brandflake11/void-pro-audio) - Pro-audio package group/install script for Void Linux.
 - [bahamas10/bash-web-server](https://github.com/bahamas10/bash-web-server) - An HTTP server in Pure Bash.
 - [OpenSourceEcology/ansible](https://github.com/OpenSourceEcology/ansible) - Ansible Playbooks for Provisioning of OSE Servers
 - [OpenSourceEcology/3D-Printer-OSE-Marlin](https://github.com/OpenSourceEcology/3D-Printer-OSE-Marlin) - Working files for the OSE 3D Printing ecosystem.
