@@ -210,6 +210,7 @@
 
 ## android 
 
+- [AdguardTeam/AdguardForAndroid](https://github.com/AdguardTeam/AdguardForAndroid) - Open bug tracker for Android version of AdGuard.
 - [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for android
 - [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) - A fully open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported)
