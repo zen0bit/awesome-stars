@@ -19,6 +19,7 @@
 - [aws](#aws)
 - [backend](#backend)
 - [bash](#bash)
+- [beginner-project](#beginner-project)
 - [bitcoin](#bitcoin)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
@@ -380,6 +381,7 @@
 
 ## bash 
 
+- [RubaXa/bashkit](https://github.com/RubaXa/bashkit) - ~/.bashkit/ — it is the toolset for the developing bash scripts.
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
 - [jkool702/forkrun](https://github.com/jkool702/forkrun) - runs multiple inputs through a script/function in parallel using bash coprocs
@@ -422,6 +424,10 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [oSoWoSo/passthrough_helper_void](https://github.com/oSoWoSo/passthrough_helper_void) - GPU passthrough helper
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+
+## beginner-project 
+
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 
 ## bitcoin 
 
@@ -1519,6 +1525,7 @@
 
 ## others 
 
+- [zen0bit/bashkit](https://github.com/zen0bit/bashkit) - ~/.bashkit/ — it is the toolset for the developing bash scripts.
 - [ranfdev/DistroShelf](https://github.com/ranfdev/DistroShelf) - gtk4 client for https://distrobox.it
 - [leahneukirchen/nitro](https://github.com/leahneukirchen/nitro) - tiny but flexible init system and process supervisor
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
