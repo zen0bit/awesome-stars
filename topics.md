@@ -1536,6 +1536,9 @@
 
 ## others 
 
+- [EUHunterTools/EU-Hunter-Tools](https://github.com/EUHunterTools/EU-Hunter-Tools) - 
+- [shazow/wifitui](https://github.com/shazow/wifitui) - Fast featureful friendly wifi terminal UI. 🛜✨
+- [almahdi/dt-tierlist](https://github.com/almahdi/dt-tierlist) - A tier list app for DT to use instead of GIMP.
 - [Encoded14/void-extra](https://github.com/Encoded14/void-extra) - 
 - [nolaforensix/scalpel-2.02](https://github.com/nolaforensix/scalpel-2.02) - This repo contains the source code for Scalpel 2.02, an improved version of the original Scalpel fast file carver.
 - [danthem/undelete-btrfs](https://github.com/danthem/undelete-btrfs) - A script that attempts to undelete files in a BTRFS file system. Make sure you read the README.
@@ -2436,7 +2439,7 @@
 - [DistributionHub/distributionhub.github.io](https://github.com/DistributionHub/distributionhub.github.io) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 - [hawshemi/linux-optimizer](https://github.com/hawshemi/linux-optimizer) - Linux Optimizer
-- [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - On the road of Remastersys, Refracta, Systemback and father Knoppix!
+- [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - A professional and universal remastering tool for all major distributions
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [Daniel-Abrecht/dpa-image-builder](https://github.com/Daniel-Abrecht/dpa-image-builder) - A few makefiles & stuff to create images for various devices (librem5, pinephone-pro)
 - [jaromaz/yosild](https://github.com/jaromaz/yosild) - Yosild is a single shell script that builds a full, minimal Linux distribution based on BusyBox.
