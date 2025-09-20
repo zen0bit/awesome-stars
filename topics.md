@@ -382,6 +382,7 @@
 
 ## bash 
 
+- [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) - 
 - [RubaXa/bashkit](https://github.com/RubaXa/bashkit) - ~/.bashkit/ — it is the toolset for the developing bash scripts.
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
@@ -877,6 +878,7 @@
 
 ## git 
 
+- [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) - 
 - [labnex/LabNex](https://github.com/labnex/LabNex) - LabNex is an open-source Android app designed for managing GitLab projects
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [eficode-academy/git-katas](https://github.com/eficode-academy/git-katas) - A set of exercises for deliberate Git Practice
@@ -1061,7 +1063,7 @@
 - [grapheneX/grapheneX](https://github.com/grapheneX/grapheneX) - Automated System Hardening Framework
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [webOS-ports/meta-pine64-luneos](https://github.com/webOS-ports/meta-pine64-luneos) - 
-- [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - :penguin: Arch Linux ARM for your PinePhone/Pro and PineTab/2
+- [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - :penguin: Arch Linux ARM for your PinePhone/Pro and PineTab/2 (mirror)
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [ODEX-TOS/linux](https://github.com/ODEX-TOS/linux) - Fork of the arch linux kernel made for tos
 - [void-linux/void-mklive](https://github.com/void-linux/void-mklive) - The Void Linux live image maker
@@ -1299,7 +1301,7 @@
 - [rodlie/qtfm](https://github.com/rodlie/qtfm) - Qt File Manager
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [vednoc/pkg](https://github.com/vednoc/pkg) - A wrapper for various package managers.
-- [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - :penguin: Arch Linux ARM for your PinePhone/Pro and PineTab/2
+- [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - :penguin: Arch Linux ARM for your PinePhone/Pro and PineTab/2 (mirror)
 - [bleakgrey/tootle](https://github.com/bleakgrey/tootle) - GTK-based Mastodon client for Linux
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [AUNaseef/protonup](https://github.com/AUNaseef/protonup) - Install and Update Proton-GE
