@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
 - [ansible](#ansible)
@@ -216,6 +217,10 @@
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 
+## analytics 
+
+- [repohistory/repohistory](https://github.com/repohistory/repohistory) - GitHub repo analytics tool without 14 days limit
+
 ## android 
 
 - [AdguardTeam/AdguardForAndroid](https://github.com/AdguardTeam/AdguardForAndroid) - Open bug tracker for Android version of AdGuard.
@@ -320,6 +325,7 @@
 
 ## awesome 
 
+- [zen0bit/awesome-stars](https://github.com/zen0bit/awesome-stars) - My Awesome List
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [avtzis/awesome-linux-ricing](https://github.com/avtzis/awesome-linux-ricing) - 🎨 Curated list of awesome themes, tools and apps for customizing the Linux environment.
 - [simsieg/awesome-maps](https://github.com/simsieg/awesome-maps) - There is more than google: A collection of great online maps 🌍🗺🌎
@@ -387,6 +393,7 @@
 
 ## bash 
 
+- [zen0bit/awesome-stars](https://github.com/zen0bit/awesome-stars) - My Awesome List
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) - 
 - [RubaXa/bashkit](https://github.com/RubaXa/bashkit) - ~/.bashkit/ — it is the toolset for the developing bash scripts.
@@ -910,6 +917,7 @@
 
 ## github 
 
+- [zen0bit/awesome-stars](https://github.com/zen0bit/awesome-stars) - My Awesome List
 - [sgaunet/ansible-role-gh-release-installer](https://github.com/sgaunet/ansible-role-gh-release-installer) - Ansible role for installing GitHub releases - Supports 100+ tools including Go/Rust binaries like bat, helm, k9s, terraform
 - [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
 - [ab2pentest/GithubActiveForks](https://github.com/ab2pentest/GithubActiveForks) - Displays active forks for a given repository on GitHub.
@@ -1255,6 +1263,7 @@
 
 ## linux 
 
+- [zen0bit/awesome-stars](https://github.com/zen0bit/awesome-stars) - My Awesome List
 - [ashos/ashos](https://github.com/ashos/ashos) - The immutable/mutable meta-distribution (universal bootstrapper)
 - [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
 - [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS) - A Graphical Interface for Distrobox
