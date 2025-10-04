@@ -200,6 +200,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [vim](#vim)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -1112,7 +1113,6 @@
 - [void-linux/void-packages](https://github.com/void-linux/void-packages) - The Void source packages collection
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
 ## haskell 
@@ -1487,6 +1487,7 @@
 
 ## music 
 
+- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
 
@@ -2161,6 +2162,7 @@
 
 ## pytorch 
 
+- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 
 ## qt 
@@ -2471,7 +2473,6 @@
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Decentralized private messenger with chat-shared tools and games for Desktop
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [ravenclaw900/DietPi-Dashboard](https://github.com/ravenclaw900/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 
 ## ubuntu 
@@ -2503,6 +2504,11 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
+
+## visualization 
+
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- [DeaDBeeF-Player/deadbeef](https://github.com/DeaDBeeF-Player/deadbeef) - DeaDBeeF Player
 
 ## vpn 
 
