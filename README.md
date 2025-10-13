@@ -6,75 +6,75 @@
 # Void Linux related
 
 (Not removed from Contents)
-- [cyprienbf/v](https://github.com/cyprienbf/v) - Simple Command-Line Helper for Void Linux
-- [index-0/librewolf-void](https://github.com/index-0/librewolf-void) - librewolf package for void (xbps)
-- [biopsin/voidpkg](https://github.com/biopsin/voidpkg) - Unoffical and custom void templates
-- [void-linux/runit](https://github.com/void-linux/runit) - The init system for Void Linux.
-- [faenrir/void-extras](https://github.com/faenrir/void-extras) - extra packages for void linux/xbps-src
-- [jitessh/voidwm](https://github.com/jitessh/voidwm) - voidwm • sanely patched dwm
-- [19742bytes/roonit](https://github.com/19742bytes/roonit) - "roonit" is a simple tool for enabling and disabling services in runit (Void Linux). Pronounced as "Rune-It" or "Ruined-It".
-- [void-linux/xbps](https://github.com/void-linux/xbps) - The X Binary Package System (XBPS)
-- [TLH-Deprecated-Linux-Configurations/electric-tantra-mklive](https://github.com/TLH-Deprecated-Linux-Configurations/electric-tantra-mklive) - Assembling the ISO using Void's void-mklive and some terminal magic
-- [void-linux/void-containers](https://github.com/void-linux/void-containers) - OCI container images for Void Linux
-- [oSoWoSo/Void-Wallpapers](https://github.com/oSoWoSo/Void-Wallpapers) - collection of wallpapers for Void linux (website will load all pictures, not for slow connections!)
-- [oSoWoSo/awesome-void-linux](https://github.com/oSoWoSo/awesome-void-linux) - 
-- [VX-Linux/main](https://github.com/VX-Linux/main) - A pre-configured, secure systemd-free Plasma desktop. Based on the excellent Void Linux.
-- [johna23-lab/F-Void](https://github.com/johna23-lab/F-Void) - Fork of Linux Void
-- [gabeeOSLinux/gabeeOSLinux](https://github.com/gabeeOSLinux/gabeeOSLinux) - The beauty of Gnome | The power of Void
-- [shubham-cpp/void-pkg-templates](https://github.com/shubham-cpp/void-pkg-templates) - Custom templates for several packages that could be installed using xbps-src
-- [MadFlasheroo7/void-templates](https://github.com/MadFlasheroo7/void-templates) - Templates for xbps-src
-- [ibhagwan/megasync-template](https://github.com/ibhagwan/megasync-template) - MEGAsync xbps-src void linux template
-- [ibhagwan/picom-ibhagwan-template](https://github.com/ibhagwan/picom-ibhagwan-template) - Void Linux template file for xbps-src
-- [codedmart/slim-simple-void-theme](https://github.com/codedmart/slim-simple-void-theme) - Fancy SLiM theme for Void Linux
-- [0x29aNull/DarkVoid](https://github.com/0x29aNull/DarkVoid) - 
-- [opsview/ansible](https://github.com/opsview/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in
-- [ogenfald/vps](https://github.com/ogenfald/vps) - A command line wrapper for Void's XBPS package manager
-- [Chocimier/pkgs.void](https://github.com/Chocimier/pkgs.void) - Web catalog of Void Linux packages
-- [jcjordyn130/vur](https://github.com/jcjordyn130/vur) - A void user repository
-- [MainKt/vpm-rs](https://github.com/MainKt/vpm-rs) - A Rust rewrite of vpm - An XBPS package management helper for Void Linux
-- [oSoWoSo/VUR](https://github.com/oSoWoSo/VUR) - The Void source packages collection
-- [Encoded14/void-extra](https://github.com/Encoded14/void-extra) - 
-- [brandflake11/void-pro-audio](https://github.com/brandflake11/void-pro-audio) - Pro-audio package group/install script for Void Linux.
-- [eoli3n/void-config](https://github.com/eoli3n/void-config) - Scripts and Ansible playbook to setup Void Linux on ZFS.
-- [jdpedersen1/Void-Herbstluftwm](https://github.com/jdpedersen1/Void-Herbstluftwm) - My personal Void LInux Herbstluftwm setup as seen on my youtube channel Jake@Linux
-- [Jipok/void-infect](https://github.com/Jipok/void-infect) - Install Void linux over the existing OS on VPS
-- [kkrruumm/void-install-script](https://github.com/kkrruumm/void-install-script) - TUI Shell script installer for Void Linux
-- [mobinmob/void-66-services](https://github.com/mobinmob/void-66-services) - 66 service frontends for voidlinux
-- [Makrennel/hyprland-void](https://github.com/Makrennel/hyprland-void) - Binary repositories and xbps-src templates for building and installing Hyprland on Void Linux.
-- [mustard-parfait/void-kernel-builds](https://github.com/mustard-parfait/void-kernel-builds) - Void linux kernel builds using linux-tkg patches and void-packages template
-- [freddylist/void-packages](https://github.com/freddylist/void-packages) - My void-packages fork
-- [freddylist/antivoid-packages](https://github.com/freddylist/antivoid-packages) - Collection of templates that should not be in the official xbps repositories.
-- [Le0xFF/VoidLinuxInstaller](https://github.com/Le0xFF/VoidLinuxInstaller) - A bash script to install Void Linux with optional LUKS encryption, optional LVM, btrfs filesystem and optional swap as file.
-- [CereusLinuxProject/cereus-pkgs](https://github.com/CereusLinuxProject/cereus-pkgs) - The Cereus Linux source packages collection, based on void-packages (MIRROR ONLY).
-- [void-builds/void-mklive](https://github.com/void-builds/void-mklive) - The Void Linux live image maker
-- [DAINRA/ungoogled-chromium-void](https://github.com/DAINRA/ungoogled-chromium-void) - Ungoogled Chromium template and builds for Void Linux
-- [void-linux/void-updates](https://github.com/void-linux/void-updates) - Update check system for void-packages
-- [Piraty/xxtools](https://github.com/Piraty/xxtools) - Tools to ease packaging tasks for Void Linux
-- [jjsullivan5196/void-packages](https://github.com/jjsullivan5196/void-packages) - The Void source packages collection
-- [zakariaGatter/bsv](https://github.com/zakariaGatter/bsv) - Void Linx Server manager in pure bash
-- [ernierasta/xb](https://github.com/ernierasta/xb) - VoidLinux XBPS primitive wrapper with bash-completion
-- [moravec2/vd-pkgtool](https://github.com/moravec2/vd-pkgtool) - Gui for some Void Linux package (xbps) commands
-- [ymir-linux/void-packages](https://github.com/ymir-linux/void-packages) - The Void source libre packages collection
-- [jcgruenhage/void-packages](https://github.com/jcgruenhage/void-packages) - The Void source packages collection
-- [kotoko/voidlinux-iso-extra](https://github.com/kotoko/voidlinux-iso-extra) - Void (Linux) installation ISO with additional programs
-- [void-linux/void-mklive](https://github.com/void-linux/void-mklive) - The Void Linux live image maker
-- [oSoWoSo/Void-In-Termux](https://github.com/oSoWoSo/Void-In-Termux) - This intends to allow a proot from Termux to Void Linux rootfs.
-- [123randomuser321/123randomuser321_void_templates](https://github.com/123randomuser321/123randomuser321_void_templates) - All xbps templates I created are gathered here
-- [addy-dclxvi/paintmybox](https://github.com/addy-dclxvi/paintmybox) - My Void Linux Openbox dotfiles. It loads random theme & wallpaper then unify the window decorator, panel, terminal, startmenu, notifications, OSD popup, and desktop menu.
-- [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
-- [not-void/nvoid](https://github.com/not-void/nvoid) - alternative xbps-src repo
-- [emacsomancer/vpnd](https://github.com/emacsomancer/vpnd) - Void Package Notifier Daemon
-- [dcloud-ca/voidLuksSetup](https://github.com/dcloud-ca/voidLuksSetup) - Bash script for installing Void Linux with disk encryption
-- [xdeb-org/xdeb](https://github.com/xdeb-org/xdeb) - XDEB - Convert deb (Debian) packages to xbps (Void Linux)
-- [silvernode/voidbuilds](https://github.com/silvernode/voidbuilds) - Scripts and package lists used to build image files on voidbuilds.xyz
-- [rabbitinspace/abyss](https://github.com/rabbitinspace/abyss) - Another Void Linux bootstrap for UEFI systems written in Fish.
-- [taichifan/Void-In-Termux](https://github.com/taichifan/Void-In-Termux) - This intends to allow a proot from Termux to Void Linux rootfs.
-- [leahneukirchen/hrmpf](https://github.com/leahneukirchen/hrmpf) - hrmpf rescue system, built on Void Linux
-- [oSoWoSo/passthrough_helper_void](https://github.com/oSoWoSo/passthrough_helper_void) - GPU passthrough helper
-- [void-linux/void-packages](https://github.com/void-linux/void-packages) - The Void source packages collection
-- [oSoWoSo/voidlinux](https://github.com/oSoWoSo/voidlinux) - VOID linux post install script after base install
-- [sineto/vpsm](https://github.com/sineto/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
-- [bahamas10/vpm](https://github.com/bahamas10/vpm) - vpm - An XBPS package management helper for VoidLinux
+- ![Stars](https://img.shields.io/github/stars/cyprienbf/v?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [cyprienbf/v](https://github.com/cyprienbf/v) - Simple Command-Line Helper for Void Linux
+- ![Stars](https://img.shields.io/github/stars/index-0/librewolf-void?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [index-0/librewolf-void](https://github.com/index-0/librewolf-void) - librewolf package for void (xbps)
+- ![Stars](https://img.shields.io/github/stars/biopsin/voidpkg?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [biopsin/voidpkg](https://github.com/biopsin/voidpkg) - Unoffical and custom void templates
+- ![Stars](https://img.shields.io/github/stars/void-linux/runit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [void-linux/runit](https://github.com/void-linux/runit) - The init system for Void Linux.
+- ![Stars](https://img.shields.io/github/stars/faenrir/void-extras?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [faenrir/void-extras](https://github.com/faenrir/void-extras) - extra packages for void linux/xbps-src
+- ![Stars](https://img.shields.io/github/stars/jitessh/voidwm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jitessh/voidwm](https://github.com/jitessh/voidwm) - voidwm • sanely patched dwm
+- ![Stars](https://img.shields.io/github/stars/19742bytes/roonit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [19742bytes/roonit](https://github.com/19742bytes/roonit) - "roonit" is a simple tool for enabling and disabling services in runit (Void Linux). Pronounced as "Rune-It" or "Ruined-It".
+- ![Stars](https://img.shields.io/github/stars/void-linux/xbps?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [void-linux/xbps](https://github.com/void-linux/xbps) - The X Binary Package System (XBPS)
+- ![Stars](https://img.shields.io/github/stars/TLH-Deprecated-Linux-Configurations/electric-tantra-mklive?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [TLH-Deprecated-Linux-Configurations/electric-tantra-mklive](https://github.com/TLH-Deprecated-Linux-Configurations/electric-tantra-mklive) - Assembling the ISO using Void's void-mklive and some terminal magic
+- ![Stars](https://img.shields.io/github/stars/void-linux/void-containers?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [void-linux/void-containers](https://github.com/void-linux/void-containers) - OCI container images for Void Linux
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/Void-Wallpapers?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/Void-Wallpapers](https://github.com/oSoWoSo/Void-Wallpapers) - collection of wallpapers for Void linux (website will load all pictures, not for slow connections!)
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/awesome-void-linux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/awesome-void-linux](https://github.com/oSoWoSo/awesome-void-linux) - 
+- ![Stars](https://img.shields.io/github/stars/VX-Linux/main?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [VX-Linux/main](https://github.com/VX-Linux/main) - A pre-configured, secure systemd-free Plasma desktop. Based on the excellent Void Linux.
+- ![Stars](https://img.shields.io/github/stars/johna23-lab/F-Void?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [johna23-lab/F-Void](https://github.com/johna23-lab/F-Void) - Fork of Linux Void
+- ![Stars](https://img.shields.io/github/stars/gabeeOSLinux/gabeeOSLinux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [gabeeOSLinux/gabeeOSLinux](https://github.com/gabeeOSLinux/gabeeOSLinux) - The beauty of Gnome | The power of Void
+- ![Stars](https://img.shields.io/github/stars/shubham-cpp/void-pkg-templates?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [shubham-cpp/void-pkg-templates](https://github.com/shubham-cpp/void-pkg-templates) - Custom templates for several packages that could be installed using xbps-src
+- ![Stars](https://img.shields.io/github/stars/MadFlasheroo7/void-templates?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [MadFlasheroo7/void-templates](https://github.com/MadFlasheroo7/void-templates) - Templates for xbps-src
+- ![Stars](https://img.shields.io/github/stars/ibhagwan/megasync-template?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ibhagwan/megasync-template](https://github.com/ibhagwan/megasync-template) - MEGAsync xbps-src void linux template
+- ![Stars](https://img.shields.io/github/stars/ibhagwan/picom-ibhagwan-template?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ibhagwan/picom-ibhagwan-template](https://github.com/ibhagwan/picom-ibhagwan-template) - Void Linux template file for xbps-src
+- ![Stars](https://img.shields.io/github/stars/codedmart/slim-simple-void-theme?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [codedmart/slim-simple-void-theme](https://github.com/codedmart/slim-simple-void-theme) - Fancy SLiM theme for Void Linux
+- ![Stars](https://img.shields.io/github/stars/0x29aNull/DarkVoid?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [0x29aNull/DarkVoid](https://github.com/0x29aNull/DarkVoid) - 
+- ![Stars](https://img.shields.io/github/stars/opsview/ansible?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [opsview/ansible](https://github.com/opsview/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in
+- ![Stars](https://img.shields.io/github/stars/ogenfald/vps?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ogenfald/vps](https://github.com/ogenfald/vps) - A command line wrapper for Void's XBPS package manager
+- ![Stars](https://img.shields.io/github/stars/Chocimier/pkgs.void?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Chocimier/pkgs.void](https://github.com/Chocimier/pkgs.void) - Web catalog of Void Linux packages
+- ![Stars](https://img.shields.io/github/stars/jcjordyn130/vur?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jcjordyn130/vur](https://github.com/jcjordyn130/vur) - A void user repository
+- ![Stars](https://img.shields.io/github/stars/MainKt/vpm-rs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [MainKt/vpm-rs](https://github.com/MainKt/vpm-rs) - A Rust rewrite of vpm - An XBPS package management helper for Void Linux
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/VUR?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/VUR](https://github.com/oSoWoSo/VUR) - The Void source packages collection
+- ![Stars](https://img.shields.io/github/stars/Encoded14/void-extra?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Encoded14/void-extra](https://github.com/Encoded14/void-extra) - 
+- ![Stars](https://img.shields.io/github/stars/brandflake11/void-pro-audio?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [brandflake11/void-pro-audio](https://github.com/brandflake11/void-pro-audio) - Pro-audio package group/install script for Void Linux.
+- ![Stars](https://img.shields.io/github/stars/eoli3n/void-config?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [eoli3n/void-config](https://github.com/eoli3n/void-config) - Scripts and Ansible playbook to setup Void Linux on ZFS.
+- ![Stars](https://img.shields.io/github/stars/jdpedersen1/Void-Herbstluftwm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jdpedersen1/Void-Herbstluftwm](https://github.com/jdpedersen1/Void-Herbstluftwm) - My personal Void LInux Herbstluftwm setup as seen on my youtube channel Jake@Linux
+- ![Stars](https://img.shields.io/github/stars/Jipok/void-infect?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Jipok/void-infect](https://github.com/Jipok/void-infect) - Install Void linux over the existing OS on VPS
+- ![Stars](https://img.shields.io/github/stars/kkrruumm/void-install-script?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [kkrruumm/void-install-script](https://github.com/kkrruumm/void-install-script) - TUI Shell script installer for Void Linux
+- ![Stars](https://img.shields.io/github/stars/mobinmob/void-66-services?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mobinmob/void-66-services](https://github.com/mobinmob/void-66-services) - 66 service frontends for voidlinux
+- ![Stars](https://img.shields.io/github/stars/Makrennel/hyprland-void?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Makrennel/hyprland-void](https://github.com/Makrennel/hyprland-void) - Binary repositories and xbps-src templates for building and installing Hyprland on Void Linux.
+- ![Stars](https://img.shields.io/github/stars/mustard-parfait/void-kernel-builds?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mustard-parfait/void-kernel-builds](https://github.com/mustard-parfait/void-kernel-builds) - Void linux kernel builds using linux-tkg patches and void-packages template
+- ![Stars](https://img.shields.io/github/stars/freddylist/void-packages?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [freddylist/void-packages](https://github.com/freddylist/void-packages) - My void-packages fork
+- ![Stars](https://img.shields.io/github/stars/freddylist/antivoid-packages?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [freddylist/antivoid-packages](https://github.com/freddylist/antivoid-packages) - Collection of templates that should not be in the official xbps repositories.
+- ![Stars](https://img.shields.io/github/stars/Le0xFF/VoidLinuxInstaller?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Le0xFF/VoidLinuxInstaller](https://github.com/Le0xFF/VoidLinuxInstaller) - A bash script to install Void Linux with optional LUKS encryption, optional LVM, btrfs filesystem and optional swap as file.
+- ![Stars](https://img.shields.io/github/stars/CereusLinuxProject/cereus-pkgs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [CereusLinuxProject/cereus-pkgs](https://github.com/CereusLinuxProject/cereus-pkgs) - The Cereus Linux source packages collection, based on void-packages (MIRROR ONLY).
+- ![Stars](https://img.shields.io/github/stars/void-builds/void-mklive?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [void-builds/void-mklive](https://github.com/void-builds/void-mklive) - The Void Linux live image maker
+- ![Stars](https://img.shields.io/github/stars/DAINRA/ungoogled-chromium-void?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [DAINRA/ungoogled-chromium-void](https://github.com/DAINRA/ungoogled-chromium-void) - Ungoogled Chromium template and builds for Void Linux
+- ![Stars](https://img.shields.io/github/stars/void-linux/void-updates?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [void-linux/void-updates](https://github.com/void-linux/void-updates) - Update check system for void-packages
+- ![Stars](https://img.shields.io/github/stars/Piraty/xxtools?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Piraty/xxtools](https://github.com/Piraty/xxtools) - Tools to ease packaging tasks for Void Linux
+- ![Stars](https://img.shields.io/github/stars/jjsullivan5196/void-packages?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jjsullivan5196/void-packages](https://github.com/jjsullivan5196/void-packages) - The Void source packages collection
+- ![Stars](https://img.shields.io/github/stars/zakariaGatter/bsv?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zakariaGatter/bsv](https://github.com/zakariaGatter/bsv) - Void Linx Server manager in pure bash
+- ![Stars](https://img.shields.io/github/stars/ernierasta/xb?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ernierasta/xb](https://github.com/ernierasta/xb) - VoidLinux XBPS primitive wrapper with bash-completion
+- ![Stars](https://img.shields.io/github/stars/moravec2/vd-pkgtool?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [moravec2/vd-pkgtool](https://github.com/moravec2/vd-pkgtool) - Gui for some Void Linux package (xbps) commands
+- ![Stars](https://img.shields.io/github/stars/ymir-linux/void-packages?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ymir-linux/void-packages](https://github.com/ymir-linux/void-packages) - The Void source libre packages collection
+- ![Stars](https://img.shields.io/github/stars/jcgruenhage/void-packages?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jcgruenhage/void-packages](https://github.com/jcgruenhage/void-packages) - The Void source packages collection
+- ![Stars](https://img.shields.io/github/stars/kotoko/voidlinux-iso-extra?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [kotoko/voidlinux-iso-extra](https://github.com/kotoko/voidlinux-iso-extra) - Void (Linux) installation ISO with additional programs
+- ![Stars](https://img.shields.io/github/stars/void-linux/void-mklive?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [void-linux/void-mklive](https://github.com/void-linux/void-mklive) - The Void Linux live image maker
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/Void-In-Termux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/Void-In-Termux](https://github.com/oSoWoSo/Void-In-Termux) - This intends to allow a proot from Termux to Void Linux rootfs.
+- ![Stars](https://img.shields.io/github/stars/123randomuser321/123randomuser321_void_templates?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [123randomuser321/123randomuser321_void_templates](https://github.com/123randomuser321/123randomuser321_void_templates) - All xbps templates I created are gathered here
+- ![Stars](https://img.shields.io/github/stars/addy-dclxvi/paintmybox?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [addy-dclxvi/paintmybox](https://github.com/addy-dclxvi/paintmybox) - My Void Linux Openbox dotfiles. It loads random theme & wallpaper then unify the window decorator, panel, terminal, startmenu, notifications, OSD popup, and desktop menu.
+- ![Stars](https://img.shields.io/github/stars/Lolzen/void-live-customizer?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
+- ![Stars](https://img.shields.io/github/stars/not-void/nvoid?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [not-void/nvoid](https://github.com/not-void/nvoid) - alternative xbps-src repo
+- ![Stars](https://img.shields.io/github/stars/emacsomancer/vpnd?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [emacsomancer/vpnd](https://github.com/emacsomancer/vpnd) - Void Package Notifier Daemon
+- ![Stars](https://img.shields.io/github/stars/dcloud-ca/voidLuksSetup?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dcloud-ca/voidLuksSetup](https://github.com/dcloud-ca/voidLuksSetup) - Bash script for installing Void Linux with disk encryption
+- ![Stars](https://img.shields.io/github/stars/xdeb-org/xdeb?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [xdeb-org/xdeb](https://github.com/xdeb-org/xdeb) - XDEB - Convert deb (Debian) packages to xbps (Void Linux)
+- ![Stars](https://img.shields.io/github/stars/silvernode/voidbuilds?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [silvernode/voidbuilds](https://github.com/silvernode/voidbuilds) - Scripts and package lists used to build image files on voidbuilds.xyz
+- ![Stars](https://img.shields.io/github/stars/rabbitinspace/abyss?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [rabbitinspace/abyss](https://github.com/rabbitinspace/abyss) - Another Void Linux bootstrap for UEFI systems written in Fish.
+- ![Stars](https://img.shields.io/github/stars/taichifan/Void-In-Termux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [taichifan/Void-In-Termux](https://github.com/taichifan/Void-In-Termux) - This intends to allow a proot from Termux to Void Linux rootfs.
+- ![Stars](https://img.shields.io/github/stars/leahneukirchen/hrmpf?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [leahneukirchen/hrmpf](https://github.com/leahneukirchen/hrmpf) - hrmpf rescue system, built on Void Linux
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/passthrough_helper_void?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/passthrough_helper_void](https://github.com/oSoWoSo/passthrough_helper_void) - GPU passthrough helper
+- ![Stars](https://img.shields.io/github/stars/void-linux/void-packages?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [void-linux/void-packages](https://github.com/void-linux/void-packages) - The Void source packages collection
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/voidlinux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/voidlinux](https://github.com/oSoWoSo/voidlinux) - VOID linux post install script after base install
+- ![Stars](https://img.shields.io/github/stars/sineto/vpsm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sineto/vpsm](https://github.com/sineto/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
+- ![Stars](https://img.shields.io/github/stars/bahamas10/vpm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bahamas10/vpm](https://github.com/bahamas10/vpm) - vpm - An XBPS package management helper for VoidLinux
 
 ## Contents
 
@@ -131,1101 +131,1107 @@
 
 ## Adblock Filter List 
 
-- [tomasko126/easylistczechandslovak](https://github.com/tomasko126/easylistczechandslovak) - EasyList Czech and Slovak is an official filter list for uBlock Origin, AdBlock, Adblock Plus and other ad blockers out there.
+- ![Stars](https://img.shields.io/github/stars/tomasko126/easylistczechandslovak?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tomasko126/easylistczechandslovak](https://github.com/tomasko126/easylistczechandslovak) - EasyList Czech and Slovak is an official filter list for uBlock Origin, AdBlock, Adblock Plus and other ad blockers out there.
 
 ## Assembly 
 
-- [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
+- ![Stars](https://img.shields.io/github/stars/BLAKE3-team/BLAKE3?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 
 ## Awk 
 
-- [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+- ![Stars](https://img.shields.io/github/stars/soimort/translate-shell?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 
 ## Batchfile 
 
-- [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
-- [bmrf/tron](https://github.com/bmrf/tron) - Tron
-- [nguyentumine/AIO-Boot](https://github.com/nguyentumine/AIO-Boot) - AIO Boot is an All-in-One bootable software for USB and HDD. Is one of the best Multiboot USB Creator for Windows.
+- ![Stars](https://img.shields.io/github/stars/realpython/python-guide?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
+- ![Stars](https://img.shields.io/github/stars/bmrf/tron?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bmrf/tron](https://github.com/bmrf/tron) - Tron
+- ![Stars](https://img.shields.io/github/stars/nguyentumine/AIO-Boot?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nguyentumine/AIO-Boot](https://github.com/nguyentumine/AIO-Boot) - AIO Boot is an All-in-One bootable software for USB and HDD. Is one of the best Multiboot USB Creator for Windows.
 
 ## BitBake 
 
-- [webOS-ports/meta-pine64-luneos](https://github.com/webOS-ports/meta-pine64-luneos) - 
-- [sailfish-on-dontbeevil/kernel-adaptation-pinephonepro](https://github.com/sailfish-on-dontbeevil/kernel-adaptation-pinephonepro) - Packaging repository for the pinephone pro kernel
+- ![Stars](https://img.shields.io/github/stars/webOS-ports/meta-pine64-luneos?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [webOS-ports/meta-pine64-luneos](https://github.com/webOS-ports/meta-pine64-luneos) - 
+- ![Stars](https://img.shields.io/github/stars/sailfish-on-dontbeevil/kernel-adaptation-pinephonepro?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sailfish-on-dontbeevil/kernel-adaptation-pinephonepro](https://github.com/sailfish-on-dontbeevil/kernel-adaptation-pinephonepro) - Packaging repository for the pinephone pro kernel
 
 ## C 
 
-- [cyprienbf/v](https://github.com/cyprienbf/v) - Simple Command-Line Helper for Void Linux
-- [leahneukirchen/nitro](https://github.com/leahneukirchen/nitro) - tiny but flexible init system and process supervisor
-- [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
-- [OpenSourceEcology/3D-Printer-OSE-Marlin](https://github.com/OpenSourceEcology/3D-Printer-OSE-Marlin) - Working files for the OSE 3D Printing ecosystem.
-- [labwc/labwc-menu-generator](https://github.com/labwc/labwc-menu-generator) - 
-- [nemuTUI/nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU
-- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
-- [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages 📚
-- [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
-- [cfoust/cy](https://github.com/cfoust/cy) - 🤖 time travel in the terminal
-- [AppImage/appimagetool](https://github.com/AppImage/appimagetool) - A low-level tool to generate an AppImage from an existing AppDir
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
-- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
-- [index-0/librewolf-void](https://github.com/index-0/librewolf-void) - librewolf package for void (xbps)
-- [vmonaco/kloak](https://github.com/vmonaco/kloak) - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level.
-- [biopsin/voidpkg](https://github.com/biopsin/voidpkg) - Unoffical and custom void templates
-- [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland - ARCHIVE: development has moved to Codeberg
-- [anthraxx/linux-hardened](https://github.com/anthraxx/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
-- [geany/geany](https://github.com/geany/geany) - A fast and lightweight IDE
-- [zmanda/amanda](https://github.com/zmanda/amanda) - Amanda Network Backup
-- [SynoCommunity/spksrc](https://github.com/SynoCommunity/spksrc) - Cross compilation framework to create native packages for the Synology's NAS
-- [celluloid-player/celluloid](https://github.com/celluloid-player/celluloid) - A simple GTK+ frontend for mpv
-- [void-linux/runit](https://github.com/void-linux/runit) - The init system for Void Linux.
-- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [3dsimo/3dsimo_kit](https://github.com/3dsimo/3dsimo_kit) - 
-- [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
-- [zen-tools/gxkb](https://github.com/zen-tools/gxkb) - 🇺🇦 🇵🇱 🇱🇹 🇪🇪 X11 keyboard indicator and switcher
-- [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
-- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
-- [ODEX-TOS/linux](https://github.com/ODEX-TOS/linux) - Fork of the arch linux kernel made for tos
-- [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
-- [dabisu/sakura](https://github.com/dabisu/sakura) - GTK/VTE based terminal emulator
-- [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
-- [faenrir/void-extras](https://github.com/faenrir/void-extras) - extra packages for void linux/xbps-src
-- [jitessh/voidwm](https://github.com/jitessh/voidwm) - voidwm • sanely patched dwm
-- [mmhobi7/xwinwrap](https://github.com/mmhobi7/xwinwrap) - X11 Window in desktop enviroment background
-- [glouw/paperview](https://github.com/glouw/paperview) - A high performance X11 animated wallpaper setter
-- [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
-- [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
-- [19742bytes/roonit](https://github.com/19742bytes/roonit) - "roonit" is a simple tool for enabling and disabling services in runit (Void Linux). Pronounced as "Rune-It" or "Ruined-It".
-- [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
-- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
-- [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) - An open-source port of the scrolling shooter Tyrian.
-- [bedrocklinux/bedrocklinux-userland](https://github.com/bedrocklinux/bedrocklinux-userland) - This tracks development for the things such as scripts and (defaults for) config files for Bedrock Linux
-- [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
-- [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [geany/geany-plugins](https://github.com/geany/geany-plugins) - The combined Geany Plugins collection
-- [DeaDBeeF-Player/deadbeef](https://github.com/DeaDBeeF-Player/deadbeef) - DeaDBeeF Player
-- [void-linux/xbps](https://github.com/void-linux/xbps) - The X Binary Package System (XBPS)
-- [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
-- [intel/gvt-linux](https://github.com/intel/gvt-linux) - 
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [omnirom/android_bootable_recovery](https://github.com/omnirom/android_bootable_recovery) - 
-- [jgmenu/jgmenu](https://github.com/jgmenu/jgmenu) - An X11 menu
-- [IgnorantGuru/spacefm](https://github.com/IgnorantGuru/spacefm) - SpaceFM File Manager
-- [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
-- [Mikachu/openbox](https://github.com/Mikachu/openbox) - mirror of the openbox repo
-- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
-- [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
-- [danakj/openbox](https://github.com/danakj/openbox) - Openbox Window Manager (OpenboxWM)
-- [joewing/jwm](https://github.com/joewing/jwm) - Joe's Window Manager
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
-- [Arkensor/DayZCommunityOfflineMode](https://github.com/Arkensor/DayZCommunityOfflineMode) - A community made offline mod for DayZ Standalone
-- [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+- ![Stars](https://img.shields.io/github/stars/cyprienbf/v?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [cyprienbf/v](https://github.com/cyprienbf/v) - Simple Command-Line Helper for Void Linux
+- ![Stars](https://img.shields.io/github/stars/leahneukirchen/nitro?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [leahneukirchen/nitro](https://github.com/leahneukirchen/nitro) - tiny but flexible init system and process supervisor
+- ![Stars](https://img.shields.io/github/stars/X11Libre/xserver?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
+- ![Stars](https://img.shields.io/github/stars/OpenSourceEcology/3D-Printer-OSE-Marlin?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [OpenSourceEcology/3D-Printer-OSE-Marlin](https://github.com/OpenSourceEcology/3D-Printer-OSE-Marlin) - Working files for the OSE 3D Printing ecosystem.
+- ![Stars](https://img.shields.io/github/stars/labwc/labwc-menu-generator?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [labwc/labwc-menu-generator](https://github.com/labwc/labwc-menu-generator) - 
+- ![Stars](https://img.shields.io/github/stars/nemuTUI/nemu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nemuTUI/nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU
+- ![Stars](https://img.shields.io/github/stars/TryQuiet/quiet?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
+- ![Stars](https://img.shields.io/github/stars/tldr-pages/tldr-c-client?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages 📚
+- ![Stars](https://img.shields.io/github/stars/labwc/labwc?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
+- ![Stars](https://img.shields.io/github/stars/cfoust/cy?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [cfoust/cy](https://github.com/cfoust/cy) - 🤖 time travel in the terminal
+- ![Stars](https://img.shields.io/github/stars/AppImage/appimagetool?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AppImage/appimagetool](https://github.com/AppImage/appimagetool) - A low-level tool to generate an AppImage from an existing AppDir
+- ![Stars](https://img.shields.io/github/stars/qemu/qemu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- ![Stars](https://img.shields.io/github/stars/containers/bubblewrap?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
+- ![Stars](https://img.shields.io/github/stars/index-0/librewolf-void?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [index-0/librewolf-void](https://github.com/index-0/librewolf-void) - librewolf package for void (xbps)
+- ![Stars](https://img.shields.io/github/stars/vmonaco/kloak?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [vmonaco/kloak](https://github.com/vmonaco/kloak) - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level.
+- ![Stars](https://img.shields.io/github/stars/biopsin/voidpkg?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [biopsin/voidpkg](https://github.com/biopsin/voidpkg) - Unoffical and custom void templates
+- ![Stars](https://img.shields.io/github/stars/djpohly/dwl?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland - ARCHIVE: development has moved to Codeberg
+- ![Stars](https://img.shields.io/github/stars/anthraxx/linux-hardened?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [anthraxx/linux-hardened](https://github.com/anthraxx/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
+- ![Stars](https://img.shields.io/github/stars/geany/geany?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [geany/geany](https://github.com/geany/geany) - A fast and lightweight IDE
+- ![Stars](https://img.shields.io/github/stars/zmanda/amanda?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zmanda/amanda](https://github.com/zmanda/amanda) - Amanda Network Backup
+- ![Stars](https://img.shields.io/github/stars/SynoCommunity/spksrc?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [SynoCommunity/spksrc](https://github.com/SynoCommunity/spksrc) - Cross compilation framework to create native packages for the Synology's NAS
+- ![Stars](https://img.shields.io/github/stars/celluloid-player/celluloid?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [celluloid-player/celluloid](https://github.com/celluloid-player/celluloid) - A simple GTK+ frontend for mpv
+- ![Stars](https://img.shields.io/github/stars/void-linux/runit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [void-linux/runit](https://github.com/void-linux/runit) - The init system for Void Linux.
+- ![Stars](https://img.shields.io/github/stars/swaywm/sway?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+- ![Stars](https://img.shields.io/github/stars/3dsimo/3dsimo_kit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [3dsimo/3dsimo_kit](https://github.com/3dsimo/3dsimo_kit) - 
+- ![Stars](https://img.shields.io/github/stars/siduck/chadwm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
+- ![Stars](https://img.shields.io/github/stars/zen-tools/gxkb?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zen-tools/gxkb](https://github.com/zen-tools/gxkb) - 🇺🇦 🇵🇱 🇱🇹 🇪🇪 X11 keyboard indicator and switcher
+- ![Stars](https://img.shields.io/github/stars/Ralim/IronOS?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
+- ![Stars](https://img.shields.io/github/stars/debauchee/barrier?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
+- ![Stars](https://img.shields.io/github/stars/mobile-nixos/mobile-nixos?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
+- ![Stars](https://img.shields.io/github/stars/ODEX-TOS/linux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ODEX-TOS/linux](https://github.com/ODEX-TOS/linux) - Fork of the arch linux kernel made for tos
+- ![Stars](https://img.shields.io/github/stars/v1cont/yad?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
+- ![Stars](https://img.shields.io/github/stars/dabisu/sakura?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dabisu/sakura](https://github.com/dabisu/sakura) - GTK/VTE based terminal emulator
+- ![Stars](https://img.shields.io/github/stars/tianocore/edk2?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
+- ![Stars](https://img.shields.io/github/stars/faenrir/void-extras?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [faenrir/void-extras](https://github.com/faenrir/void-extras) - extra packages for void linux/xbps-src
+- ![Stars](https://img.shields.io/github/stars/jitessh/voidwm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jitessh/voidwm](https://github.com/jitessh/voidwm) - voidwm • sanely patched dwm
+- ![Stars](https://img.shields.io/github/stars/mmhobi7/xwinwrap?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mmhobi7/xwinwrap](https://github.com/mmhobi7/xwinwrap) - X11 Window in desktop enviroment background
+- ![Stars](https://img.shields.io/github/stars/glouw/paperview?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [glouw/paperview](https://github.com/glouw/paperview) - A high performance X11 animated wallpaper setter
+- ![Stars](https://img.shields.io/github/stars/ptitSeb/box86?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
+- ![Stars](https://img.shields.io/github/stars/ptitSeb/box64?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
+- ![Stars](https://img.shields.io/github/stars/19742bytes/roonit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [19742bytes/roonit](https://github.com/19742bytes/roonit) - "roonit" is a simple tool for enabling and disabling services in runit (Void Linux). Pronounced as "Rune-It" or "Ruined-It".
+- ![Stars](https://img.shields.io/github/stars/s-matyukevich/raspberry-pi-os?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
+- ![Stars](https://img.shields.io/github/stars/sandboxie-plus/Sandboxie?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
+- ![Stars](https://img.shields.io/github/stars/opentyrian/opentyrian?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) - An open-source port of the scrolling shooter Tyrian.
+- ![Stars](https://img.shields.io/github/stars/bedrocklinux/bedrocklinux-userland?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bedrocklinux/bedrocklinux-userland](https://github.com/bedrocklinux/bedrocklinux-userland) - This tracks development for the things such as scripts and (defaults for) config files for Bedrock Linux
+- ![Stars](https://img.shields.io/github/stars/davatorium/rofi?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
+- ![Stars](https://img.shields.io/github/stars/maharmstone/btrfs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
+- ![Stars](https://img.shields.io/github/stars/ventoy/Ventoy?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+- ![Stars](https://img.shields.io/github/stars/geany/geany-plugins?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [geany/geany-plugins](https://github.com/geany/geany-plugins) - The combined Geany Plugins collection
+- ![Stars](https://img.shields.io/github/stars/DeaDBeeF-Player/deadbeef?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [DeaDBeeF-Player/deadbeef](https://github.com/DeaDBeeF-Player/deadbeef) - DeaDBeeF Player
+- ![Stars](https://img.shields.io/github/stars/void-linux/xbps?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [void-linux/xbps](https://github.com/void-linux/xbps) - The X Binary Package System (XBPS)
+- ![Stars](https://img.shields.io/github/stars/ipxe/ipxe?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
+- ![Stars](https://img.shields.io/github/stars/intel/gvt-linux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [intel/gvt-linux](https://github.com/intel/gvt-linux) - 
+- ![Stars](https://img.shields.io/github/stars/Genymobile/scrcpy?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- ![Stars](https://img.shields.io/github/stars/omnirom/android_bootable_recovery?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [omnirom/android_bootable_recovery](https://github.com/omnirom/android_bootable_recovery) - 
+- ![Stars](https://img.shields.io/github/stars/jgmenu/jgmenu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jgmenu/jgmenu](https://github.com/jgmenu/jgmenu) - An X11 menu
+- ![Stars](https://img.shields.io/github/stars/IgnorantGuru/spacefm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [IgnorantGuru/spacefm](https://github.com/IgnorantGuru/spacefm) - SpaceFM File Manager
+- ![Stars](https://img.shields.io/github/stars/gnif/LookingGlass?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
+- ![Stars](https://img.shields.io/github/stars/Mikachu/openbox?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Mikachu/openbox](https://github.com/Mikachu/openbox) - mirror of the openbox repo
+- ![Stars](https://img.shields.io/github/stars/flightlessmango/MangoHud?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+- ![Stars](https://img.shields.io/github/stars/abishekvashok/cmatrix?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
+- ![Stars](https://img.shields.io/github/stars/danakj/openbox?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [danakj/openbox](https://github.com/danakj/openbox) - Openbox Window Manager (OpenboxWM)
+- ![Stars](https://img.shields.io/github/stars/joewing/jwm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [joewing/jwm](https://github.com/joewing/jwm) - Joe's Window Manager
+- ![Stars](https://img.shields.io/github/stars/mpv-player/mpv?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+- ![Stars](https://img.shields.io/github/stars/Arkensor/DayZCommunityOfflineMode?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Arkensor/DayZCommunityOfflineMode](https://github.com/Arkensor/DayZCommunityOfflineMode) - A community made offline mod for DayZ Standalone
+- ![Stars](https://img.shields.io/github/stars/pbatard/rufus?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 
 ## C# # 
 
-- [EUHunterTools/EU-Hunter-Tools](https://github.com/EUHunterTools/EU-Hunter-Tools) - 
-- [futo-org/Grayjay.Desktop](https://github.com/futo-org/Grayjay.Desktop) - Read-only mirror of Grayjay.Desktop repo for issue tracking
-- [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) - Android client for the Soulseek peer-to-peer network
-- [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
-- [atauenis/webone](https://github.com/atauenis/webone) - HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world.
-- [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
-- [JonasNilson/idle_master_extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
-- [Sleepydragn1/Disable-Nvidia-Telemetry](https://github.com/Sleepydragn1/Disable-Nvidia-Telemetry) - Windows utility to disable Nvidia's telemetry services
-- [ElPumpo/TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - GeForce Experience sucks, this is the best open sourced AND lightweight NVIDIA GPU update checker.
-- [Wohlstand/Destroy-Windows-10-Spying](https://github.com/Wohlstand/Destroy-Windows-10-Spying) - !!!UNMAINTAINED!!! Destroy Windows Spying tool
-- [DavidXanatos/priv10](https://github.com/DavidXanatos/priv10) - Privacy tool for windows with a built in firewall
-- [DavidXanatos/wumgr](https://github.com/DavidXanatos/wumgr) - Windows update managemetn tool for windows 10
-- [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
-- [TorchAPI/Torch](https://github.com/TorchAPI/Torch) - An extensible modding framework and improved client/DS for Space Engineers. Still a work in progress!
-- [AusTac/tadst](https://github.com/AusTac/tadst) - Dedicated Server Launcher for Arma
+- ![Stars](https://img.shields.io/github/stars/EUHunterTools/EU-Hunter-Tools?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [EUHunterTools/EU-Hunter-Tools](https://github.com/EUHunterTools/EU-Hunter-Tools) - 
+- ![Stars](https://img.shields.io/github/stars/futo-org/Grayjay.Desktop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [futo-org/Grayjay.Desktop](https://github.com/futo-org/Grayjay.Desktop) - Read-only mirror of Grayjay.Desktop repo for issue tracking
+- ![Stars](https://img.shields.io/github/stars/jackBonadies/SeekerAndroid?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) - Android client for the Soulseek peer-to-peer network
+- ![Stars](https://img.shields.io/github/stars/Radarr/Radarr?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
+- ![Stars](https://img.shields.io/github/stars/atauenis/webone?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [atauenis/webone](https://github.com/atauenis/webone) - HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world.
+- ![Stars](https://img.shields.io/github/stars/JosefNemec/Playnite?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+- ![Stars](https://img.shields.io/github/stars/JonasNilson/idle_master_extended?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [JonasNilson/idle_master_extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
+- ![Stars](https://img.shields.io/github/stars/Sleepydragn1/Disable-Nvidia-Telemetry?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Sleepydragn1/Disable-Nvidia-Telemetry](https://github.com/Sleepydragn1/Disable-Nvidia-Telemetry) - Windows utility to disable Nvidia's telemetry services
+- ![Stars](https://img.shields.io/github/stars/ElPumpo/TinyNvidiaUpdateChecker?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ElPumpo/TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - GeForce Experience sucks, this is the best open sourced AND lightweight NVIDIA GPU update checker.
+- ![Stars](https://img.shields.io/github/stars/Wohlstand/Destroy-Windows-10-Spying?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Wohlstand/Destroy-Windows-10-Spying](https://github.com/Wohlstand/Destroy-Windows-10-Spying) - !!!UNMAINTAINED!!! Destroy Windows Spying tool
+- ![Stars](https://img.shields.io/github/stars/DavidXanatos/priv10?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [DavidXanatos/priv10](https://github.com/DavidXanatos/priv10) - Privacy tool for windows with a built in firewall
+- ![Stars](https://img.shields.io/github/stars/DavidXanatos/wumgr?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [DavidXanatos/wumgr](https://github.com/DavidXanatos/wumgr) - Windows update managemetn tool for windows 10
+- ![Stars](https://img.shields.io/github/stars/cairoshell/cairoshell?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
+- ![Stars](https://img.shields.io/github/stars/TorchAPI/Torch?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [TorchAPI/Torch](https://github.com/TorchAPI/Torch) - An extensible modding framework and improved client/DS for Space Engineers. Still a work in progress!
+- ![Stars](https://img.shields.io/github/stars/AusTac/tadst?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AusTac/tadst](https://github.com/AusTac/tadst) - Dedicated Server Launcher for Arma
 
 ## C++ 
 
-- [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
-- [Faster3ck/Converseen](https://github.com/Faster3ck/Converseen) - Converseen is a batch image converter and resizer
-- [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
-- [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
-- [enkore/j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
-- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers
-- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-- [mkiol/dsnote](https://github.com/mkiol/dsnote) - Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.
-- [thermitegod/ztd](https://github.com/thermitegod/ztd) - 
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [duncanthrax/scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
-- [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
-- [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
-- [jlobue10/SteamDeck_rEFInd](https://github.com/jlobue10/SteamDeck_rEFInd) - Simple rEFInd install script for the Steam Deck (with GUI customization)
-- [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
-- [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
-- [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
-- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
-- [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
-- [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
-- [textbrowser/dooble](https://github.com/textbrowser/dooble) - Dooble is a scientific browser. Minimal, cute, unusually stable, and available almost everyware. Completed?
-- [genodelabs/genode](https://github.com/genodelabs/genode) - Genode OS Framework
-- [genodelabs/genodians.org](https://github.com/genodelabs/genodians.org) - Website for stories around the Genode operating system
-- [rodlie/qtfm](https://github.com/rodlie/qtfm) - Qt File Manager
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
-- [Code7R/icewm](https://github.com/Code7R/icewm) - A window manager designed for speed, usability, and consistency
-- [thermitegod/spacefm](https://github.com/thermitegod/spacefm) - SpaceFM File Manager
-- [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
-- [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
-- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-- [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
-- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [ThirteenAG/Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) - The Ultimate ASI Loader is a proxy DLL that loads custom .asi libraries into any game process.
-- [djfdyuruiry/cnc-td-nco-mod](https://github.com/djfdyuruiry/cnc-td-nco-mod) - New Construction Options Mod for C&C Remastered - Tiberian Dawn
-- [ubports-mido/ubports_device_xiaomi_mido](https://github.com/ubports-mido/ubports_device_xiaomi_mido) - Ported from ubports-santoni (clone to device/xiaomi/mido)
-- [Sude-/lgogdownloader](https://github.com/Sude-/lgogdownloader) - LGOGDownloader is unofficial downloader to GOG.com for Linux users. It uses the same API as the official GOG Galaxy.
-- [panzi/qjoypad](https://github.com/panzi/qjoypad) - fork of qjoypad http://qjoypad.sourceforge.net/
-- [project-trident/qsudo](https://github.com/project-trident/qsudo) - 
-- [aarnt/octoxbps](https://github.com/aarnt/octoxbps) - A Qt-based XBPS front end
-- [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
-- [lxqt/qterminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator
-- [lxqt/lxqt-config](https://github.com/lxqt/lxqt-config) - Tools to configure LXQt and the underlying operating system
-- [lxqt/lxqt-sudo](https://github.com/lxqt/lxqt-sudo) - GUI frontend for sudo/su
-- [lxqt/lxqt-admin](https://github.com/lxqt/lxqt-admin) - LXQt system administration tool
-- [lxqt/obconf-qt](https://github.com/lxqt/obconf-qt) - The Qt port of obconf, the Openbox configuration tool
-- [lxqt/pcmanfm-qt](https://github.com/lxqt/pcmanfm-qt) - File manager and desktop icon manager (Qt port of PCManFM and libfm)
-- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
-- [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
-- [DadSchoorse/vkBasalt](https://github.com/DadSchoorse/vkBasalt) - a vulkan post processing layer for linux
-- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [brezerk/q4wine](https://github.com/brezerk/q4wine) - Q4Wine is a Qt GUI for W.I.N.E. It will help you manage wine prefixes and installed applications.
-- [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
-- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
-- [audiorouterdev/audio-router](https://github.com/audiorouterdev/audio-router) - Routes audio from programs to different audio devices.
-- [deathlyrage/breakingpointmod](https://github.com/deathlyrage/breakingpointmod) - Breaking Point Mod ( Core Client / Server Code + Assets )
-- [EpochModTeam/DayZ-Epoch](https://github.com/EpochModTeam/DayZ-Epoch) - Experimental DayZ Mod for Arma 2
-- [DayZMod/DayZ](https://github.com/DayZMod/DayZ) - DayZMod Public Files
-- [BitlDevelopmentStudios/survivor-source-sdk-2013-master](https://github.com/BitlDevelopmentStudios/survivor-source-sdk-2013-master) - Source code for the SURVIVOR mod
+- ![Stars](https://img.shields.io/github/stars/throneproj/Throne?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
+- ![Stars](https://img.shields.io/github/stars/Faster3ck/Converseen?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Faster3ck/Converseen](https://github.com/Faster3ck/Converseen) - Converseen is a batch image converter and resizer
+- ![Stars](https://img.shields.io/github/stars/directvt/vtm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
+- ![Stars](https://img.shields.io/github/stars/mkckr0/audio-share?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
+- ![Stars](https://img.shields.io/github/stars/enkore/j4-dmenu-desktop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [enkore/j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
+- ![Stars](https://img.shields.io/github/stars/organicmaps/organicmaps?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
+- ![Stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+- ![Stars](https://img.shields.io/github/stars/uowuo/abaddon?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
+- ![Stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+- ![Stars](https://img.shields.io/github/stars/bambulab/BambuStudio?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab and other 3D printers
+- ![Stars](https://img.shields.io/github/stars/barry-ran/QtScrcpy?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+- ![Stars](https://img.shields.io/github/stars/hyprwm/Hyprland?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- ![Stars](https://img.shields.io/github/stars/mkiol/dsnote?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mkiol/dsnote](https://github.com/mkiol/dsnote) - Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.
+- ![Stars](https://img.shields.io/github/stars/thermitegod/ztd?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [thermitegod/ztd](https://github.com/thermitegod/ztd) - 
+- ![Stars](https://img.shields.io/github/stars/qbittorrent/qBittorrent?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+- ![Stars](https://img.shields.io/github/stars/duncanthrax/scream?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [duncanthrax/scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
+- ![Stars](https://img.shields.io/github/stars/Benjamin-Dobell/Heimdall?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
+- ![Stars](https://img.shields.io/github/stars/MaartenBaert/ssr?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
+- ![Stars](https://img.shields.io/github/stars/jlobue10/SteamDeck_rEFInd?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jlobue10/SteamDeck_rEFInd](https://github.com/jlobue10/SteamDeck_rEFInd) - Simple rEFInd install script for the Steam Deck (with GUI customization)
+- ![Stars](https://img.shields.io/github/stars/prusa3d/PrusaSlicer?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
+- ![Stars](https://img.shields.io/github/stars/crow-translate/crow-translate?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
+- ![Stars](https://img.shields.io/github/stars/acaudwell/Gource?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
+- ![Stars](https://img.shields.io/github/stars/TheAssassin/AppImageLauncher?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
+- ![Stars](https://img.shields.io/github/stars/vcmi/vcmi?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
+- ![Stars](https://img.shields.io/github/stars/Nitrux/maui-shell?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Nitrux/maui-shell](https://github.com/Nitrux/maui-shell) - Maui Shell is a convergent shell for desktops, tablets, and phones.
+- ![Stars](https://img.shields.io/github/stars/textbrowser/dooble?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [textbrowser/dooble](https://github.com/textbrowser/dooble) - Dooble is a scientific browser. Minimal, cute, unusually stable, and available almost everyware. Completed?
+- ![Stars](https://img.shields.io/github/stars/genodelabs/genode?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [genodelabs/genode](https://github.com/genodelabs/genode) - Genode OS Framework
+- ![Stars](https://img.shields.io/github/stars/genodelabs/genodians.org?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [genodelabs/genodians.org](https://github.com/genodelabs/genodians.org) - Website for stories around the Genode operating system
+- ![Stars](https://img.shields.io/github/stars/rodlie/qtfm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [rodlie/qtfm](https://github.com/rodlie/qtfm) - Qt File Manager
+- ![Stars](https://img.shields.io/github/stars/aristocratos/btop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- ![Stars](https://img.shields.io/github/stars/Nheko-Reborn/nheko?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
+- ![Stars](https://img.shields.io/github/stars/Code7R/icewm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Code7R/icewm](https://github.com/Code7R/icewm) - A window manager designed for speed, usability, and consistency
+- ![Stars](https://img.shields.io/github/stars/thermitegod/spacefm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [thermitegod/spacefm](https://github.com/thermitegod/spacefm) - SpaceFM File Manager
+- ![Stars](https://img.shields.io/github/stars/albertlauncher/albert?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
+- ![Stars](https://img.shields.io/github/stars/clementine-player/Clementine?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
+- ![Stars](https://img.shields.io/github/stars/zerotier/ZeroTierOne?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+- ![Stars](https://img.shields.io/github/stars/WayfireWM/wayfire?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
+- ![Stars](https://img.shields.io/github/stars/godotengine/godot?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+- ![Stars](https://img.shields.io/github/stars/ThirteenAG/Ultimate-ASI-Loader?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ThirteenAG/Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) - The Ultimate ASI Loader is a proxy DLL that loads custom .asi libraries into any game process.
+- ![Stars](https://img.shields.io/github/stars/djfdyuruiry/cnc-td-nco-mod?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [djfdyuruiry/cnc-td-nco-mod](https://github.com/djfdyuruiry/cnc-td-nco-mod) - New Construction Options Mod for C&C Remastered - Tiberian Dawn
+- ![Stars](https://img.shields.io/github/stars/ubports-mido/ubports_device_xiaomi_mido?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ubports-mido/ubports_device_xiaomi_mido](https://github.com/ubports-mido/ubports_device_xiaomi_mido) - Ported from ubports-santoni (clone to device/xiaomi/mido)
+- ![Stars](https://img.shields.io/github/stars/Sude-/lgogdownloader?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Sude-/lgogdownloader](https://github.com/Sude-/lgogdownloader) - LGOGDownloader is unofficial downloader to GOG.com for Linux users. It uses the same API as the official GOG Galaxy.
+- ![Stars](https://img.shields.io/github/stars/panzi/qjoypad?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [panzi/qjoypad](https://github.com/panzi/qjoypad) - fork of qjoypad http://qjoypad.sourceforge.net/
+- ![Stars](https://img.shields.io/github/stars/project-trident/qsudo?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [project-trident/qsudo](https://github.com/project-trident/qsudo) - 
+- ![Stars](https://img.shields.io/github/stars/aarnt/octoxbps?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [aarnt/octoxbps](https://github.com/aarnt/octoxbps) - A Qt-based XBPS front end
+- ![Stars](https://img.shields.io/github/stars/calamares/calamares?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
+- ![Stars](https://img.shields.io/github/stars/lxqt/qterminal?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lxqt/qterminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator
+- ![Stars](https://img.shields.io/github/stars/lxqt/lxqt-config?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lxqt/lxqt-config](https://github.com/lxqt/lxqt-config) - Tools to configure LXQt and the underlying operating system
+- ![Stars](https://img.shields.io/github/stars/lxqt/lxqt-sudo?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lxqt/lxqt-sudo](https://github.com/lxqt/lxqt-sudo) - GUI frontend for sudo/su
+- ![Stars](https://img.shields.io/github/stars/lxqt/lxqt-admin?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lxqt/lxqt-admin](https://github.com/lxqt/lxqt-admin) - LXQt system administration tool
+- ![Stars](https://img.shields.io/github/stars/lxqt/obconf-qt?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lxqt/obconf-qt](https://github.com/lxqt/obconf-qt) - The Qt port of obconf, the Openbox configuration tool
+- ![Stars](https://img.shields.io/github/stars/lxqt/pcmanfm-qt?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lxqt/pcmanfm-qt](https://github.com/lxqt/pcmanfm-qt) - File manager and desktop icon manager (Qt port of PCManFM and libfm)
+- ![Stars](https://img.shields.io/github/stars/doitsujin/dxvk?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
+- ![Stars](https://img.shields.io/github/stars/GloriousEggroll/proton-ge-custom?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
+- ![Stars](https://img.shields.io/github/stars/DadSchoorse/vkBasalt?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [DadSchoorse/vkBasalt](https://github.com/DadSchoorse/vkBasalt) - a vulkan post processing layer for linux
+- ![Stars](https://img.shields.io/github/stars/polybar/polybar?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
+- ![Stars](https://img.shields.io/github/stars/brezerk/q4wine?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [brezerk/q4wine](https://github.com/brezerk/q4wine) - Q4Wine is a Qt GUI for W.I.N.E. It will help you manage wine prefixes and installed applications.
+- ![Stars](https://img.shields.io/github/stars/Open-Shell/Open-Shell-Menu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
+- ![Stars](https://img.shields.io/github/stars/brndnmtthws/conky?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
+- ![Stars](https://img.shields.io/github/stars/ValveSoftware/Proton?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
+- ![Stars](https://img.shields.io/github/stars/audiorouterdev/audio-router?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [audiorouterdev/audio-router](https://github.com/audiorouterdev/audio-router) - Routes audio from programs to different audio devices.
+- ![Stars](https://img.shields.io/github/stars/deathlyrage/breakingpointmod?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [deathlyrage/breakingpointmod](https://github.com/deathlyrage/breakingpointmod) - Breaking Point Mod ( Core Client / Server Code + Assets )
+- ![Stars](https://img.shields.io/github/stars/EpochModTeam/DayZ-Epoch?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [EpochModTeam/DayZ-Epoch](https://github.com/EpochModTeam/DayZ-Epoch) - Experimental DayZ Mod for Arma 2
+- ![Stars](https://img.shields.io/github/stars/DayZMod/DayZ?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [DayZMod/DayZ](https://github.com/DayZMod/DayZ) - DayZMod Public Files
+- ![Stars](https://img.shields.io/github/stars/BitlDevelopmentStudios/survivor-source-sdk-2013-master?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [BitlDevelopmentStudios/survivor-source-sdk-2013-master](https://github.com/BitlDevelopmentStudios/survivor-source-sdk-2013-master) - Source code for the SURVIVOR mod
 
 ## CSS 
 
-- [kando-menu/menu-themes](https://github.com/kando-menu/menu-themes) - 🎨 A collection of menu themes for Kando.
-- [IcekingJason/kando-themes](https://github.com/IcekingJason/kando-themes) - My custom kando themes.
-- [L4ki/Slot-Plasma-Themes](https://github.com/L4ki/Slot-Plasma-Themes) - Slot Themes For Plasma Desktop
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
-- [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!)
-- [raven2cz/tux](https://github.com/raven2cz/tux) - Repository dedicated to learning Linux in the Czech language.
-- [TLH-Deprecated-Linux-Configurations/electric-tantra-mklive](https://github.com/TLH-Deprecated-Linux-Configurations/electric-tantra-mklive) - Assembling the ISO using Void's void-mklive and some terminal magic
-- [Dejvino/pinephone-sway-poc](https://github.com/Dejvino/pinephone-sway-poc) - Sway UI configured for PinePhone (Proof Of Concept)
-- [addy-dclxvi/gtk-theme-collections](https://github.com/addy-dclxvi/gtk-theme-collections) - Some GTK themes for a companion to my Xfwm, Openbox, and Fluxbox themes
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
-- [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
+- ![Stars](https://img.shields.io/github/stars/kando-menu/menu-themes?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [kando-menu/menu-themes](https://github.com/kando-menu/menu-themes) - 🎨 A collection of menu themes for Kando.
+- ![Stars](https://img.shields.io/github/stars/IcekingJason/kando-themes?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [IcekingJason/kando-themes](https://github.com/IcekingJason/kando-themes) - My custom kando themes.
+- ![Stars](https://img.shields.io/github/stars/L4ki/Slot-Plasma-Themes?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [L4ki/Slot-Plasma-Themes](https://github.com/L4ki/Slot-Plasma-Themes) - Slot Themes For Plasma Desktop
+- ![Stars](https://img.shields.io/github/stars/ryanoasis/nerd-fonts?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- ![Stars](https://img.shields.io/github/stars/vorillaz/devicons?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
+- ![Stars](https://img.shields.io/github/stars/bahamas10/bash-style-guide?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!)
+- ![Stars](https://img.shields.io/github/stars/raven2cz/tux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [raven2cz/tux](https://github.com/raven2cz/tux) - Repository dedicated to learning Linux in the Czech language.
+- ![Stars](https://img.shields.io/github/stars/TLH-Deprecated-Linux-Configurations/electric-tantra-mklive?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [TLH-Deprecated-Linux-Configurations/electric-tantra-mklive](https://github.com/TLH-Deprecated-Linux-Configurations/electric-tantra-mklive) - Assembling the ISO using Void's void-mklive and some terminal magic
+- ![Stars](https://img.shields.io/github/stars/Dejvino/pinephone-sway-poc?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Dejvino/pinephone-sway-poc](https://github.com/Dejvino/pinephone-sway-poc) - Sway UI configured for PinePhone (Proof Of Concept)
+- ![Stars](https://img.shields.io/github/stars/addy-dclxvi/gtk-theme-collections?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [addy-dclxvi/gtk-theme-collections](https://github.com/addy-dclxvi/gtk-theme-collections) - Some GTK themes for a companion to my Xfwm, Openbox, and Fluxbox themes
+- ![Stars](https://img.shields.io/github/stars/owl4ce/dotfiles?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
+- ![Stars](https://img.shields.io/github/stars/adi1090x/termux-desktop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 
 ## Crystal 
 
-- [veelenga/awesome-crystal](https://github.com/veelenga/awesome-crystal) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
+- ![Stars](https://img.shields.io/github/stars/veelenga/awesome-crystal?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [veelenga/awesome-crystal](https://github.com/veelenga/awesome-crystal) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
 
 ## Dart 
 
-- [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
-- [isaron/git-touch](https://github.com/isaron/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
-- [pd4d10/git-touch](https://github.com/pd4d10/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
-- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-- [lucien144/fyx](https://github.com/lucien144/fyx) - 📣 🇨🇿 Unofficial Nyx.cz client for iOS & Android written in Flutter.
-- [LemmurOrg/lemmur](https://github.com/LemmurOrg/lemmur) - 🐒  A mobile client for lemmy
+- ![Stars](https://img.shields.io/github/stars/anandnet/Harmony-Music?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
+- ![Stars](https://img.shields.io/github/stars/isaron/git-touch?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [isaron/git-touch](https://github.com/isaron/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
+- ![Stars](https://img.shields.io/github/stars/pd4d10/git-touch?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pd4d10/git-touch](https://github.com/pd4d10/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
+- ![Stars](https://img.shields.io/github/stars/ImranR98/Obtainium?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
+- ![Stars](https://img.shields.io/github/stars/lucien144/fyx?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lucien144/fyx](https://github.com/lucien144/fyx) - 📣 🇨🇿 Unofficial Nyx.cz client for iOS & Android written in Flutter.
+- ![Stars](https://img.shields.io/github/stars/LemmurOrg/lemmur?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [LemmurOrg/lemmur](https://github.com/LemmurOrg/lemmur) - 🐒  A mobile client for lemmy
 
 ## Diff 
 
-- [secureblue/Trivalent](https://github.com/secureblue/Trivalent) - A security-focused, Chromium-based browser for desktop Linux inspired by Vanadium.
+- ![Stars](https://img.shields.io/github/stars/secureblue/Trivalent?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [secureblue/Trivalent](https://github.com/secureblue/Trivalent) - A security-focused, Chromium-based browser for desktop Linux inspired by Vanadium.
 
 ## Dockerfile 
 
-- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
-- [void-linux/void-containers](https://github.com/void-linux/void-containers) - OCI container images for Void Linux
+- ![Stars](https://img.shields.io/github/stars/oxsecurity/megalinter?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
+- ![Stars](https://img.shields.io/github/stars/void-linux/void-containers?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [void-linux/void-containers](https://github.com/void-linux/void-containers) - OCI container images for Void Linux
 
 ## Elixir 
 
-- [b310-digital/mindwendel](https://github.com/b310-digital/mindwendel) - Brainstorm, organize, and prioritize ideas effortlessly. Use it as a collaborative planning board or for live brainstormings within your team.
+- ![Stars](https://img.shields.io/github/stars/b310-digital/mindwendel?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [b310-digital/mindwendel](https://github.com/b310-digital/mindwendel) - Brainstorm, organize, and prioritize ideas effortlessly. Use it as a collaborative planning board or for live brainstormings within your team.
 
 ## GAP 
 
-- [KoreTeknology/AlphaOS](https://github.com/KoreTeknology/AlphaOS) - A mini OS made with Godot Engine
+- ![Stars](https://img.shields.io/github/stars/KoreTeknology/AlphaOS?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [KoreTeknology/AlphaOS](https://github.com/KoreTeknology/AlphaOS) - A mini OS made with Godot Engine
 
 ## GDScript 
 
-- [diklor/advanced_radial_menu](https://github.com/diklor/advanced_radial_menu) - 
-- [InterstellarDragonDev/Godot-Pie](https://github.com/InterstellarDragonDev/Godot-Pie) - A simple Pie Menu made in godot
-- [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot!
-- [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game
-- [colinbellino/lemmings](https://github.com/colinbellino/lemmings) - A small prototype trying to recreate the Lemmings game in Godot to learn the engine
-- [likeich/Godot-Linux-Desktop-Shortcut-Creator](https://github.com/likeich/Godot-Linux-Desktop-Shortcut-Creator) - A simple script for creating desktop files and registering godot games as applications in Linux.
-- [Kubulambula/Godot-GDShell](https://github.com/Kubulambula/Godot-GDShell) - Light-weight, powerful, customizable and modular in-game console for Godot 4.
-- [GDQuest/learn-gdscript](https://github.com/GDQuest/learn-gdscript) - Learn Godot's GDScript programming language from zero, right in your browser, for free.
-- [rossunger/GodotExtraGUI](https://github.com/rossunger/GodotExtraGUI) - 
-- [crsolver/goduz](https://github.com/crsolver/goduz) - A GDScript library for building user interfaces with Godot Engine 4
-- [VolodyaKEK/godot-immediate-gui](https://github.com/VolodyaKEK/godot-immediate-gui) - Immediate GUI for Godot Engine
-- [RKiemGames/godot-terminal-addons](https://github.com/RKiemGames/godot-terminal-addons) - A terminal for Godot Engine
-- [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
-- [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
-- [Zylann/godot_heightmap_plugin](https://github.com/Zylann/godot_heightmap_plugin) - HeightMap terrain for Godot implemented in GDScript
-- [XLIVE99/AutoGrid](https://github.com/XLIVE99/AutoGrid) - Autotile system for gridmap in godot engine
-- [wojtekpil/Godot-Biomes](https://github.com/wojtekpil/Godot-Biomes) - Procedural biomes generator for Godot Engine.
-- [sketchfab/godot-plugin](https://github.com/sketchfab/godot-plugin) - 
+- ![Stars](https://img.shields.io/github/stars/diklor/advanced_radial_menu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [diklor/advanced_radial_menu](https://github.com/diklor/advanced_radial_menu) - 
+- ![Stars](https://img.shields.io/github/stars/InterstellarDragonDev/Godot-Pie?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [InterstellarDragonDev/Godot-Pie](https://github.com/InterstellarDragonDev/Godot-Pie) - A simple Pie Menu made in godot
+- ![Stars](https://img.shields.io/github/stars/popcar2/GodotOS?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot!
+- ![Stars](https://img.shields.io/github/stars/a-little-org-called-mario/a-little-game-called-mario?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game
+- ![Stars](https://img.shields.io/github/stars/colinbellino/lemmings?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [colinbellino/lemmings](https://github.com/colinbellino/lemmings) - A small prototype trying to recreate the Lemmings game in Godot to learn the engine
+- ![Stars](https://img.shields.io/github/stars/likeich/Godot-Linux-Desktop-Shortcut-Creator?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [likeich/Godot-Linux-Desktop-Shortcut-Creator](https://github.com/likeich/Godot-Linux-Desktop-Shortcut-Creator) - A simple script for creating desktop files and registering godot games as applications in Linux.
+- ![Stars](https://img.shields.io/github/stars/Kubulambula/Godot-GDShell?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Kubulambula/Godot-GDShell](https://github.com/Kubulambula/Godot-GDShell) - Light-weight, powerful, customizable and modular in-game console for Godot 4.
+- ![Stars](https://img.shields.io/github/stars/GDQuest/learn-gdscript?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [GDQuest/learn-gdscript](https://github.com/GDQuest/learn-gdscript) - Learn Godot's GDScript programming language from zero, right in your browser, for free.
+- ![Stars](https://img.shields.io/github/stars/rossunger/GodotExtraGUI?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [rossunger/GodotExtraGUI](https://github.com/rossunger/GodotExtraGUI) - 
+- ![Stars](https://img.shields.io/github/stars/crsolver/goduz?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [crsolver/goduz](https://github.com/crsolver/goduz) - A GDScript library for building user interfaces with Godot Engine 4
+- ![Stars](https://img.shields.io/github/stars/VolodyaKEK/godot-immediate-gui?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [VolodyaKEK/godot-immediate-gui](https://github.com/VolodyaKEK/godot-immediate-gui) - Immediate GUI for Godot Engine
+- ![Stars](https://img.shields.io/github/stars/RKiemGames/godot-terminal-addons?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [RKiemGames/godot-terminal-addons](https://github.com/RKiemGames/godot-terminal-addons) - A terminal for Godot Engine
+- ![Stars](https://img.shields.io/github/stars/godotengine/godot-demo-projects?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
+- ![Stars](https://img.shields.io/github/stars/mbrlabs/Lorien?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
+- ![Stars](https://img.shields.io/github/stars/Zylann/godot_heightmap_plugin?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Zylann/godot_heightmap_plugin](https://github.com/Zylann/godot_heightmap_plugin) - HeightMap terrain for Godot implemented in GDScript
+- ![Stars](https://img.shields.io/github/stars/XLIVE99/AutoGrid?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [XLIVE99/AutoGrid](https://github.com/XLIVE99/AutoGrid) - Autotile system for gridmap in godot engine
+- ![Stars](https://img.shields.io/github/stars/wojtekpil/Godot-Biomes?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [wojtekpil/Godot-Biomes](https://github.com/wojtekpil/Godot-Biomes) - Procedural biomes generator for Godot Engine.
+- ![Stars](https://img.shields.io/github/stars/sketchfab/godot-plugin?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sketchfab/godot-plugin](https://github.com/sketchfab/godot-plugin) - 
 
 ## GLSL 
 
-- [creikey/tdm-godot-ocean](https://github.com/creikey/tdm-godot-ocean) - (NO LICENSE YET) The TDM Seascape Shadertoy shader ported to godot: https://www.shadertoy.com/view/Ms2SD1
+- ![Stars](https://img.shields.io/github/stars/creikey/tdm-godot-ocean?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [creikey/tdm-godot-ocean](https://github.com/creikey/tdm-godot-ocean) - (NO LICENSE YET) The TDM Seascape Shadertoy shader ported to godot: https://www.shadertoy.com/view/Ms2SD1
 
 ## Go 
 
-- [shazow/wifitui](https://github.com/shazow/wifitui) - Fast featureful friendly wifi terminal UI. 🛜✨
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
-- [nwg-piotr/gopsuinfo](https://github.com/nwg-piotr/gopsuinfo) - A gopsutil-based command to display system usage info as text in panels like Waybar or icon/text in tint2 and nwg-panel executors
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
-- [autobrr/distribrr](https://github.com/autobrr/distribrr) - An orchestrator for distributed download of torrents
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [omriharel/deej](https://github.com/omriharel/deej) - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
-- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
-- [picosh/pgit](https://github.com/picosh/pgit) - static site generator for git repos
-- [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge
-- [BalanceBalls/nekot](https://github.com/BalanceBalls/nekot) - A portable terminal AI interface
-- [gogrlx/grlx](https://github.com/gogrlx/grlx) - Effective Fleet Configuration Management
-- [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Realtime log viewer with web UI, tail -f for logs with a web interface browser.
-- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-- [nwg-piotr/nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 settings editor adapted to work in the wlroots environment
-- [samsullivan/jqless](https://github.com/samsullivan/jqless) - Combining jq and less for real-time JSON parsing.
-- [benwaffle/doc](https://github.com/benwaffle/doc) - A modern TUI for reading man pages, info pages, and tldr pages.
-- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
-- [mritd/bubbles](https://github.com/mritd/bubbles) - TUI components for Bubble Tea(Similar to the official bubbles 😊)
-- [mistakenelf/teacup](https://github.com/mistakenelf/teacup) - A collection of bubbles and utilities for bubbletea applications
-- [toadle/lit](https://github.com/toadle/lit) - An easily configurable commandline quicklauncher.
-- [Duncaen/go-xbps-src](https://github.com/Duncaen/go-xbps-src) - 
-- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-- [PhilippHeuer/rssdownloader](https://github.com/PhilippHeuer/rssdownloader) - cli to download files from rss feeds - rule based inclusion/exclusion
-- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
-- [nkxxll/byebye](https://github.com/nkxxll/byebye) - byebye is a command line interface to logout, lock, suspend, hibernate, shutdown, reboot, from the command line on every Linux system (with xdg-screensaver on X11 or swaylock on wayland).
-- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
-- [devsquadron/cli](https://github.com/devsquadron/cli) - the devsquadron command line interface for managing a project
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
-- [HikariKnight/quickpassthrough](https://github.com/HikariKnight/quickpassthrough) - A project to remove the complexity of setting up GPU passthrough for qemu
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
-- [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
-- [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
-- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
-- [go-fed/activity](https://github.com/go-fed/activity) - ActivityStreams & ActivityPub in golang, oh my!
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [candrewlee14/webman](https://github.com/candrewlee14/webman) - Add, remove, and manage different versions of web-distributed software binaries. No elevated permissions required!
-- [maxmind/geoipupdate](https://github.com/maxmind/geoipupdate) - GeoIP update client code
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
-- [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
-- [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
-- [Francesco149/sharenix](https://github.com/Francesco149/sharenix) - A ShareX clone for Linux and FreeBSD.
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- ![Stars](https://img.shields.io/github/stars/shazow/wifitui?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [shazow/wifitui](https://github.com/shazow/wifitui) - Fast featureful friendly wifi terminal UI. 🛜✨
+- ![Stars](https://img.shields.io/github/stars/terrastruct/d2?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- ![Stars](https://img.shields.io/github/stars/charmbracelet/crush?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+- ![Stars](https://img.shields.io/github/stars/nwg-piotr/gopsuinfo?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nwg-piotr/gopsuinfo](https://github.com/nwg-piotr/gopsuinfo) - A gopsutil-based command to display system usage info as text in panels like Waybar or icon/text in tint2 and nwg-panel executors
+- ![Stars](https://img.shields.io/github/stars/tailscale/tailscale?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- ![Stars](https://img.shields.io/github/stars/ayn2op/discordo?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
+- ![Stars](https://img.shields.io/github/stars/autobrr/distribrr?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [autobrr/distribrr](https://github.com/autobrr/distribrr) - An orchestrator for distributed download of torrents
+- ![Stars](https://img.shields.io/github/stars/charmbracelet/sequin?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
+- ![Stars](https://img.shields.io/github/stars/beclab/Olares?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
+- ![Stars](https://img.shields.io/github/stars/netbirdio/netbird?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- ![Stars](https://img.shields.io/github/stars/juanfont/headscale?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+- ![Stars](https://img.shields.io/github/stars/semaphoreui/semaphore?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- ![Stars](https://img.shields.io/github/stars/yorukot/superfile?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+- ![Stars](https://img.shields.io/github/stars/charmbracelet/vhs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- ![Stars](https://img.shields.io/github/stars/gokcehan/lf?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
+- ![Stars](https://img.shields.io/github/stars/omriharel/deej?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [omriharel/deej](https://github.com/omriharel/deej) - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
+- ![Stars](https://img.shields.io/github/stars/woodpecker-ci/woodpecker?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
+- ![Stars](https://img.shields.io/github/stars/picosh/pgit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [picosh/pgit](https://github.com/picosh/pgit) - static site generator for git repos
+- ![Stars](https://img.shields.io/github/stars/getsavvyinc/savvy-cli?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge
+- ![Stars](https://img.shields.io/github/stars/BalanceBalls/nekot?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [BalanceBalls/nekot](https://github.com/BalanceBalls/nekot) - A portable terminal AI interface
+- ![Stars](https://img.shields.io/github/stars/gogrlx/grlx?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [gogrlx/grlx](https://github.com/gogrlx/grlx) - Effective Fleet Configuration Management
+- ![Stars](https://img.shields.io/github/stars/logdyhq/logdy-core?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Realtime log viewer with web UI, tail -f for logs with a web interface browser.
+- ![Stars](https://img.shields.io/github/stars/containerd/nerdctl?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+- ![Stars](https://img.shields.io/github/stars/nwg-piotr/nwg-look?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nwg-piotr/nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 settings editor adapted to work in the wlroots environment
+- ![Stars](https://img.shields.io/github/stars/samsullivan/jqless?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [samsullivan/jqless](https://github.com/samsullivan/jqless) - Combining jq and less for real-time JSON parsing.
+- ![Stars](https://img.shields.io/github/stars/benwaffle/doc?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [benwaffle/doc](https://github.com/benwaffle/doc) - A modern TUI for reading man pages, info pages, and tldr pages.
+- ![Stars](https://img.shields.io/github/stars/termkit/gama?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
+- ![Stars](https://img.shields.io/github/stars/mritd/bubbles?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mritd/bubbles](https://github.com/mritd/bubbles) - TUI components for Bubble Tea(Similar to the official bubbles 😊)
+- ![Stars](https://img.shields.io/github/stars/mistakenelf/teacup?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mistakenelf/teacup](https://github.com/mistakenelf/teacup) - A collection of bubbles and utilities for bubbletea applications
+- ![Stars](https://img.shields.io/github/stars/toadle/lit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [toadle/lit](https://github.com/toadle/lit) - An easily configurable commandline quicklauncher.
+- ![Stars](https://img.shields.io/github/stars/Duncaen/go-xbps-src?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Duncaen/go-xbps-src](https://github.com/Duncaen/go-xbps-src) - 
+- ![Stars](https://img.shields.io/github/stars/harness/harness?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
+- ![Stars](https://img.shields.io/github/stars/PhilippHeuer/rssdownloader?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [PhilippHeuer/rssdownloader](https://github.com/PhilippHeuer/rssdownloader) - cli to download files from rss feeds - rule based inclusion/exclusion
+- ![Stars](https://img.shields.io/github/stars/charmbracelet/pop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
+- ![Stars](https://img.shields.io/github/stars/nkxxll/byebye?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nkxxll/byebye](https://github.com/nkxxll/byebye) - byebye is a command line interface to logout, lock, suspend, hibernate, shutdown, reboot, from the command line on every Linux system (with xdg-screensaver on X11 or swaylock on wayland).
+- ![Stars](https://img.shields.io/github/stars/42wim/matterbridge?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
+- ![Stars](https://img.shields.io/github/stars/devsquadron/cli?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [devsquadron/cli](https://github.com/devsquadron/cli) - the devsquadron command line interface for managing a project
+- ![Stars](https://img.shields.io/github/stars/avelino/awesome-go?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- ![Stars](https://img.shields.io/github/stars/zquestz/s?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
+- ![Stars](https://img.shields.io/github/stars/charmbracelet/gum?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
+- ![Stars](https://img.shields.io/github/stars/mrusme/superhighway84?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
+- ![Stars](https://img.shields.io/github/stars/HikariKnight/quickpassthrough?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [HikariKnight/quickpassthrough](https://github.com/HikariKnight/quickpassthrough) - A project to remove the complexity of setting up GPU passthrough for qemu
+- ![Stars](https://img.shields.io/github/stars/binwiederhier/ntfy?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+- ![Stars](https://img.shields.io/github/stars/jroimartin/gocui?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+- ![Stars](https://img.shields.io/github/stars/jrnxf/gh-eco?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
+- ![Stars](https://img.shields.io/github/stars/safing/portmaster?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
+- ![Stars](https://img.shields.io/github/stars/go-fed/activity?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [go-fed/activity](https://github.com/go-fed/activity) - ActivityStreams & ActivityPub in golang, oh my!
+- ![Stars](https://img.shields.io/github/stars/charmbracelet/glow?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- ![Stars](https://img.shields.io/github/stars/candrewlee14/webman?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [candrewlee14/webman](https://github.com/candrewlee14/webman) - Add, remove, and manage different versions of web-distributed software binaries. No elevated permissions required!
+- ![Stars](https://img.shields.io/github/stars/maxmind/geoipupdate?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [maxmind/geoipupdate](https://github.com/maxmind/geoipupdate) - GeoIP update client code
+- ![Stars](https://img.shields.io/github/stars/junegunn/fzf?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- ![Stars](https://img.shields.io/github/stars/rclone/rclone?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+- ![Stars](https://img.shields.io/github/stars/muesli/gitty?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
+- ![Stars](https://img.shields.io/github/stars/keybase/client?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+- ![Stars](https://img.shields.io/github/stars/twpayne/chezmoi?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- ![Stars](https://img.shields.io/github/stars/jesseduffield/lazygit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+- ![Stars](https://img.shields.io/github/stars/go-gitea/gitea?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- ![Stars](https://img.shields.io/github/stars/blrsn/zentile?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
+- ![Stars](https://img.shields.io/github/stars/tvrzna/emptty?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
+- ![Stars](https://img.shields.io/github/stars/Francesco149/sharenix?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Francesco149/sharenix](https://github.com/Francesco149/sharenix) - A ShareX clone for Linux and FreeBSD.
+- ![Stars](https://img.shields.io/github/stars/zyedidia/micro?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 
 ## HTML 
 
-- [Portable-Linux-Apps/Portable-Linux-Apps.github.io](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io) - Census, cataloging and distribution of all AppImages and portable apps for GNU/Linux, through the "AM" package manager. Largest AppImages collection!
-- [slcw/SimpleX-Themes](https://github.com/slcw/SimpleX-Themes) - SimpleX Chat theme repository
-- [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
-- [arnaudsm/raito](https://github.com/arnaudsm/raito) - Mini Markdown Wiki/CMS in 8kb of JavaScript
-- [skiff-org/skiff-org.github.io](https://github.com/skiff-org/skiff-org.github.io) - Skiff releases, APKs, desktop apps, and whitepaper.
-- [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit Being revived.
-- [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
-- [manjaro-pinephone/lomiri-dev](https://github.com/manjaro-pinephone/lomiri-dev) - Development Builds of Lomiri for the Pinephone
-- [manjaro-arm/pinephonepro-images](https://github.com/manjaro-arm/pinephonepro-images) - 
-- [manjaro-pinephone/plasma-mobile-dev](https://github.com/manjaro-pinephone/plasma-mobile-dev) - Development Builds of Plasma Mobile for the Pinephone
-- [nemomobile-ux/nemo-images](https://github.com/nemomobile-ux/nemo-images) - Manjaro Nemomobile
-- [manjaro-pinephone/plasma-mobile](https://github.com/manjaro-pinephone/plasma-mobile) - Manjaro Plasma-Mobile
-- [manjaro-pinephone/phosh](https://github.com/manjaro-pinephone/phosh) - Manjaro Phosh
-- [manjaro-pinephone/phosh-dev](https://github.com/manjaro-pinephone/phosh-dev) - Development Builds of Phosh for the Pinephone
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-- [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
-- [oSoWoSo/Void-Wallpapers](https://github.com/oSoWoSo/Void-Wallpapers) - collection of wallpapers for Void linux (website will load all pictures, not for slow connections!)
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
-- [thefederationinfo/the-federation.info](https://github.com/thefederationinfo/the-federation.info) - MIRROR of https://codeberg.org/thefederationinfo/the-federation.info
-- [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
+- ![Stars](https://img.shields.io/github/stars/Portable-Linux-Apps/Portable-Linux-Apps.github.io?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Portable-Linux-Apps/Portable-Linux-Apps.github.io](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io) - Census, cataloging and distribution of all AppImages and portable apps for GNU/Linux, through the "AM" package manager. Largest AppImages collection!
+- ![Stars](https://img.shields.io/github/stars/slcw/SimpleX-Themes?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [slcw/SimpleX-Themes](https://github.com/slcw/SimpleX-Themes) - SimpleX Chat theme repository
+- ![Stars](https://img.shields.io/github/stars/bobbyiliev/introduction-to-bash-scripting?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
+- ![Stars](https://img.shields.io/github/stars/arnaudsm/raito?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [arnaudsm/raito](https://github.com/arnaudsm/raito) - Mini Markdown Wiki/CMS in 8kb of JavaScript
+- ![Stars](https://img.shields.io/github/stars/skiff-org/skiff-org.github.io?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [skiff-org/skiff-org.github.io](https://github.com/skiff-org/skiff-org.github.io) - Skiff releases, APKs, desktop apps, and whitepaper.
+- ![Stars](https://img.shields.io/github/stars/ForkAwesome/Fork-Awesome?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit Being revived.
+- ![Stars](https://img.shields.io/github/stars/vitalets/github-trending-repos?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
+- ![Stars](https://img.shields.io/github/stars/manjaro-pinephone/lomiri-dev?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [manjaro-pinephone/lomiri-dev](https://github.com/manjaro-pinephone/lomiri-dev) - Development Builds of Lomiri for the Pinephone
+- ![Stars](https://img.shields.io/github/stars/manjaro-arm/pinephonepro-images?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [manjaro-arm/pinephonepro-images](https://github.com/manjaro-arm/pinephonepro-images) - 
+- ![Stars](https://img.shields.io/github/stars/manjaro-pinephone/plasma-mobile-dev?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [manjaro-pinephone/plasma-mobile-dev](https://github.com/manjaro-pinephone/plasma-mobile-dev) - Development Builds of Plasma Mobile for the Pinephone
+- ![Stars](https://img.shields.io/github/stars/nemomobile-ux/nemo-images?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nemomobile-ux/nemo-images](https://github.com/nemomobile-ux/nemo-images) - Manjaro Nemomobile
+- ![Stars](https://img.shields.io/github/stars/manjaro-pinephone/plasma-mobile?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [manjaro-pinephone/plasma-mobile](https://github.com/manjaro-pinephone/plasma-mobile) - Manjaro Plasma-Mobile
+- ![Stars](https://img.shields.io/github/stars/manjaro-pinephone/phosh?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [manjaro-pinephone/phosh](https://github.com/manjaro-pinephone/phosh) - Manjaro Phosh
+- ![Stars](https://img.shields.io/github/stars/manjaro-pinephone/phosh-dev?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [manjaro-pinephone/phosh-dev](https://github.com/manjaro-pinephone/phosh-dev) - Development Builds of Phosh for the Pinephone
+- ![Stars](https://img.shields.io/github/stars/GetPublii/Publii?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+- ![Stars](https://img.shields.io/github/stars/rhazdon/hugo-theme-hello-friend-ng?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
+- ![Stars](https://img.shields.io/github/stars/adityatelange/hugo-PaperMod?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
+- ![Stars](https://img.shields.io/github/stars/HugoBlox/hugo-blox-builder?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/Void-Wallpapers?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/Void-Wallpapers](https://github.com/oSoWoSo/Void-Wallpapers) - collection of wallpapers for Void linux (website will load all pictures, not for slow connections!)
+- ![Stars](https://img.shields.io/github/stars/luong-komorebi/Awesome-Linux-Software?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
+- ![Stars](https://img.shields.io/github/stars/thefederationinfo/the-federation.info?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [thefederationinfo/the-federation.info](https://github.com/thefederationinfo/the-federation.info) - MIRROR of https://codeberg.org/thefederationinfo/the-federation.info
+- ![Stars](https://img.shields.io/github/stars/tianocore/tianocore.github.io?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
 
 ## Haskell 
 
-- [avently/simplex-chat](https://github.com/avently/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+- ![Stars](https://img.shields.io/github/stars/avently/simplex-chat?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [avently/simplex-chat](https://github.com/avently/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
+- ![Stars](https://img.shields.io/github/stars/simplex-chat/simplex-chat?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- ![Stars](https://img.shields.io/github/stars/koalaman/shellcheck?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Java 
 
-- [cryptomator/cli](https://github.com/cryptomator/cli) - Cryptomator Command-Line Interface
-- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
-- [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
-- [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
-- [NCalex42/simplex-bot](https://github.com/NCalex42/simplex-bot) - 
-- [RohitKushvaha01/ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) - A Simple Android Terminal Emulator
-- [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for android
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
-- [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
-- [labnex/LabNex](https://github.com/labnex/LabNex) - LabNex is an open-source Android app designed for managing GitLab projects
-- [umutcamliyurt/DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt) - A file and text encryption tool for Android
-- [segler-alex/RadioDroid](https://github.com/segler-alex/RadioDroid) - radio browser app that uses www.radio-browser.info on android
-- [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
-- [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher) - Telegram fork with blackjack and hookers
-- [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
-- [stud0709/OneMoreSecret](https://github.com/stud0709/OneMoreSecret) - Password management based on Android KeyStore, QR and Bluetooth
-- [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
-- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
-- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
-- [yacy/searchlab](https://github.com/yacy/searchlab) - Portal for YaCy Grid and Data Science Applications
-- [payne911/PieMenu](https://github.com/payne911/PieMenu) - A library for easy integration of a flexible circular WidgetGroup within libGDX
-- [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
-- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
-- [Alovoa/alovoa](https://github.com/Alovoa/alovoa) - Free and open-source dating platform that respects your privacy
-- [Linux74656/SpaceEngineersLinuxPatches](https://github.com/Linux74656/SpaceEngineersLinuxPatches) - A place to find some fixes to get Space Engineers running in Linux
-- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
-- [ogarcia/opensudoku](https://github.com/ogarcia/opensudoku) - Open Source Sudoku game for Android.
+- ![Stars](https://img.shields.io/github/stars/cryptomator/cli?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [cryptomator/cli](https://github.com/cryptomator/cli) - Cryptomator Command-Line Interface
+- ![Stars](https://img.shields.io/github/stars/cryptomator/cryptomator?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
+- ![Stars](https://img.shields.io/github/stars/deltachat/deltachat-android?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
+- ![Stars](https://img.shields.io/github/stars/Julow/Unexpected-Keyboard?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
+- ![Stars](https://img.shields.io/github/stars/NCalex42/simplex-bot?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [NCalex42/simplex-bot](https://github.com/NCalex42/simplex-bot) - 
+- ![Stars](https://img.shields.io/github/stars/RohitKushvaha01/ReTerminal?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [RohitKushvaha01/ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) - A Simple Android Terminal Emulator
+- ![Stars](https://img.shields.io/github/stars/Xed-Editor/Xed-Editor?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for android
+- ![Stars](https://img.shields.io/github/stars/xpipe-io/xpipe?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
+- ![Stars](https://img.shields.io/github/stars/LucasGGamerM/moshidon?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
+- ![Stars](https://img.shields.io/github/stars/labnex/LabNex?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [labnex/LabNex](https://github.com/labnex/LabNex) - LabNex is an open-source Android app designed for managing GitLab projects
+- ![Stars](https://img.shields.io/github/stars/umutcamliyurt/DroidCrypt?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [umutcamliyurt/DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt) - A file and text encryption tool for Android
+- ![Stars](https://img.shields.io/github/stars/segler-alex/RadioDroid?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [segler-alex/RadioDroid](https://github.com/segler-alex/RadioDroid) - radio browser app that uses www.radio-browser.info on android
+- ![Stars](https://img.shields.io/github/stars/00-Evan/shattered-pixel-dungeon?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
+- ![Stars](https://img.shields.io/github/stars/nikitasius/Telegraher?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher) - Telegram fork with blackjack and hookers
+- ![Stars](https://img.shields.io/github/stars/Gedsh/InviZible?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
+- ![Stars](https://img.shields.io/github/stars/stud0709/OneMoreSecret?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [stud0709/OneMoreSecret](https://github.com/stud0709/OneMoreSecret) - Password management based on Android KeyStore, QR and Bluetooth
+- ![Stars](https://img.shields.io/github/stars/amnesica/KryptEY?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
+- ![Stars](https://img.shields.io/github/stars/MuntashirAkon/AppManager?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
+- ![Stars](https://img.shields.io/github/stars/termux/termux-app?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+- ![Stars](https://img.shields.io/github/stars/slapperwan/gh4a?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
+- ![Stars](https://img.shields.io/github/stars/yacy/searchlab?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [yacy/searchlab](https://github.com/yacy/searchlab) - Portal for YaCy Grid and Data Science Applications
+- ![Stars](https://img.shields.io/github/stars/payne911/PieMenu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [payne911/PieMenu](https://github.com/payne911/PieMenu) - A library for easy integration of a flexible circular WidgetGroup within libGDX
+- ![Stars](https://img.shields.io/github/stars/yacy/yacy_search_server?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
+- ![Stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
+- ![Stars](https://img.shields.io/github/stars/theonedev/onedev?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- ![Stars](https://img.shields.io/github/stars/Alovoa/alovoa?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Alovoa/alovoa](https://github.com/Alovoa/alovoa) - Free and open-source dating platform that respects your privacy
+- ![Stars](https://img.shields.io/github/stars/Linux74656/SpaceEngineersLinuxPatches?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Linux74656/SpaceEngineersLinuxPatches](https://github.com/Linux74656/SpaceEngineersLinuxPatches) - A place to find some fixes to get Space Engineers running in Linux
+- ![Stars](https://img.shields.io/github/stars/microg/GmsCore?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
+- ![Stars](https://img.shields.io/github/stars/ogarcia/opensudoku?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ogarcia/opensudoku](https://github.com/ogarcia/opensudoku) - Open Source Sudoku game for Android.
 
 ## JavaScript 
 
-- [libreprojects/libreprojects](https://github.com/libreprojects/libreprojects) - 🔖 Collection of open source, usable, hosted web services! https://libreprojects.net
-- [topmonks/hlidac-shopu](https://github.com/topmonks/hlidac-shopu) - Hlídač shopů
-- [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [DistributionHub/distributionhub.github.io](https://github.com/DistributionHub/distributionhub.github.io) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
-- [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
-- [freeplane/docs](https://github.com/freeplane/docs) - 
-- [rafaelmardojai/forge-sparks](https://github.com/rafaelmardojai/forge-sparks) - Get git forges notifications
-- [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
-- [oSoWoSo/quickemu-font-and-logos](https://github.com/oSoWoSo/quickemu-font-and-logos) - An icon font containing logos of popular Operating Systems.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-- [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
-- [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
-- [ab2pentest/GithubActiveForks](https://github.com/ab2pentest/GithubActiveForks) - Displays active forks for a given repository on GitHub.
-- [thomaspark/glyphsearch](https://github.com/thomaspark/glyphsearch) - Search for icons from Font Awesome, Glyphicons, IcoMoon, Ionicons, and Octicons
-- [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
-- [lukas-w/font-logos](https://github.com/lukas-w/font-logos) - An icon font providing popular linux distro's logos
-- [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
-- [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
-- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things
-- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
-- [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine) - Add a custom search engine to the list of available search engines in Firefox
-- [SolsticeSpectrum/blacknwhite](https://github.com/SolsticeSpectrum/blacknwhite) - This is my i3 rice
-- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
-- [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext) - Search engine manager for modern browsers
-- [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
-- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [mtgatool/mtgatool-desktop](https://github.com/mtgatool/mtgatool-desktop) - 
-- [AgregoreWeb/agregore-browser](https://github.com/AgregoreWeb/agregore-browser) - A minimal browser for the distributed web (Desktop version)
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-- [asamuzaK/sidebarTabs](https://github.com/asamuzaK/sidebarTabs) - Emulates tabs in sidebar
-- [cjb/GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
-- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
-- [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
-- [animeshkundu/youtube-audio](https://github.com/animeshkundu/youtube-audio) - Disable videos on youtube and save battery and bandwidth / data
-- [lawfx/YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - Autoclicker for Youtube's latest "feature" - Video paused. Continue watching?
-- [vantezzen/pinforgithub](https://github.com/vantezzen/pinforgithub) - 📌 Save repositories on GitHub for later without having to star them
-- [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
-- [sneakypete81/updatescanner](https://github.com/sneakypete81/updatescanner) - Firefox addon to monitor web pages for updates.
-- [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
-- [craigbuckler/11ty-starter](https://github.com/craigbuckler/11ty-starter) - 11ty starter site with example code and how-tos.
-- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
-- [ipfs-shipyard/IGiS](https://github.com/ipfs-shipyard/IGiS) - Interplanetary Git Service
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
-- [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
-- [nextcloud/passman](https://github.com/nextcloud/passman) - 🔐 Open source password manager with Nextcloud integration
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
-- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
-- [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
-- [AnarchyLinux/installer](https://github.com/AnarchyLinux/installer) - Anarchy Linux - A simple and intuitive Arch Linux installer. https://anarchyinstaller.org/
-- [webmonitoring/pagemon-chrome-ext](https://github.com/webmonitoring/pagemon-chrome-ext) - Stays in the background and monitors web pages for changes.
+- ![Stars](https://img.shields.io/github/stars/libreprojects/libreprojects?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [libreprojects/libreprojects](https://github.com/libreprojects/libreprojects) - 🔖 Collection of open source, usable, hosted web services! https://libreprojects.net
+- ![Stars](https://img.shields.io/github/stars/topmonks/hlidac-shopu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [topmonks/hlidac-shopu](https://github.com/topmonks/hlidac-shopu) - Hlídač shopů
+- ![Stars](https://img.shields.io/github/stars/browsh-org/browsh?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
+- ![Stars](https://img.shields.io/github/stars/DistributionHub/distributionhub.github.io?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [DistributionHub/distributionhub.github.io](https://github.com/DistributionHub/distributionhub.github.io) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
+- ![Stars](https://img.shields.io/github/stars/viarotel-org/escrcpy?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
+- ![Stars](https://img.shields.io/github/stars/freeplane/docs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [freeplane/docs](https://github.com/freeplane/docs) - 
+- ![Stars](https://img.shields.io/github/stars/rafaelmardojai/forge-sparks?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [rafaelmardojai/forge-sparks](https://github.com/rafaelmardojai/forge-sparks) - Get git forges notifications
+- ![Stars](https://img.shields.io/github/stars/ImranR98/apps.obtainium.imranr.dev?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/quickemu-font-and-logos?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/quickemu-font-and-logos](https://github.com/oSoWoSo/quickemu-font-and-logos) - An icon font containing logos of popular Operating Systems.
+- ![Stars](https://img.shields.io/github/stars/simple-icons/simple-icons?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+- ![Stars](https://img.shields.io/github/stars/minbrowser/min?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
+- ![Stars](https://img.shields.io/github/stars/garywill/BigSearch?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
+- ![Stars](https://img.shields.io/github/stars/ab2pentest/GithubActiveForks?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ab2pentest/GithubActiveForks](https://github.com/ab2pentest/GithubActiveForks) - Displays active forks for a given repository on GitHub.
+- ![Stars](https://img.shields.io/github/stars/thomaspark/glyphsearch?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [thomaspark/glyphsearch](https://github.com/thomaspark/glyphsearch) - Search for icons from Font Awesome, Glyphicons, IcoMoon, Ionicons, and Octicons
+- ![Stars](https://img.shields.io/github/stars/ipfs/ipfs-companion?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
+- ![Stars](https://img.shields.io/github/stars/lukas-w/font-logos?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lukas-w/font-logos](https://github.com/lukas-w/font-logos) - An icon font providing popular linux distro's logos
+- ![Stars](https://img.shields.io/github/stars/Sav22999/emoji?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
+- ![Stars](https://img.shields.io/github/stars/duckduckgo/tracker-radar?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
+- ![Stars](https://img.shields.io/github/stars/aljazceru/awesome-nostr?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things
+- ![Stars](https://img.shields.io/github/stars/ipfs/ipfs-desktop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+- ![Stars](https://img.shields.io/github/stars/di-sukharev/opencommit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
+- ![Stars](https://img.shields.io/github/stars/evilpie/add-custom-search-engine?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine) - Add a custom search engine to the list of available search engines in Firefox
+- ![Stars](https://img.shields.io/github/stars/SolsticeSpectrum/blacknwhite?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [SolsticeSpectrum/blacknwhite](https://github.com/SolsticeSpectrum/blacknwhite) - This is my i3 rice
+- ![Stars](https://img.shields.io/github/stars/arkenfox/user.js?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
+- ![Stars](https://img.shields.io/github/stars/ssborbis/ContextSearch-web-ext?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext) - Search engine manager for modern browsers
+- ![Stars](https://img.shields.io/github/stars/techgaun/active-forks?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
+- ![Stars](https://img.shields.io/github/stars/LeCoupa/awesome-cheatsheets?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- ![Stars](https://img.shields.io/github/stars/mtgatool/mtgatool-desktop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mtgatool/mtgatool-desktop](https://github.com/mtgatool/mtgatool-desktop) - 
+- ![Stars](https://img.shields.io/github/stars/AgregoreWeb/agregore-browser?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AgregoreWeb/agregore-browser](https://github.com/AgregoreWeb/agregore-browser) - A minimal browser for the distributed web (Desktop version)
+- ![Stars](https://img.shields.io/github/stars/docsifyjs/docsify?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+- ![Stars](https://img.shields.io/github/stars/asamuzaK/sidebarTabs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [asamuzaK/sidebarTabs](https://github.com/asamuzaK/sidebarTabs) - Emulates tabs in sidebar
+- ![Stars](https://img.shields.io/github/stars/cjb/GitTorrent?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [cjb/GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
+- ![Stars](https://img.shields.io/github/stars/cryptpad/cryptpad?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
+- ![Stars](https://img.shields.io/github/stars/Drive4ik/simple-tab-groups?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
+- ![Stars](https://img.shields.io/github/stars/animeshkundu/youtube-audio?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [animeshkundu/youtube-audio](https://github.com/animeshkundu/youtube-audio) - Disable videos on youtube and save battery and bandwidth / data
+- ![Stars](https://img.shields.io/github/stars/lawfx/YoutubeNonStop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lawfx/YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - Autoclicker for Youtube's latest "feature" - Video paused. Continue watching?
+- ![Stars](https://img.shields.io/github/stars/vantezzen/pinforgithub?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [vantezzen/pinforgithub](https://github.com/vantezzen/pinforgithub) - 📌 Save repositories on GitHub for later without having to star them
+- ![Stars](https://img.shields.io/github/stars/SVG-Edit/svgedit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
+- ![Stars](https://img.shields.io/github/stars/sneakypete81/updatescanner?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sneakypete81/updatescanner](https://github.com/sneakypete81/updatescanner) - Firefox addon to monitor web pages for updates.
+- ![Stars](https://img.shields.io/github/stars/ipfs/ipfs-webui?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
+- ![Stars](https://img.shields.io/github/stars/craigbuckler/11ty-starter?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [craigbuckler/11ty-starter](https://github.com/craigbuckler/11ty-starter) - 11ty starter site with example code and how-tos.
+- ![Stars](https://img.shields.io/github/stars/11ty/eleventy?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+- ![Stars](https://img.shields.io/github/stars/ipfs-shipyard/IGiS?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ipfs-shipyard/IGiS](https://github.com/ipfs-shipyard/IGiS) - Interplanetary Git Service
+- ![Stars](https://img.shields.io/github/stars/badges/shields?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+- ![Stars](https://img.shields.io/github/stars/useful-forks/useful-forks.github.io?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
+- ![Stars](https://img.shields.io/github/stars/SimonBrazell/privacy-redirect?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
+- ![Stars](https://img.shields.io/github/stars/nextcloud/passman?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nextcloud/passman](https://github.com/nextcloud/passman) - 🔐 Open source password manager with Nextcloud integration
+- ![Stars](https://img.shields.io/github/stars/jgraph/drawio-desktop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+- ![Stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
+- ![Stars](https://img.shields.io/github/stars/brave/brave-browser?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
+- ![Stars](https://img.shields.io/github/stars/gorhill/uBlock?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- ![Stars](https://img.shields.io/github/stars/hubotio/hubot?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
+- ![Stars](https://img.shields.io/github/stars/gorhill/uMatrix?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
+- ![Stars](https://img.shields.io/github/stars/AnarchyLinux/installer?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AnarchyLinux/installer](https://github.com/AnarchyLinux/installer) - Anarchy Linux - A simple and intuitive Arch Linux installer. https://anarchyinstaller.org/
+- ![Stars](https://img.shields.io/github/stars/webmonitoring/pagemon-chrome-ext?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [webmonitoring/pagemon-chrome-ext](https://github.com/webmonitoring/pagemon-chrome-ext) - Stays in the background and monitors web pages for changes.
 
 ## Jinja 
 
-- [OpenSourceEcology/ansible](https://github.com/OpenSourceEcology/ansible) - Ansible Playbooks for Provisioning of OSE Servers
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
+- ![Stars](https://img.shields.io/github/stars/OpenSourceEcology/ansible?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [OpenSourceEcology/ansible](https://github.com/OpenSourceEcology/ansible) - Ansible Playbooks for Provisioning of OSE Servers
+- ![Stars](https://img.shields.io/github/stars/netbootxyz/netboot.xyz?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
 ## Jupyter Notebook 
 
-- [Savjee/yt-spam-classifier](https://github.com/Savjee/yt-spam-classifier) - Using TensorFlow to automatically filter crypto-related spam comments on YouTube.
+- ![Stars](https://img.shields.io/github/stars/Savjee/yt-spam-classifier?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Savjee/yt-spam-classifier](https://github.com/Savjee/yt-spam-classifier) - Using TensorFlow to automatically filter crypto-related spam comments on YouTube.
 
 ## Just 
 
-- [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
+- ![Stars](https://img.shields.io/github/stars/pop-os/cosmic-epoch?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 
 ## Kotlin 
 
-- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
-- [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) - A simple app for discovering tools that respects your privacy.
-- [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) - An android git client
-- [crackededed/Xtra](https://github.com/crackededed/Xtra) - Xtra is a Twitch player and browser for Android.
-- [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
-- [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) - A fully open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported)
-- [futo-org/grayjay-android](https://github.com/futo-org/grayjay-android) - Read-only mirror of Grayjay repo for issue tracking
-- [SkyD666/PodAura](https://github.com/SkyD666/PodAura) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
-- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
-- [twofas/2fas-android](https://github.com/twofas/2fas-android) - Source code for 2FAS Auth Android app
-- [Myzel394/NumberHub](https://github.com/Myzel394/NumberHub) - ➗ Your Hub for ✖️ Math / 💲 Currency rates / 📆 Date calculations / ⌚ Time zones
-- [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
-- [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
-- [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
-- [wrwrabbit/Partisan-SMS](https://github.com/wrwrabbit/Partisan-SMS) - Encrypted SMS messenger for Android
-- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
-- [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
-- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
-- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
-- [LagradOst/QuickNovel](https://github.com/LagradOst/QuickNovel) - Android app for downloading novels
-- [8VIM/8VIM](https://github.com/8VIM/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
-- [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
+- ![Stars](https://img.shields.io/github/stars/InfinityLoop1308/PipePipe?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
+- ![Stars](https://img.shields.io/github/stars/kaleedtc/Privacium?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) - A simple app for discovering tools that respects your privacy.
+- ![Stars](https://img.shields.io/github/stars/catpuppyapp/PuppyGit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) - An android git client
+- ![Stars](https://img.shields.io/github/stars/crackededed/Xtra?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [crackededed/Xtra](https://github.com/crackededed/Xtra) - Xtra is a Twitch player and browser for Android.
+- ![Stars](https://img.shields.io/github/stars/SimonSchubert/LinuxCommandLibrary?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
+- ![Stars](https://img.shields.io/github/stars/WirelessAlien/ZipXtract?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) - A fully open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported)
+- ![Stars](https://img.shields.io/github/stars/futo-org/grayjay-android?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [futo-org/grayjay-android](https://github.com/futo-org/grayjay-android) - Read-only mirror of Grayjay repo for issue tracking
+- ![Stars](https://img.shields.io/github/stars/SkyD666/PodAura?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [SkyD666/PodAura](https://github.com/SkyD666/PodAura) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
+- ![Stars](https://img.shields.io/github/stars/accrescent/accrescent?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
+- ![Stars](https://img.shields.io/github/stars/twofas/2fas-android?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [twofas/2fas-android](https://github.com/twofas/2fas-android) - Source code for 2FAS Auth Android app
+- ![Stars](https://img.shields.io/github/stars/Myzel394/NumberHub?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Myzel394/NumberHub](https://github.com/Myzel394/NumberHub) - ➗ Your Hub for ✖️ Math / 💲 Currency rates / 📆 Date calculations / ⌚ Time zones
+- ![Stars](https://img.shields.io/github/stars/FossifyOrg/File-Manager?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
+- ![Stars](https://img.shields.io/github/stars/FossifyOrg/Messages?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
+- ![Stars](https://img.shields.io/github/stars/moezbhatti/qksms?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
+- ![Stars](https://img.shields.io/github/stars/wrwrabbit/Partisan-SMS?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [wrwrabbit/Partisan-SMS](https://github.com/wrwrabbit/Partisan-SMS) - Encrypted SMS messenger for Android
+- ![Stars](https://img.shields.io/github/stars/celzero/rethink-app?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
+- ![Stars](https://img.shields.io/github/stars/ReadYouApp/ReadYou?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
+- ![Stars](https://img.shields.io/github/stars/JunkFood02/Seal?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
+- ![Stars](https://img.shields.io/github/stars/recloudstream/cloudstream?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
+- ![Stars](https://img.shields.io/github/stars/LagradOst/QuickNovel?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [LagradOst/QuickNovel](https://github.com/LagradOst/QuickNovel) - Android app for downloading novels
+- ![Stars](https://img.shields.io/github/stars/8VIM/8VIM?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [8VIM/8VIM](https://github.com/8VIM/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
+- ![Stars](https://img.shields.io/github/stars/yairm210/Unciv?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 
 ## Lua 
 
-- [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
-- [deficient/keyboard-layout-indicator](https://github.com/deficient/keyboard-layout-indicator) - Keyboard layout indicator/switcher widget for awesome-wm
-- [lite-xl/lite-xl-plugins](https://github.com/lite-xl/lite-xl-plugins) - Plugins for the Lite XL editor
-- [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
-- [ross-software/Shell](https://github.com/ross-software/Shell) - Linux Application Launcher using a radial menu, recommended window manager configurations and more
-- [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
-- [metis-os/Releases](https://github.com/metis-os/Releases) - 🐧 Releases: Latest iso of metis linux
-- [raven2cz/awesomewm-config](https://github.com/raven2cz/awesomewm-config) - RAVEN2CZ: AwesomeWM Configuration, Libraries and Themes.
-- [jaglux12/awesome-copycats](https://github.com/jaglux12/awesome-copycats) - Awesome WM themes
-- [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
-- [stefano-m/awesome-connman_widget](https://github.com/stefano-m/awesome-connman_widget) - A widget for the Awesome Window Manager to monitor the network with Connman
-- [zen0bit/MACenhaced](https://github.com/zen0bit/MACenhaced) - Miscreated Advanced Crafting enhaced
-- [4ban/awesome-pro](https://github.com/4ban/awesome-pro) - Awesome WM 4.x themes configs
-- [worron/awesome-config](https://github.com/worron/awesome-config) - Awesome WM config
-- [streetturtle/awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) - Widgets for Awesome Window Manager
-- [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
-- [lcpz/lain](https://github.com/lcpz/lain) - Awesome WM complements
-- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
-- [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
-- [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
+- ![Stars](https://img.shields.io/github/stars/BlingCorp/bling?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
+- ![Stars](https://img.shields.io/github/stars/deficient/keyboard-layout-indicator?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [deficient/keyboard-layout-indicator](https://github.com/deficient/keyboard-layout-indicator) - Keyboard layout indicator/switcher widget for awesome-wm
+- ![Stars](https://img.shields.io/github/stars/lite-xl/lite-xl-plugins?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lite-xl/lite-xl-plugins](https://github.com/lite-xl/lite-xl-plugins) - Plugins for the Lite XL editor
+- ![Stars](https://img.shields.io/github/stars/tomasklaen/uosc?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
+- ![Stars](https://img.shields.io/github/stars/ross-software/Shell?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ross-software/Shell](https://github.com/ross-software/Shell) - Linux Application Launcher using a radial menu, recommended window manager configurations and more
+- ![Stars](https://img.shields.io/github/stars/lite-xl/lite-xl?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
+- ![Stars](https://img.shields.io/github/stars/metis-os/Releases?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [metis-os/Releases](https://github.com/metis-os/Releases) - 🐧 Releases: Latest iso of metis linux
+- ![Stars](https://img.shields.io/github/stars/raven2cz/awesomewm-config?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [raven2cz/awesomewm-config](https://github.com/raven2cz/awesomewm-config) - RAVEN2CZ: AwesomeWM Configuration, Libraries and Themes.
+- ![Stars](https://img.shields.io/github/stars/jaglux12/awesome-copycats?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jaglux12/awesome-copycats](https://github.com/jaglux12/awesome-copycats) - Awesome WM themes
+- ![Stars](https://img.shields.io/github/stars/lcpz/awesome-copycats?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
+- ![Stars](https://img.shields.io/github/stars/stefano-m/awesome-connman_widget?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [stefano-m/awesome-connman_widget](https://github.com/stefano-m/awesome-connman_widget) - A widget for the Awesome Window Manager to monitor the network with Connman
+- ![Stars](https://img.shields.io/github/stars/zen0bit/MACenhaced?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zen0bit/MACenhaced](https://github.com/zen0bit/MACenhaced) - Miscreated Advanced Crafting enhaced
+- ![Stars](https://img.shields.io/github/stars/4ban/awesome-pro?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [4ban/awesome-pro](https://github.com/4ban/awesome-pro) - Awesome WM 4.x themes configs
+- ![Stars](https://img.shields.io/github/stars/worron/awesome-config?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [worron/awesome-config](https://github.com/worron/awesome-config) - Awesome WM config
+- ![Stars](https://img.shields.io/github/stars/streetturtle/awesome-wm-widgets?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [streetturtle/awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) - Widgets for Awesome Window Manager
+- ![Stars](https://img.shields.io/github/stars/WillPower3309/awesome-dotfiles?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
+- ![Stars](https://img.shields.io/github/stars/lcpz/lain?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lcpz/lain](https://github.com/lcpz/lain) - Awesome WM complements
+- ![Stars](https://img.shields.io/github/stars/elenapan/dotfiles?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
+- ![Stars](https://img.shields.io/github/stars/eromatiya/the-glorious-dotfiles?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
+- ![Stars](https://img.shields.io/github/stars/awesomeWM/awesome?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 
 ## MDX 
 
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- ![Stars](https://img.shields.io/github/stars/nikitavoloboev/nikiv?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 
 ## Makefile 
 
-- [freddylist/xbps-src-framework](https://github.com/freddylist/xbps-src-framework) - Framework/glue for working with xbps-src to bulk build packages from custom and restricted templates.
-- [presire/PPKeyboard_How_to_Install](https://github.com/presire/PPKeyboard_How_to_Install) - This is the installation procedure for the PinePhone keyboard driver.Please feel free to use it.
-- [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
-- [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
+- ![Stars](https://img.shields.io/github/stars/freddylist/xbps-src-framework?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [freddylist/xbps-src-framework](https://github.com/freddylist/xbps-src-framework) - Framework/glue for working with xbps-src to bulk build packages from custom and restricted templates.
+- ![Stars](https://img.shields.io/github/stars/presire/PPKeyboard_How_to_Install?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [presire/PPKeyboard_How_to_Install](https://github.com/presire/PPKeyboard_How_to_Install) - This is the installation procedure for the PinePhone keyboard driver.Please feel free to use it.
+- ![Stars](https://img.shields.io/github/stars/maxnet/berryboot?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [maxnet/berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
+- ![Stars](https://img.shields.io/github/stars/procount/pinn?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 
 ## Markdown 
 
-- [oSoWoSo/SimpleX-Discover](https://github.com/oSoWoSo/SimpleX-Discover) - SimpleX public groups list
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/SimpleX-Discover?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/SimpleX-Discover](https://github.com/oSoWoSo/SimpleX-Discover) - SimpleX public groups list
+- ![Stars](https://img.shields.io/github/stars/tldr-pages/tldr?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- ![Stars](https://img.shields.io/github/stars/codecrafters-io/build-your-own-x?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Meson 
 
-- [hyprwm/hyprland-protocols](https://github.com/hyprwm/hyprland-protocols) - Wayland protocol extensions for Hyprland
+- ![Stars](https://img.shields.io/github/stars/hyprwm/hyprland-protocols?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [hyprwm/hyprland-protocols](https://github.com/hyprwm/hyprland-protocols) - Wayland protocol extensions for Hyprland
 
 ## Motoko 
 
-- [AM-community/localization](https://github.com/AM-community/localization) - Locale files to use AM in your language
+- ![Stars](https://img.shields.io/github/stars/AM-community/localization?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AM-community/localization](https://github.com/AM-community/localization) - Locale files to use AM in your language
 
 ## Nix 
 
-- [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
-- [Tow-Boot/Tow-Boot](https://github.com/Tow-Boot/Tow-Boot) - An opinionated distribution of U-Boot. — https://matrix.to/#/#Tow-Boot:matrix.org?via=matrix.org
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
+- ![Stars](https://img.shields.io/github/stars/nix-community/NixNG
+maintainer=@MagicRB?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
+- ![Stars](https://img.shields.io/github/stars/Tow-Boot/Tow-Boot?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Tow-Boot/Tow-Boot](https://github.com/Tow-Boot/Tow-Boot) - An opinionated distribution of U-Boot. — https://matrix.to/#/#Tow-Boot:matrix.org?via=matrix.org
+- ![Stars](https://img.shields.io/github/stars/NixOS/nixpkgs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## Objective-C 
 
-- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
+- ![Stars](https://img.shields.io/github/stars/darlinghq/darling?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 
 ## Others 
 
-- [classabbyamp/xX_tools_Xx](https://github.com/classabbyamp/xX_tools_Xx) - even more helpers for working with xbps and xbps-src
-- [oSoWoSo/.github](https://github.com/oSoWoSo/.github) - oSoWoSo readme
-- [AdguardTeam/AdguardForAndroid](https://github.com/AdguardTeam/AdguardForAndroid) - Open bug tracker for Android version of AdGuard.
-- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
-- [avtzis/awesome-linux-ricing](https://github.com/avtzis/awesome-linux-ricing) - 🎨 Curated list of awesome themes, tools and apps for customizing the Linux environment.
-- [lazylinuxos/lazy-repo](https://github.com/lazylinuxos/lazy-repo) - LazyLinux custom repository
-- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
-- [oSoWoSo/awesome-void-linux](https://github.com/oSoWoSo/awesome-void-linux) - 
-- [RileyMeta/Bash-Dialog](https://github.com/RileyMeta/Bash-Dialog) - A Comprehensive guide to Bash and Dialog scripting with interactive and easily editable examples.
-- [simsieg/awesome-maps](https://github.com/simsieg/awesome-maps) - There is more than google: A collection of great online maps 🌍🗺🌎
-- [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
-- [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.
-- [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
-- [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
-- [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) - Lovingly crafted AppImage tools and resources
-- [SamDc73/distro-svg](https://github.com/SamDc73/distro-svg) - 
-- [VX-Linux/main](https://github.com/VX-Linux/main) - A pre-configured, secure systemd-free Plasma desktop. Based on the excellent Void Linux.
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
-- [CereusLinuxProject/repos](https://github.com/CereusLinuxProject/repos) - Cereus Linux Extra repository
-- [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
-- [rainbow-sh/tui-shop-repo](https://github.com/rainbow-sh/tui-shop-repo) - The place that all apps from tui-store live in.
-- [johna23-lab/F-Void](https://github.com/johna23-lab/F-Void) - Fork of Linux Void
-- [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [digtalaloha/synology-docker-pihole-unbound](https://github.com/digtalaloha/synology-docker-pihole-unbound) - 
-- [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
-- [garrett/Tux](https://github.com/garrett/Tux) - Tux, the Linux penguin
-- [gabeeOSLinux/gabeeOSBudgie](https://github.com/gabeeOSLinux/gabeeOSBudgie) - 
-- [gabeeOSLinux/gabeeOSLinux](https://github.com/gabeeOSLinux/gabeeOSLinux) - The beauty of Gnome | The power of Void
-- [CereusLinuxProject/vibrancy-icon-theme](https://github.com/CereusLinuxProject/vibrancy-icon-theme) - Theme files extracted from original source (for use with xbps-src or AUR).
-- [EmixamPP/synology-drive](https://github.com/EmixamPP/synology-drive) - Unofficial RPM package of Synology Drive Client
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-- [OpenMandrivaAssociation/gnucash](https://github.com/OpenMandrivaAssociation/gnucash) - 
-- [may215/awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
-- [tailscale/tailscale-synology](https://github.com/tailscale/tailscale-synology) - Synology packages for tailscale.com
-- [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
-- [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - curated list of open-source anti-censorship tools
-- [BasixKOR/awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) - Awesome list of ActivityPub based projects
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [MichaelTunnell/dl-picks](https://github.com/MichaelTunnell/dl-picks) - Spotlights, Tips, Tricks and other Picks from the Destination Linux podcast
-- [nemomobile-ux/main](https://github.com/nemomobile-ux/main) - Main repo for docs and issues of Nemomobile
-- [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [Naereen/nanorc](https://github.com/Naereen/nanorc) - :wrench: :art: Some syntax highlighting files for the GNU/Nano editor :pencil: https://nano-editor.org/
-- [shubham-cpp/void-pkg-templates](https://github.com/shubham-cpp/void-pkg-templates) - Custom templates for several packages that could be installed using xbps-src
-- [MadFlasheroo7/void-templates](https://github.com/MadFlasheroo7/void-templates) - Templates for xbps-src
-- [ibhagwan/megasync-template](https://github.com/ibhagwan/megasync-template) - MEGAsync xbps-src void linux template
-- [ibhagwan/picom-ibhagwan-template](https://github.com/ibhagwan/picom-ibhagwan-template) - Void Linux template file for xbps-src
-- [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [pftf/RPi4](https://github.com/pftf/RPi4) - Raspberry Pi 4 UEFI Firmware Images
-- [nenadstoisavljevic/t420-coreboot-guide](https://github.com/nenadstoisavljevic/t420-coreboot-guide) - Guide for flashing coreboot on the ThinkPad T420
-- [codedmart/slim-simple-void-theme](https://github.com/codedmart/slim-simple-void-theme) - Fancy SLiM theme for Void Linux
-- [0x29aNull/DarkVoid](https://github.com/0x29aNull/DarkVoid) - 
-- [zen0bit/zen0bit.github.io](https://github.com/zen0bit/zen0bit.github.io) - 
-- [nonunknown/godot-powerful](https://github.com/nonunknown/godot-powerful) - List of plugins to turn godot into a most powerful engine that already is.
-- [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
-- [dessalines/Messaging-Services-Comparison](https://github.com/dessalines/Messaging-Services-Comparison) - A comparison of messaging services and protocols.
-- [DeuxEx/LogAnalyzer](https://github.com/DeuxEx/LogAnalyzer) - LogAnalyzer (for Entropia Universe logfile) (MMO RCE)
-- [ubports/porting-notes](https://github.com/ubports/porting-notes) - A repo to keep in-progress device ports information and information useful to porters that is not in official docs yet
-- [Havoc-OS/Devices](https://github.com/Havoc-OS/Devices) - 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [atsepkov/awesome-awesome-wm](https://github.com/atsepkov/awesome-awesome-wm) - A curated list of awesome tools/scripts/configs for Awesome Window Manager.
-- [silvernode/awesome-linux](https://github.com/silvernode/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [downthecrop/openbox-theme-collections](https://github.com/downthecrop/openbox-theme-collections) - My Openbox Theme Collections
-- [AntSunrise/URxvt-themes](https://github.com/AntSunrise/URxvt-themes) - My .Xdefaults
-- [addy-dclxvi/openbox-theme-collections](https://github.com/addy-dclxvi/openbox-theme-collections) - My Openbox Theme Collections
-- [Tinram/Linux-Utilities](https://github.com/Tinram/Linux-Utilities) - 'Useful' Linux programs/packages – personal reference list.
-- [Lend27/linuxstuff](https://github.com/Lend27/linuxstuff) - 
+- ![Stars](https://img.shields.io/github/stars/classabbyamp/xX_tools_Xx?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [classabbyamp/xX_tools_Xx](https://github.com/classabbyamp/xX_tools_Xx) - even more helpers for working with xbps and xbps-src
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/.github?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/.github](https://github.com/oSoWoSo/.github) - oSoWoSo readme
+- ![Stars](https://img.shields.io/github/stars/AdguardTeam/AdguardForAndroid?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AdguardTeam/AdguardForAndroid](https://github.com/AdguardTeam/AdguardForAndroid) - Open bug tracker for Android version of AdGuard.
+- ![Stars](https://img.shields.io/github/stars/rothgar/awesome-tuis?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
+- ![Stars](https://img.shields.io/github/stars/avtzis/awesome-linux-ricing?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [avtzis/awesome-linux-ricing](https://github.com/avtzis/awesome-linux-ricing) - 🎨 Curated list of awesome themes, tools and apps for customizing the Linux environment.
+- ![Stars](https://img.shields.io/github/stars/lazylinuxos/lazy-repo?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lazylinuxos/lazy-repo](https://github.com/lazylinuxos/lazy-repo) - LazyLinux custom repository
+- ![Stars](https://img.shields.io/github/stars/zellij-org/awesome-zellij?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/awesome-void-linux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/awesome-void-linux](https://github.com/oSoWoSo/awesome-void-linux) - 
+- ![Stars](https://img.shields.io/github/stars/RileyMeta/Bash-Dialog?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [RileyMeta/Bash-Dialog](https://github.com/RileyMeta/Bash-Dialog) - A Comprehensive guide to Bash and Dialog scripting with interactive and easily editable examples.
+- ![Stars](https://img.shields.io/github/stars/simsieg/awesome-maps?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [simsieg/awesome-maps](https://github.com/simsieg/awesome-maps) - There is more than google: A collection of great online maps 🌍🗺🌎
+- ![Stars](https://img.shields.io/github/stars/Scrut1ny/GrapheneOS-Guide?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
+- ![Stars](https://img.shields.io/github/stars/cyberus-technology/virtualbox-kvm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.
+- ![Stars](https://img.shields.io/github/stars/hyprland-community/awesome-hyprland
+maintainer=@yavko?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
+- ![Stars](https://img.shields.io/github/stars/tmux-plugins/list?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
+- ![Stars](https://img.shields.io/github/stars/AppImageCommunity/awesome-appimage?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) - Lovingly crafted AppImage tools and resources
+- ![Stars](https://img.shields.io/github/stars/SamDc73/distro-svg?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [SamDc73/distro-svg](https://github.com/SamDc73/distro-svg) - 
+- ![Stars](https://img.shields.io/github/stars/VX-Linux/main?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [VX-Linux/main](https://github.com/VX-Linux/main) - A pre-configured, secure systemd-free Plasma desktop. Based on the excellent Void Linux.
+- ![Stars](https://img.shields.io/github/stars/MunGell/awesome-for-beginners?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+- ![Stars](https://img.shields.io/github/stars/CereusLinuxProject/repos?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [CereusLinuxProject/repos](https://github.com/CereusLinuxProject/repos) - Cereus Linux Extra repository
+- ![Stars](https://img.shields.io/github/stars/Calinou/awesome-godot?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Calinou/awesome-godot](https://github.com/Calinou/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
+- ![Stars](https://img.shields.io/github/stars/rainbow-sh/tui-shop-repo?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [rainbow-sh/tui-shop-repo](https://github.com/rainbow-sh/tui-shop-repo) - The place that all apps from tui-store live in.
+- ![Stars](https://img.shields.io/github/stars/johna23-lab/F-Void?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [johna23-lab/F-Void](https://github.com/johna23-lab/F-Void) - Fork of Linux Void
+- ![Stars](https://img.shields.io/github/stars/tiimgreen/github-cheat-sheet?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+- ![Stars](https://img.shields.io/github/stars/digtalaloha/synology-docker-pihole-unbound?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [digtalaloha/synology-docker-pihole-unbound](https://github.com/digtalaloha/synology-docker-pihole-unbound) - 
+- ![Stars](https://img.shields.io/github/stars/immersive-translate/immersive-translate?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+- ![Stars](https://img.shields.io/github/stars/garrett/Tux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [garrett/Tux](https://github.com/garrett/Tux) - Tux, the Linux penguin
+- ![Stars](https://img.shields.io/github/stars/gabeeOSLinux/gabeeOSBudgie?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [gabeeOSLinux/gabeeOSBudgie](https://github.com/gabeeOSLinux/gabeeOSBudgie) - 
+- ![Stars](https://img.shields.io/github/stars/gabeeOSLinux/gabeeOSLinux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [gabeeOSLinux/gabeeOSLinux](https://github.com/gabeeOSLinux/gabeeOSLinux) - The beauty of Gnome | The power of Void
+- ![Stars](https://img.shields.io/github/stars/CereusLinuxProject/vibrancy-icon-theme?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [CereusLinuxProject/vibrancy-icon-theme](https://github.com/CereusLinuxProject/vibrancy-icon-theme) - Theme files extracted from original source (for use with xbps-src or AUR).
+- ![Stars](https://img.shields.io/github/stars/EmixamPP/synology-drive?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [EmixamPP/synology-drive](https://github.com/EmixamPP/synology-drive) - Unofficial RPM package of Synology Drive Client
+- ![Stars](https://img.shields.io/github/stars/veggiemonk/awesome-docker?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+- ![Stars](https://img.shields.io/github/stars/OpenMandrivaAssociation/gnucash?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [OpenMandrivaAssociation/gnucash](https://github.com/OpenMandrivaAssociation/gnucash) - 
+- ![Stars](https://img.shields.io/github/stars/may215/awesome-termux-hacking?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [may215/awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
+- ![Stars](https://img.shields.io/github/stars/tailscale/tailscale-synology?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tailscale/tailscale-synology](https://github.com/tailscale/tailscale-synology) - Synology packages for tailscale.com
+- ![Stars](https://img.shields.io/github/stars/natpen/awesome-wayland?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
+- ![Stars](https://img.shields.io/github/stars/danoctavian/awesome-anti-censorship?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - curated list of open-source anti-censorship tools
+- ![Stars](https://img.shields.io/github/stars/BasixKOR/awesome-activitypub?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [BasixKOR/awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) - Awesome list of ActivityPub based projects
+- ![Stars](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- ![Stars](https://img.shields.io/github/stars/MichaelTunnell/dl-picks?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [MichaelTunnell/dl-picks](https://github.com/MichaelTunnell/dl-picks) - Spotlights, Tips, Tricks and other Picks from the Destination Linux podcast
+- ![Stars](https://img.shields.io/github/stars/nemomobile-ux/main?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nemomobile-ux/main](https://github.com/nemomobile-ux/main) - Main repo for docs and issues of Nemomobile
+- ![Stars](https://img.shields.io/github/stars/emilebosch/awesome-fediverse?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
+- ![Stars](https://img.shields.io/github/stars/ibraheemdev/modern-unix?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- ![Stars](https://img.shields.io/github/stars/Naereen/nanorc?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Naereen/nanorc](https://github.com/Naereen/nanorc) - :wrench: :art: Some syntax highlighting files for the GNU/Nano editor :pencil: https://nano-editor.org/
+- ![Stars](https://img.shields.io/github/stars/shubham-cpp/void-pkg-templates?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [shubham-cpp/void-pkg-templates](https://github.com/shubham-cpp/void-pkg-templates) - Custom templates for several packages that could be installed using xbps-src
+- ![Stars](https://img.shields.io/github/stars/MadFlasheroo7/void-templates?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [MadFlasheroo7/void-templates](https://github.com/MadFlasheroo7/void-templates) - Templates for xbps-src
+- ![Stars](https://img.shields.io/github/stars/ibhagwan/megasync-template?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ibhagwan/megasync-template](https://github.com/ibhagwan/megasync-template) - MEGAsync xbps-src void linux template
+- ![Stars](https://img.shields.io/github/stars/ibhagwan/picom-ibhagwan-template?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ibhagwan/picom-ibhagwan-template](https://github.com/ibhagwan/picom-ibhagwan-template) - Void Linux template file for xbps-src
+- ![Stars](https://img.shields.io/github/stars/pikvm/pikvm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
+- ![Stars](https://img.shields.io/github/stars/trimstray/the-book-of-secret-knowledge?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- ![Stars](https://img.shields.io/github/stars/pftf/RPi4?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pftf/RPi4](https://github.com/pftf/RPi4) - Raspberry Pi 4 UEFI Firmware Images
+- ![Stars](https://img.shields.io/github/stars/nenadstoisavljevic/t420-coreboot-guide?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nenadstoisavljevic/t420-coreboot-guide](https://github.com/nenadstoisavljevic/t420-coreboot-guide) - Guide for flashing coreboot on the ThinkPad T420
+- ![Stars](https://img.shields.io/github/stars/codedmart/slim-simple-void-theme?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [codedmart/slim-simple-void-theme](https://github.com/codedmart/slim-simple-void-theme) - Fancy SLiM theme for Void Linux
+- ![Stars](https://img.shields.io/github/stars/0x29aNull/DarkVoid?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [0x29aNull/DarkVoid](https://github.com/0x29aNull/DarkVoid) - 
+- ![Stars](https://img.shields.io/github/stars/zen0bit/zen0bit.github.io?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zen0bit/zen0bit.github.io](https://github.com/zen0bit/zen0bit.github.io) - 
+- ![Stars](https://img.shields.io/github/stars/nonunknown/godot-powerful?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nonunknown/godot-powerful](https://github.com/nonunknown/godot-powerful) - List of plugins to turn godot into a most powerful engine that already is.
+- ![Stars](https://img.shields.io/github/stars/godotengine/awesome-godot?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
+- ![Stars](https://img.shields.io/github/stars/dessalines/Messaging-Services-Comparison?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dessalines/Messaging-Services-Comparison](https://github.com/dessalines/Messaging-Services-Comparison) - A comparison of messaging services and protocols.
+- ![Stars](https://img.shields.io/github/stars/DeuxEx/LogAnalyzer?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [DeuxEx/LogAnalyzer](https://github.com/DeuxEx/LogAnalyzer) - LogAnalyzer (for Entropia Universe logfile) (MMO RCE)
+- ![Stars](https://img.shields.io/github/stars/ubports/porting-notes?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ubports/porting-notes](https://github.com/ubports/porting-notes) - A repo to keep in-progress device ports information and information useful to porters that is not in official docs yet
+- ![Stars](https://img.shields.io/github/stars/Havoc-OS/Devices?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Havoc-OS/Devices](https://github.com/Havoc-OS/Devices) - 
+- ![Stars](https://img.shields.io/github/stars/sindresorhus/awesome?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- ![Stars](https://img.shields.io/github/stars/jlevy/the-art-of-command-line?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- ![Stars](https://img.shields.io/github/stars/atsepkov/awesome-awesome-wm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [atsepkov/awesome-awesome-wm](https://github.com/atsepkov/awesome-awesome-wm) - A curated list of awesome tools/scripts/configs for Awesome Window Manager.
+- ![Stars](https://img.shields.io/github/stars/silvernode/awesome-linux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [silvernode/awesome-linux](https://github.com/silvernode/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
+- ![Stars](https://img.shields.io/github/stars/jorgebucaran/awsm.fish?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
+- ![Stars](https://img.shields.io/github/stars/alebcay/awesome-shell?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- ![Stars](https://img.shields.io/github/stars/downthecrop/openbox-theme-collections?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [downthecrop/openbox-theme-collections](https://github.com/downthecrop/openbox-theme-collections) - My Openbox Theme Collections
+- ![Stars](https://img.shields.io/github/stars/AntSunrise/URxvt-themes?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AntSunrise/URxvt-themes](https://github.com/AntSunrise/URxvt-themes) - My .Xdefaults
+- ![Stars](https://img.shields.io/github/stars/addy-dclxvi/openbox-theme-collections?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [addy-dclxvi/openbox-theme-collections](https://github.com/addy-dclxvi/openbox-theme-collections) - My Openbox Theme Collections
+- ![Stars](https://img.shields.io/github/stars/Tinram/Linux-Utilities?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Tinram/Linux-Utilities](https://github.com/Tinram/Linux-Utilities) - 'Useful' Linux programs/packages – personal reference list.
+- ![Stars](https://img.shields.io/github/stars/Lend27/linuxstuff?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Lend27/linuxstuff](https://github.com/Lend27/linuxstuff) - 
 
 ## PHP 
 
-- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-- [wibyweb/wiby](https://github.com/wibyweb/wiby) - Wiby Search Engine
-- [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
-- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
-- [seanwlk/synology-rarbg-dlm](https://github.com/seanwlk/synology-rarbg-dlm) - Synology DLM file for RARBG Torrent search made for Download station
-- [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
-- [thermage/thermage](https://github.com/thermage/thermage) - Thermage provides a fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
-- [robbraxman/braxme](https://github.com/robbraxman/braxme) - Brax.Me - Privacy Focused Social Media - Fully operational platform
+- ![Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+- ![Stars](https://img.shields.io/github/stars/wibyweb/wiby?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [wibyweb/wiby](https://github.com/wibyweb/wiby) - Wiby Search Engine
+- ![Stars](https://img.shields.io/github/stars/hnhx/librex?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
+- ![Stars](https://img.shields.io/github/stars/nextcloud/all-in-one?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+- ![Stars](https://img.shields.io/github/stars/seanwlk/synology-rarbg-dlm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [seanwlk/synology-rarbg-dlm](https://github.com/seanwlk/synology-rarbg-dlm) - Synology DLM file for RARBG Torrent search made for Download station
+- ![Stars](https://img.shields.io/github/stars/the-djmaze/snappymail?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
+- ![Stars](https://img.shields.io/github/stars/thermage/thermage?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [thermage/thermage](https://github.com/thermage/thermage) - Thermage provides a fluent and incredibly powerful object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
+- ![Stars](https://img.shields.io/github/stars/robbraxman/braxme?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [robbraxman/braxme](https://github.com/robbraxman/braxme) - Brax.Me - Privacy Focused Social Media - Fully operational platform
 
 ## Perl 
 
-- [linuxhw/hw-probe](https://github.com/linuxhw/hw-probe) - Probe for hardware, check operability and find drivers
-- [anhsirk0/fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Simple Dilbert themed system info-fetching tool
-- [trizen/obmenu-generator](https://github.com/trizen/obmenu-generator) - A fast menu generator for the Openbox Window Manager.
-- [ilnanny/OpenBox-addons-collection](https://github.com/ilnanny/OpenBox-addons-collection) - OpenBox addons collection
+- ![Stars](https://img.shields.io/github/stars/linuxhw/hw-probe?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [linuxhw/hw-probe](https://github.com/linuxhw/hw-probe) - Probe for hardware, check operability and find drivers
+- ![Stars](https://img.shields.io/github/stars/anhsirk0/fetch-master-6000?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [anhsirk0/fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Simple Dilbert themed system info-fetching tool
+- ![Stars](https://img.shields.io/github/stars/trizen/obmenu-generator?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [trizen/obmenu-generator](https://github.com/trizen/obmenu-generator) - A fast menu generator for the Openbox Window Manager.
+- ![Stars](https://img.shields.io/github/stars/ilnanny/OpenBox-addons-collection?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ilnanny/OpenBox-addons-collection](https://github.com/ilnanny/OpenBox-addons-collection) - OpenBox addons collection
 
 ## PowerShell 
 
-- [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
-- [madbomb122/BlackViperScript](https://github.com/madbomb122/BlackViperScript) - Sets Win 10 Services based on Black Viper's Service Configurations
+- ![Stars](https://img.shields.io/github/stars/ChrisTitusTech/win10script?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
+- ![Stars](https://img.shields.io/github/stars/madbomb122/BlackViperScript?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [madbomb122/BlackViperScript](https://github.com/madbomb122/BlackViperScript) - Sets Win 10 Services based on Black Viper's Service Configurations
 
 ## Python 
 
-- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
-- [CiviWiki/OpenCiviWiki](https://github.com/CiviWiki/OpenCiviWiki) - Building a Better Democracy for the Internet Age
-- [ashos/ashos](https://github.com/ashos/ashos) - The immutable/mutable meta-distribution (universal bootstrapper)
-- [candidtim/f2-commander](https://github.com/candidtim/f2-commander) - F2 Commander is an orthodox file manager for the modern world
-- [psygreg/linuxtoys](https://github.com/psygreg/linuxtoys) - A collection of tools for Linux in a user-friendly way.
-- [OpenSourceEcology/Civilization-Starter-Kit](https://github.com/OpenSourceEcology/Civilization-Starter-Kit) - Fork-ready base for your project's documentation using Sphinx + Read the Docs on GitHub Pages
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
-- [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
-- [nwg-piotr/nwg-shell-config](https://github.com/nwg-piotr/nwg-shell-config) - nwg-shell configuration utility
-- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
-- [FailSpy/simpx-py](https://github.com/FailSpy/simpx-py) - A SimpleX Python interface for scripting bots
-- [basnijholt/dotbins](https://github.com/basnijholt/dotbins) - Keep updated binaries in your dotfiles 🧰
-- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
-- [michalkasparek/barvy](https://github.com/michalkasparek/barvy) - Barevné palety vytahané z obrázkových knih.
-- [ElettraSciComp/Git-IPFS-Remote-Bridge](https://github.com/ElettraSciComp/Git-IPFS-Remote-Bridge) - Git IPFS Remote Bridge
-- [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
-- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
-- [Komorebi-Fork/komorebi](https://github.com/Komorebi-Fork/komorebi) - A beautiful and customisable wallpaper manager for Linux
-- [gort818/ddgtk](https://github.com/gort818/ddgtk) - A GUI frontend for dd to create bootable ISO images for Linux
-- [dtrx-py/dtrx](https://github.com/dtrx-py/dtrx) - Do The Right Extraction
-- [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
-- [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
-- [private-forks/mega-linter](https://github.com/private-forks/mega-linter) - Mega-Linter analyzes 37 languages, 15 formats, 16 tooling formats , copy-pastes and spell in your repository sources, generate reports in several formats, and can even apply formatting and auto-fixes 
-- [chimera-linux/cports](https://github.com/chimera-linux/cports) - Chimera ports collection
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
-- [the-modem-distro/pinephone_modem_sdk](https://github.com/the-modem-distro/pinephone_modem_sdk) - Pinephone Modem SDK: Tools to build your own bootloader, kernel and rootfs
-- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest UMU/GE-Proton and Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games, itch
-- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-- [xyproto/cxx](https://github.com/xyproto/cxx) - :electric_plug: Configuration-free utility for building, testing and packaging executables written in C++. Can auto-detect compilation flags based on includes, via the package system and pkg-config.
-- [rainbow-sh/tui-shop](https://github.com/rainbow-sh/tui-shop) - Something between a GUI and a CLI way of downloading apps.
-- [maximstewart/SolarFM](https://github.com/maximstewart/SolarFM) - SolarFM is a Gtk + Python file manager.
-- [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
-- [translate/translate](https://github.com/translate/translate) - Useful localization tools with Python API for building localization & translation systems
-- [RareDevs/Rare](https://github.com/RareDevs/Rare) - Rare is an open source alternative for Epic Games Launcher, using Legendary.
-- [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) - This is a python script that downloads Arch Linux packages (Official/Chaotic AUR) and converts to an AppImage executable
-- [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor
-- [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
-- [SynoCommunity/spkrepo](https://github.com/SynoCommunity/spkrepo) - Synology Package Repository
-- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
-- [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
-- [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
-- [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
-- [montagdude/awesome-appmenu](https://github.com/montagdude/awesome-appmenu) - Tool to create a menu of installed applications for the awesome window manager
-- [opsview/ansible](https://github.com/opsview/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
-- [grapheneX/grapheneX](https://github.com/grapheneX/grapheneX) - Automated System Hardening Framework
-- [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
-- [capyloon/B2G](https://github.com/capyloon/B2G) - Boot to Gecko aims to create a complete, standalone operating system for the open web.
-- [FatmanUK/xbps-repoman](https://github.com/FatmanUK/xbps-repoman) - Manager for XBPS repositories
-- [ogenfald/vps](https://github.com/ogenfald/vps) - A command line wrapper for Void's XBPS package manager
-- [whoizit/x](https://github.com/whoizit/x) - x is a wrapper around any package manager
-- [AUNaseef/protonup](https://github.com/AUNaseef/protonup) - Install and Update Proton-GE
-- [JasonG-FR/PineBattery](https://github.com/JasonG-FR/PineBattery) - GTK app for monitoring the PinePhone, PinePhonePro and PineTab battery.
-- [Chocimier/pkgs.void](https://github.com/Chocimier/pkgs.void) - Web catalog of Void Linux packages
-- [damentz/liquorix-package](https://github.com/damentz/liquorix-package) - Liquorix Debian Package
-- [garabik/grc](https://github.com/garabik/grc) - generic colouriser
-- [Kharacternyk/dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
-- [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
-- [wang1597538789/MigrateGitlabToGogs](https://github.com/wang1597538789/MigrateGitlabToGogs) - Migrate repositories from Gitlab to Gogs or Gitea
-- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
-- [Sbatushe/xbiw](https://github.com/Sbatushe/xbiw) - Xbps-install wrapper written in Python that doesn't care about case sensitiveness and package versions
-- [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
-- [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
-- [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👾💙
-- [jcjordyn130/vur](https://github.com/jcjordyn130/vur) - A void user repository
-- [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
-- [mahmoudk1000/dotfiles](https://github.com/mahmoudk1000/dotfiles) - .files, that makes my Linux machine awesome.
-- [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
-- [KrispyCamel4u/SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) - Linux system monitor with the compactness and usefulness of windows task manager to allow higher control and monitoring.
-- [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original by @derv82
-- [derv82/wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
-- [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
-- [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-- [kozec/sc-controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
-- [sharkwouter/minigalaxy](https://github.com/sharkwouter/minigalaxy) - A simple GOG client for Linux
-- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
-- [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
-- [madjar/nox](https://github.com/madjar/nox) - Tools to make nix nicer to use
-- [ChrisADR/installer](https://github.com/ChrisADR/installer) - Installer: An unofficial Gentoo installer designed in Python as Thesis Project from ChrisADR
-- [Rizwan-Hasan/ArchLinux-Mirrorlist-Manager](https://github.com/Rizwan-Hasan/ArchLinux-Mirrorlist-Manager) - A Qt frontend for easy mirrorlist management
-- [Sirmentio/protontricks](https://github.com/Sirmentio/protontricks) - A simple wrapper that does winetricks things for Proton enabled games, requires Winetricks.
+- ![Stars](https://img.shields.io/github/stars/Anjok07/ultimatevocalremovergui?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
+- ![Stars](https://img.shields.io/github/stars/CiviWiki/OpenCiviWiki?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [CiviWiki/OpenCiviWiki](https://github.com/CiviWiki/OpenCiviWiki) - Building a Better Democracy for the Internet Age
+- ![Stars](https://img.shields.io/github/stars/ashos/ashos?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ashos/ashos](https://github.com/ashos/ashos) - The immutable/mutable meta-distribution (universal bootstrapper)
+- ![Stars](https://img.shields.io/github/stars/candidtim/f2-commander?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [candidtim/f2-commander](https://github.com/candidtim/f2-commander) - F2 Commander is an orthodox file manager for the modern world
+- ![Stars](https://img.shields.io/github/stars/psygreg/linuxtoys?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [psygreg/linuxtoys](https://github.com/psygreg/linuxtoys) - A collection of tools for Linux in a user-friendly way.
+- ![Stars](https://img.shields.io/github/stars/OpenSourceEcology/Civilization-Starter-Kit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [OpenSourceEcology/Civilization-Starter-Kit](https://github.com/OpenSourceEcology/Civilization-Starter-Kit) - Fork-ready base for your project's documentation using Sphinx + Read the Docs on GitHub Pages
+- ![Stars](https://img.shields.io/github/stars/maguowei/starred?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- ![Stars](https://img.shields.io/github/stars/mps-youtube/yewtube?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
+- ![Stars](https://img.shields.io/github/stars/WeblateOrg/weblate?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
+- ![Stars](https://img.shields.io/github/stars/nwg-piotr/nwg-shell-config?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nwg-piotr/nwg-shell-config](https://github.com/nwg-piotr/nwg-shell-config) - nwg-shell configuration utility
+- ![Stars](https://img.shields.io/github/stars/anishathalye/dotbot?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
+- ![Stars](https://img.shields.io/github/stars/FailSpy/simpx-py?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [FailSpy/simpx-py](https://github.com/FailSpy/simpx-py) - A SimpleX Python interface for scripting bots
+- ![Stars](https://img.shields.io/github/stars/basnijholt/dotbins?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [basnijholt/dotbins](https://github.com/basnijholt/dotbins) - Keep updated binaries in your dotfiles 🧰
+- ![Stars](https://img.shields.io/github/stars/scrapy/scrapy?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- ![Stars](https://img.shields.io/github/stars/suitenumerique/docs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- ![Stars](https://img.shields.io/github/stars/michalkasparek/barvy?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [michalkasparek/barvy](https://github.com/michalkasparek/barvy) - Barevné palety vytahané z obrázkových knih.
+- ![Stars](https://img.shields.io/github/stars/ElettraSciComp/Git-IPFS-Remote-Bridge?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ElettraSciComp/Git-IPFS-Remote-Bridge](https://github.com/ElettraSciComp/Git-IPFS-Remote-Bridge) - Git IPFS Remote Bridge
+- ![Stars](https://img.shields.io/github/stars/mijorus/gearlever?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
+- ![Stars](https://img.shields.io/github/stars/offa/android-foss?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
+- ![Stars](https://img.shields.io/github/stars/Komorebi-Fork/komorebi?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Komorebi-Fork/komorebi](https://github.com/Komorebi-Fork/komorebi) - A beautiful and customisable wallpaper manager for Linux
+- ![Stars](https://img.shields.io/github/stars/gort818/ddgtk?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [gort818/ddgtk](https://github.com/gort818/ddgtk) - A GUI frontend for dd to create bootable ISO images for Linux
+- ![Stars](https://img.shields.io/github/stars/dtrx-py/dtrx?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dtrx-py/dtrx](https://github.com/dtrx-py/dtrx) - Do The Right Extraction
+- ![Stars](https://img.shields.io/github/stars/sezanzeb/input-remapper?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
+- ![Stars](https://img.shields.io/github/stars/hiddify/Hiddify-Manager?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
+- ![Stars](https://img.shields.io/github/stars/private-forks/mega-linter?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [private-forks/mega-linter](https://github.com/private-forks/mega-linter) - Mega-Linter analyzes 37 languages, 15 formats, 16 tooling formats , copy-pastes and spell in your repository sources, generate reports in several formats, and can even apply formatting and auto-fixes 
+- ![Stars](https://img.shields.io/github/stars/chimera-linux/cports?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [chimera-linux/cports](https://github.com/chimera-linux/cports) - Chimera ports collection
+- ![Stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- ![Stars](https://img.shields.io/github/stars/BlinkDL/RWKV-LM?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
+- ![Stars](https://img.shields.io/github/stars/the-modem-distro/pinephone_modem_sdk?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [the-modem-distro/pinephone_modem_sdk](https://github.com/the-modem-distro/pinephone_modem_sdk) - Pinephone Modem SDK: Tools to build your own bootloader, kernel and rootfs
+- ![Stars](https://img.shields.io/github/stars/moraroy/NonSteamLaunchers-On-Steam-Deck?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest UMU/GE-Proton and Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games, itch
+- ![Stars](https://img.shields.io/github/stars/521xueweihan/HelloGitHub?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+- ![Stars](https://img.shields.io/github/stars/xyproto/cxx?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [xyproto/cxx](https://github.com/xyproto/cxx) - :electric_plug: Configuration-free utility for building, testing and packaging executables written in C++. Can auto-detect compilation flags based on includes, via the package system and pkg-config.
+- ![Stars](https://img.shields.io/github/stars/rainbow-sh/tui-shop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [rainbow-sh/tui-shop](https://github.com/rainbow-sh/tui-shop) - Something between a GUI and a CLI way of downloading apps.
+- ![Stars](https://img.shields.io/github/stars/maximstewart/SolarFM?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [maximstewart/SolarFM](https://github.com/maximstewart/SolarFM) - SolarFM is a Gtk + Python file manager.
+- ![Stars](https://img.shields.io/github/stars/kdeldycke/meta-package-manager?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
+- ![Stars](https://img.shields.io/github/stars/translate/translate?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [translate/translate](https://github.com/translate/translate) - Useful localization tools with Python API for building localization & translation systems
+- ![Stars](https://img.shields.io/github/stars/RareDevs/Rare?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [RareDevs/Rare](https://github.com/RareDevs/Rare) - Rare is an open source alternative for Epic Games Launcher, using Legendary.
+- ![Stars](https://img.shields.io/github/stars/hanzala123/arch2appimage?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) - This is a python script that downloads Arch Linux packages (Official/Chaotic AUR) and converts to an AppImage executable
+- ![Stars](https://img.shields.io/github/stars/hakandundar34coding/system-monitoring-center?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor
+- ![Stars](https://img.shields.io/github/stars/pyload/pyload?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
+- ![Stars](https://img.shields.io/github/stars/SynoCommunity/spkrepo?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [SynoCommunity/spkrepo](https://github.com/SynoCommunity/spkrepo) - Synology Package Repository
+- ![Stars](https://img.shields.io/github/stars/waydroid/waydroid?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+- ![Stars](https://img.shields.io/github/stars/Matoking/protontricks?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
+- ![Stars](https://img.shields.io/github/stars/bookwyrm-social/bookwyrm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
+- ![Stars](https://img.shields.io/github/stars/srevinsaju/guiscrcpy?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
+- ![Stars](https://img.shields.io/github/stars/montagdude/awesome-appmenu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [montagdude/awesome-appmenu](https://github.com/montagdude/awesome-appmenu) - Tool to create a menu of installed applications for the awesome window manager
+- ![Stars](https://img.shields.io/github/stars/opsview/ansible?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [opsview/ansible](https://github.com/opsview/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in
+- ![Stars](https://img.shields.io/github/stars/ccxt/ccxt?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+- ![Stars](https://img.shields.io/github/stars/grapheneX/grapheneX?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [grapheneX/grapheneX](https://github.com/grapheneX/grapheneX) - Automated System Hardening Framework
+- ![Stars](https://img.shields.io/github/stars/mailpile/Mailpile?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
+- ![Stars](https://img.shields.io/github/stars/capyloon/B2G?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [capyloon/B2G](https://github.com/capyloon/B2G) - Boot to Gecko aims to create a complete, standalone operating system for the open web.
+- ![Stars](https://img.shields.io/github/stars/FatmanUK/xbps-repoman?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [FatmanUK/xbps-repoman](https://github.com/FatmanUK/xbps-repoman) - Manager for XBPS repositories
+- ![Stars](https://img.shields.io/github/stars/ogenfald/vps?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ogenfald/vps](https://github.com/ogenfald/vps) - A command line wrapper for Void's XBPS package manager
+- ![Stars](https://img.shields.io/github/stars/whoizit/x?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [whoizit/x](https://github.com/whoizit/x) - x is a wrapper around any package manager
+- ![Stars](https://img.shields.io/github/stars/AUNaseef/protonup?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AUNaseef/protonup](https://github.com/AUNaseef/protonup) - Install and Update Proton-GE
+- ![Stars](https://img.shields.io/github/stars/JasonG-FR/PineBattery?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [JasonG-FR/PineBattery](https://github.com/JasonG-FR/PineBattery) - GTK app for monitoring the PinePhone, PinePhonePro and PineTab battery.
+- ![Stars](https://img.shields.io/github/stars/Chocimier/pkgs.void?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Chocimier/pkgs.void](https://github.com/Chocimier/pkgs.void) - Web catalog of Void Linux packages
+- ![Stars](https://img.shields.io/github/stars/damentz/liquorix-package?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [damentz/liquorix-package](https://github.com/damentz/liquorix-package) - Liquorix Debian Package
+- ![Stars](https://img.shields.io/github/stars/garabik/grc?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [garabik/grc](https://github.com/garabik/grc) - generic colouriser
+- ![Stars](https://img.shields.io/github/stars/Kharacternyk/dotcommon?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Kharacternyk/dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
+- ![Stars](https://img.shields.io/github/stars/virt-manager/virt-manager?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
+- ![Stars](https://img.shields.io/github/stars/wang1597538789/MigrateGitlabToGogs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [wang1597538789/MigrateGitlabToGogs](https://github.com/wang1597538789/MigrateGitlabToGogs) - Migrate repositories from Gitlab to Gogs or Gitea
+- ![Stars](https://img.shields.io/github/stars/raspberrypi/documentation?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
+- ![Stars](https://img.shields.io/github/stars/Sbatushe/xbiw?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Sbatushe/xbiw](https://github.com/Sbatushe/xbiw) - Xbps-install wrapper written in Python that doesn't care about case sensitiveness and package versions
+- ![Stars](https://img.shields.io/github/stars/yadm-dev/yadm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
+- ![Stars](https://img.shields.io/github/stars/DavidoTek/ProtonUp-Qt?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
+- ![Stars](https://img.shields.io/github/stars/VandalByte/darkmatter-grub2-theme?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👾💙
+- ![Stars](https://img.shields.io/github/stars/jcjordyn130/vur?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jcjordyn130/vur](https://github.com/jcjordyn130/vur) - A void user repository
+- ![Stars](https://img.shields.io/github/stars/dylanaraps/pywal?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
+- ![Stars](https://img.shields.io/github/stars/mahmoudk1000/dotfiles?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mahmoudk1000/dotfiles](https://github.com/mahmoudk1000/dotfiles) - .files, that makes my Linux machine awesome.
+- ![Stars](https://img.shields.io/github/stars/AdnanHodzic/auto-cpufreq?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
+- ![Stars](https://img.shields.io/github/stars/KrispyCamel4u/SysMonTask?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [KrispyCamel4u/SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) - Linux system monitor with the compactness and usefulness of windows task manager to allow higher control and monitoring.
+- ![Stars](https://img.shields.io/github/stars/kimocoder/wifite2?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original by @derv82
+- ![Stars](https://img.shields.io/github/stars/derv82/wifite2?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [derv82/wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
+- ![Stars](https://img.shields.io/github/stars/aristocratos/bpytop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
+- ![Stars](https://img.shields.io/github/stars/derrod/legendary?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
+- ![Stars](https://img.shields.io/github/stars/chubin/cheat.sh?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- ![Stars](https://img.shields.io/github/stars/searx/searx?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
+- ![Stars](https://img.shields.io/github/stars/kozec/sc-controller?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [kozec/sc-controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
+- ![Stars](https://img.shields.io/github/stars/sharkwouter/minigalaxy?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sharkwouter/minigalaxy](https://github.com/sharkwouter/minigalaxy) - A simple GOG client for Linux
+- ![Stars](https://img.shields.io/github/stars/lutris/lutris?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
+- ![Stars](https://img.shields.io/github/stars/themix-project/themix-gui?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
+- ![Stars](https://img.shields.io/github/stars/madjar/nox?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [madjar/nox](https://github.com/madjar/nox) - Tools to make nix nicer to use
+- ![Stars](https://img.shields.io/github/stars/ChrisADR/installer?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ChrisADR/installer](https://github.com/ChrisADR/installer) - Installer: An unofficial Gentoo installer designed in Python as Thesis Project from ChrisADR
+- ![Stars](https://img.shields.io/github/stars/Rizwan-Hasan/ArchLinux-Mirrorlist-Manager?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Rizwan-Hasan/ArchLinux-Mirrorlist-Manager](https://github.com/Rizwan-Hasan/ArchLinux-Mirrorlist-Manager) - A Qt frontend for easy mirrorlist management
+- ![Stars](https://img.shields.io/github/stars/Sirmentio/protontricks?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Sirmentio/protontricks](https://github.com/Sirmentio/protontricks) - A simple wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 
 ## QML 
 
-- [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - A Linux "rice" configuration using Hyprland and Quickshell, featuring a curated selection of themes: Dracula, Catppuccin, Nord, Material, Gruvbox, and TokyoNight. Highly customizable for personalized 
-- [EliverLara/kde-control-station](https://github.com/EliverLara/kde-control-station) - A beautiful and modern configuration center for KDE inspired by MacOS!
+- ![Stars](https://img.shields.io/github/stars/AhmedSaadi0/NibrasShell?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - A Linux "rice" configuration using Hyprland and Quickshell, featuring a curated selection of themes: Dracula, Catppuccin, Nord, Material, Gruvbox, and TokyoNight. Highly customizable for personalized 
+- ![Stars](https://img.shields.io/github/stars/EliverLara/kde-control-station?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [EliverLara/kde-control-station](https://github.com/EliverLara/kde-control-station) - A beautiful and modern configuration center for KDE inspired by MacOS!
 
 ## Ruby 
 
-- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
-- [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-- [decidim/decidim](https://github.com/decidim/decidim) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+- ![Stars](https://img.shields.io/github/stars/discourse/discourse?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+- ![Stars](https://img.shields.io/github/stars/bashly-framework/bashly?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
+- ![Stars](https://img.shields.io/github/stars/maybe-finance/maybe?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
+- ![Stars](https://img.shields.io/github/stars/forem/forem?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
+- ![Stars](https://img.shields.io/github/stars/decidim/decidim?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [decidim/decidim](https://github.com/decidim/decidim) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
+- ![Stars](https://img.shields.io/github/stars/mastodon/mastodon?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
 ## Rust 
 
-- [ranfdev/DistroShelf](https://github.com/ranfdev/DistroShelf) - gtk4 client for https://distrobox.it
-- [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
-- [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS) - A Graphical Interface for Distrobox
-- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Launcher-driven Wi-Fi manager for Linux
-- [e-tho/bzmenu](https://github.com/e-tho/bzmenu) - Launcher-driven Bluetooth manager for Linux
-- [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [MainKt/vpm-rs](https://github.com/MainKt/vpm-rs) - A Rust rewrite of vpm - An XBPS package management helper for Void Linux
-- [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
-- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [lj3954/qg-rust](https://github.com/lj3954/qg-rust) - Quickly download and create Virtual Machines compatible with quickemu.
-- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
-- [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems
-- [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
-- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [bahamas10/vsv](https://github.com/bahamas10/vsv) - Manage and view runit services
-- [sshine/simplex-desktop](https://github.com/sshine/simplex-desktop) - SimpleX Chat GUI built with Rust, Tauri and Yew
-- [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
-- [NGnius/PowerTools](https://github.com/NGnius/PowerTools) - Moved to
-- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-- [Tubefeeder/Pipeline](https://github.com/Tubefeeder/Pipeline) - Watch YouTube, LBRY, and PeerTube videos in one place. Moved to https://gitlab.com/schmiddi-on-mobile/pipeline
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [ravenclaw900/DietPi-Dashboard](https://github.com/ravenclaw900/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
-- [luxtorpeda-dev/luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool to run games using native Linux engines
-- [iliana/emojos.in](https://github.com/iliana/emojos.in) - Shows custom emoji for Mastodon/Pleroma instances
-- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
-- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
+- ![Stars](https://img.shields.io/github/stars/ranfdev/DistroShelf?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ranfdev/DistroShelf](https://github.com/ranfdev/DistroShelf) - gtk4 client for https://distrobox.it
+- ![Stars](https://img.shields.io/github/stars/marhkb/pods?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
+- ![Stars](https://img.shields.io/github/stars/Dvlv/BoxBuddyRS?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS) - A Graphical Interface for Distrobox
+- ![Stars](https://img.shields.io/github/stars/e-tho/iwmenu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Launcher-driven Wi-Fi manager for Linux
+- ![Stars](https://img.shields.io/github/stars/e-tho/bzmenu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [e-tho/bzmenu](https://github.com/e-tho/bzmenu) - Launcher-driven Bluetooth manager for Linux
+- ![Stars](https://img.shields.io/github/stars/nik-rev/countryfetch?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
+- ![Stars](https://img.shields.io/github/stars/zellij-org/zellij?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+- ![Stars](https://img.shields.io/github/stars/MainKt/vpm-rs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [MainKt/vpm-rs](https://github.com/MainKt/vpm-rs) - A Rust rewrite of vpm - An XBPS package management helper for Void Linux
+- ![Stars](https://img.shields.io/github/stars/pkgforge/soar
+maintainer=@QaidVoid?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
+- ![Stars](https://img.shields.io/github/stars/fish-shell/fish-shell?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+- ![Stars](https://img.shields.io/github/stars/vosen/ZLUDA?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
+- ![Stars](https://img.shields.io/github/stars/gitui-org/gitui?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- ![Stars](https://img.shields.io/github/stars/helix-editor/helix?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+- ![Stars](https://img.shields.io/github/stars/lj3954/qg-rust?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lj3954/qg-rust](https://github.com/lj3954/qg-rust) - Quickly download and create Virtual Machines compatible with quickemu.
+- ![Stars](https://img.shields.io/github/stars/bensadeh/tailspin?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
+- ![Stars](https://img.shields.io/github/stars/eza-community/eza?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- ![Stars](https://img.shields.io/github/stars/qarmin/czkawka?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- ![Stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- ![Stars](https://img.shields.io/github/stars/lsd-rs/lsd?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+- ![Stars](https://img.shields.io/github/stars/woelper/oculante?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems
+- ![Stars](https://img.shields.io/github/stars/freenet/freenet-core?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
+- ![Stars](https://img.shields.io/github/stars/squidowl/halloy?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
+- ![Stars](https://img.shields.io/github/stars/atuinsh/atuin?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- ![Stars](https://img.shields.io/github/stars/neon-mmd/websurfx?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
+- ![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+- ![Stars](https://img.shields.io/github/stars/bahamas10/vsv?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bahamas10/vsv](https://github.com/bahamas10/vsv) - Manage and view runit services
+- ![Stars](https://img.shields.io/github/stars/sshine/simplex-desktop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sshine/simplex-desktop](https://github.com/sshine/simplex-desktop) - SimpleX Chat GUI built with Rust, Tauri and Yew
+- ![Stars](https://img.shields.io/github/stars/mikeroyal/Linux-Guide?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
+- ![Stars](https://img.shields.io/github/stars/NGnius/PowerTools?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [NGnius/PowerTools](https://github.com/NGnius/PowerTools) - Moved to
+- ![Stars](https://img.shields.io/github/stars/topgrade-rs/topgrade?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+- ![Stars](https://img.shields.io/github/stars/Tubefeeder/Pipeline?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Tubefeeder/Pipeline](https://github.com/Tubefeeder/Pipeline) - Watch YouTube, LBRY, and PeerTube videos in one place. Moved to https://gitlab.com/schmiddi-on-mobile/pipeline
+- ![Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- ![Stars](https://img.shields.io/github/stars/lapce/lapce?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+- ![Stars](https://img.shields.io/github/stars/getzola/zola?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- ![Stars](https://img.shields.io/github/stars/ravenclaw900/DietPi-Dashboard?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ravenclaw900/DietPi-Dashboard](https://github.com/ravenclaw900/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
+- ![Stars](https://img.shields.io/github/stars/luxtorpeda-dev/luxtorpeda?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [luxtorpeda-dev/luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool to run games using native Linux engines
+- ![Stars](https://img.shields.io/github/stars/iliana/emojos.in?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [iliana/emojos.in](https://github.com/iliana/emojos.in) - Shows custom emoji for Mastodon/Pleroma instances
+- ![Stars](https://img.shields.io/github/stars/alacritty/alacritty?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+- ![Stars](https://img.shields.io/github/stars/libreddit/libreddit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
+- ![Stars](https://img.shields.io/github/stars/r-darwish/topgrade?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
+- ![Stars](https://img.shields.io/github/stars/LemmyNet/lemmy?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
+- ![Stars](https://img.shields.io/github/stars/topjohnwu/Magisk?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 ## SCSS 
 
-- [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite gtk theme
-- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
-- [benc-uk/theme-msdark](https://github.com/benc-uk/theme-msdark) - Dark MS Theme
-- [oSoWoSo/cayman-vb-dark](https://github.com/oSoWoSo/cayman-vb-dark) - cayman-vb-dark is a dark mode adaptation of Cayman.
+- ![Stars](https://img.shields.io/github/stars/vinceliuice/Graphite-gtk-theme?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite gtk theme
+- ![Stars](https://img.shields.io/github/stars/AboutRSS/ALL-about-RSS?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
+- ![Stars](https://img.shields.io/github/stars/benc-uk/theme-msdark?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [benc-uk/theme-msdark](https://github.com/benc-uk/theme-msdark) - Dark MS Theme
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/cayman-vb-dark?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/cayman-vb-dark](https://github.com/oSoWoSo/cayman-vb-dark) - cayman-vb-dark is a dark mode adaptation of Cayman.
 
 ## Scheme 
 
-- [mbakke/guix-nonfree](https://github.com/mbakke/guix-nonfree) - Packages that are inappropriate for upstream Guix
+- ![Stars](https://img.shields.io/github/stars/mbakke/guix-nonfree?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mbakke/guix-nonfree](https://github.com/mbakke/guix-nonfree) - Packages that are inappropriate for upstream Guix
 
 ## Shell 
 
-- [tabletseeker/ytfzf_prime](https://github.com/tabletseeker/ytfzf_prime) - A working update of the popular terminal tool ytfzf for searching and watching Youtube videos without ads or privacy concerns, but with the convenience of a docker container.
-- [classabbyamp/mkinitcpio-tailscale](https://github.com/classabbyamp/mkinitcpio-tailscale) - Hook for mkinitcpio to enable tailscale access in early userspace
-- [vaniacer/sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
-- [giomatfois62/rofi-desktop](https://github.com/giomatfois62/rofi-desktop) - A rofi powered, menu driven desktop environment
-- [zen0bit/awesome-stars](https://github.com/zen0bit/awesome-stars) - My Awesome List
-- [oSoWoSo/VUR](https://github.com/oSoWoSo/VUR) - The Void source packages collection
-- [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
-- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
-- [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) - 
-- [Encoded14/void-extra](https://github.com/Encoded14/void-extra) - 
-- [nolaforensix/scalpel-2.02](https://github.com/nolaforensix/scalpel-2.02) - This repo contains the source code for Scalpel 2.02, an improved version of the original Scalpel fast file carver.
-- [danthem/undelete-btrfs](https://github.com/danthem/undelete-btrfs) - A script that attempts to undelete files in a BTRFS file system. Make sure you read the README.
-- [RubaXa/bashkit](https://github.com/RubaXa/bashkit) - ~/.bashkit/ — it is the toolset for the developing bash scripts.
-- [zen0bit/bashkit](https://github.com/zen0bit/bashkit) - ~/.bashkit/ — it is the toolset for the developing bash scripts.
-- [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
-- [Speyll/dotfiles](https://github.com/Speyll/dotfiles) - Efficiency meets aesthetics, my dotfiles are fine-tuned for a seamless Linux experience. Take control of your system with this clean, minimalistic configuration. 🚀
-- [alexmyczko/fnt](https://github.com/alexmyczko/fnt) - apt for fonts, the missing font manager for macOS/linux
-- [brandflake11/void-pro-audio](https://github.com/brandflake11/void-pro-audio) - Pro-audio package group/install script for Void Linux.
-- [bahamas10/bash-web-server](https://github.com/bahamas10/bash-web-server) - An HTTP server in Pure Bash.
-- [oSoWoSo/projekty](https://github.com/oSoWoSo/projekty) - 
-- [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
-- [jkool702/forkrun](https://github.com/jkool702/forkrun) - runs multiple inputs through a script/function in parallel using bash coprocs
-- [sgaunet/ansible-role-gh-release-installer](https://github.com/sgaunet/ansible-role-gh-release-installer) - Ansible role for installing GitHub releases - Supports 100+ tools including Go/Rust binaries like bat, helm, k9s, terraform
-- [eoli3n/void-config](https://github.com/eoli3n/void-config) - Scripts and Ansible playbook to setup Void Linux on ZFS.
-- [pkgforge-dev/Lutris-AppImage](https://github.com/pkgforge-dev/Lutris-AppImage) - Unofficial AppImage of Lutris, with Wine included. [Maintainer=@contrarybaton60]
-- [jdpedersen1/fzfm](https://github.com/jdpedersen1/fzfm) - 
-- [Benexl/yt-x](https://github.com/Benexl/yt-x) - Browse youtube from your terminal
-- [lazylinuxos/lazylinux-mklive](https://github.com/lazylinuxos/lazylinux-mklive) - The LazyLinux live image maker
-- [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
-- [agvxov/bashtutor](https://github.com/agvxov/bashtutor) - Easily extendable utility to interactively showcase or teach CLIs, command line tasks, workflows and Bash itself.
-- [imxade/aunix](https://github.com/imxade/aunix) - Simple but flexible Distro installer, that does the Least.
-- [jdpedersen1/Void-Herbstluftwm](https://github.com/jdpedersen1/Void-Herbstluftwm) - My personal Void LInux Herbstluftwm setup as seen on my youtube channel Jake@Linux
-- [Jipok/void-infect](https://github.com/Jipok/void-infect) - Install Void linux over the existing OS on VPS
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
-- [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
-- [ROCm/ROCm](https://github.com/ROCm/ROCm) - AMD ROCm™ Software - GitHub Home
-- [dracutdevs/dracut](https://github.com/dracutdevs/dracut) - dracut the event driven initramfs infrastructure
-- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
-- [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
-- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
-- [raylee/tldr-sh-client](https://github.com/raylee/tldr-sh-client) - Simplified and community-driven man pages
-- [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
-- [eficode-academy/git-katas](https://github.com/eficode-academy/git-katas) - A set of exercises for deliberate Git Practice
-- [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
-- [jonglae/pipewire_save_load](https://github.com/jonglae/pipewire_save_load) - 
-- [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
-- [wick3dr0se/matrix](https://github.com/wick3dr0se/matrix) - Matrix digital rain implemented in Bash
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-- [mishakorzik/AllHackingTools](https://github.com/mishakorzik/AllHackingTools) - All-in-One Hacking Tools For Hackers! And more hacking tools! For termux.
-- [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
-- [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 一分钟私有部署zerotier-planet服务
-- [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
-- [kkrruumm/void-install-script](https://github.com/kkrruumm/void-install-script) - TUI Shell script installer for Void Linux
-- [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
-- [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
-- [lj3954/quickemu](https://github.com/lj3954/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [mgord9518/shappimage](https://github.com/mgord9518/shappimage) - An AppImage implementation made in shell script
-- [ValShaped/rwfus](https://github.com/ValShaped/rwfus) - RW OverlayFS for Steam Deck!
-- [olegos2/mobox](https://github.com/olegos2/mobox) - 
-- [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
-- [nmimusic/unifetch](https://github.com/nmimusic/unifetch) - An unofficial inheritor of Neofetch
-- [dabrown645/quickemu](https://github.com/dabrown645/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [tailscale-dev/deck-tailscale](https://github.com/tailscale-dev/deck-tailscale) - Tailscale install script for the Steam Deck
-- [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/greater alternatives to common UNIX commands, which is maintained.
-- [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
-- [jdpedersen1/instaVM](https://github.com/jdpedersen1/instaVM) - Virtual machine creation tool and launcher
-- [xplshn/AltSys](https://github.com/xplshn/AltSys) - An assortment of utilities that make up, an ALT(ernative SYS(tem
-- [phette23/fishrc](https://github.com/phette23/fishrc) - Fish shell customizations
-- [BEPb/BEPb](https://github.com/BEPb/BEPb) - Config files for my GitHub profile.
-- [mobinmob/void-66-services](https://github.com/mobinmob/void-66-services) - 66 service frontends for voidlinux
-- [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
-- [olegos2/termux-box](https://github.com/olegos2/termux-box) - 
-- [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
-- [oSoWoSo/quickemu](https://github.com/oSoWoSo/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. Checkout also DistroHopper:
-- [hawshemi/linux-optimizer](https://github.com/hawshemi/linux-optimizer) - Linux Optimizer
-- [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
-- [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
-- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [hexisXz/ebps](https://github.com/hexisXz/ebps) - this is a script i made for myself  to make xbps easy and convenient to use
-- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
-- [Makrennel/hyprland-void](https://github.com/Makrennel/hyprland-void) - Binary repositories and xbps-src templates for building and installing Hyprland on Void Linux.
-- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
-- [lucasmz1/Qemu-AppImage](https://github.com/lucasmz1/Qemu-AppImage) - QEMU (Quick Emulator) is a free and open-source emulator that uses dynamic binary translation to emulate the processor of a computer.
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
-- [ivan-hc/AppMan](https://github.com/ivan-hc/AppMan) - AppImage Package Manager. "AppMan" is a redistribution of "AM" Application Manager, that does not require root privileges to install and manage apps: same code, same apps... two different behavior.
-- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, an extensible database of AppImages and portable apps, lists for AppImages and other GNU/Linux binar
-- [mxnt10/CloudDownYad](https://github.com/mxnt10/CloudDownYad) - Gui for wget created in yad for download in gdrive, dropbox and others.
-- [mustard-parfait/void-kernel-builds](https://github.com/mustard-parfait/void-kernel-builds) - Void linux kernel builds using linux-tkg patches and void-packages template
-- [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
-- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
-- [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
-- [qqxproject/qqX](https://github.com/qqxproject/qqX) - qqX Virtual Machine Manager - Next level front end for Quickemu / Qemu provides easy builds of Windows, Mac and Linux. Ideal for advanced users and beginners alike.
-- [djeada/Bash-Scripts](https://github.com/djeada/Bash-Scripts) - 100+ Bash scripts for automating routine tasks and streamlining your workflow.
-- [TuxVinyards/quickemu-mod](https://github.com/TuxVinyards/quickemu-mod) - Virtual Machine Launcher & VM Tool Set -  Quickemu / Quickget wrapping script - A powerful text based alternative to QuickGUI for more advanced users
-- [cultab/xinst](https://github.com/cultab/xinst) - Package install menu based on fzf supporting ~many~ package managers
-- [M-Hafez22/packages-installer](https://github.com/M-Hafez22/packages-installer) - Scripts to install popular packages
-- [android-generic/vendor_ag-archive](https://github.com/android-generic/vendor_ag-archive) - 
-- [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Simple, native and efficient local ad blocker. Only Bash.
-- [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, a
-- [CecilWesterhof/BashLibrary](https://github.com/CecilWesterhof/BashLibrary) - A library with useful Bash functions
-- [grm34/Hyprwwland](https://github.com/grm34/Hyprwwland) - eww on Hyprland 🚀
-- [michaeltd/bashpass](https://github.com/michaeltd/bashpass) - Password management for the terminal and X.
-- [h0m3/gpuicon](https://github.com/h0m3/gpuicon) - Exactly what says in the tin. Its a GPU icon for your system tray
-- [freddylist/void-packages](https://github.com/freddylist/void-packages) - My void-packages fork
-- [freddylist/antivoid-packages](https://github.com/freddylist/antivoid-packages) - Collection of templates that should not be in the official xbps repositories.
-- [electrikjesus/easy-menu-system](https://github.com/electrikjesus/easy-menu-system) - 
-- [sxiii/linux-downloader](https://github.com/sxiii/linux-downloader) - Bash script for autodownloading of different Linux distros and testing them in VMs
-- [oSoWoSo/DistroHopper](https://github.com/oSoWoSo/DistroHopper) - Quickly download, create and run VM of any#TODO operating system.
-- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
-- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
-- [cjungmann/yaddemo](https://github.com/cjungmann/yaddemo) - Learning to use the YAD command
-- [Le0xFF/VoidLinuxInstaller](https://github.com/Le0xFF/VoidLinuxInstaller) - A bash script to install Void Linux with optional LUKS encryption, optional LVM, btrfs filesystem and optional swap as file.
-- [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
-- [SteamDeckHomebrew/decky-plugin-database](https://github.com/SteamDeckHomebrew/decky-plugin-database) - Decky Plugin Database. PR your plugins to this repository to have them added to the store!
-- [0n1cOn3/FluxER](https://github.com/0n1cOn3/FluxER) - FluxER - The bash script which installs and runs the Fluxion tool inside Termux. The wireless security auditing tool used to perform attacks such as WPA/WPA2 cracking and MITM attacks.
-- [the-maldridge/xbps-mini-builder](https://github.com/the-maldridge/xbps-mini-builder) - Miniature version of the buildbot for when you only want a few packages
-- [CereusLinuxProject/cereus-mklive](https://github.com/CereusLinuxProject/cereus-mklive) - The Cereus Linux live image maker (MIRROR ONLY)
-- [CereusLinuxProject/cereus-pkgs](https://github.com/CereusLinuxProject/cereus-pkgs) - The Cereus Linux source packages collection, based on void-packages (MIRROR ONLY).
-- [sunknudsen/guides](https://github.com/sunknudsen/guides) - Explore guides
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
-- [RetroDECK/RetroDECK](https://github.com/RetroDECK/RetroDECK) - RetroDECK brings you an all-in-one sandboxed application to play your retro games (and even not-so-retro games) on Linux/SteamOS.
-- [shalva97/kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configuration files
-- [pavolelsig/manjaro_helper_2021](https://github.com/pavolelsig/manjaro_helper_2021) - GPU passthrough helper for Manjaro
-- [NextWork123/VFIO-KVM](https://github.com/NextWork123/VFIO-KVM) - 
-- [luizm/action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck, shfmt and checkbashisms.
-- [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
-- [void-builds/void-mklive](https://github.com/void-builds/void-mklive) - The Void Linux live image maker
-- [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
-- [runfalk/synology-wireguard](https://github.com/runfalk/synology-wireguard) - WireGuard support for some Synology NAS drives
-- [AlexPresso/VideoStation-FFMPEG-Patcher](https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher) - Patcher to enable DTS, EAC3 and TrueHD transcoding support to Synology VideoStation (from DSM 6.2 to DSM 7.0 and above ; ffmpeg4, 5, 6, 7 ready)
-- [homebridge/homebridge-syno-spk](https://github.com/homebridge/homebridge-syno-spk) - Homebridge Package for Synology DSM 7.
-- [DAINRA/ungoogled-chromium-void](https://github.com/DAINRA/ungoogled-chromium-void) - Ungoogled Chromium template and builds for Void Linux
-- [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
-- [AndreVallestero/masars](https://github.com/AndreVallestero/masars) - Manjaro ARM Sway auto ricing script
-- [tqre/pinephone-arch](https://github.com/tqre/pinephone-arch) - PKGBUILD to install p-boot bootloader and Megous' optimized kernel for PinePhone 1.2
-- [Raezroth/Linux-ARM-Gaming-Chroot](https://github.com/Raezroth/Linux-ARM-Gaming-Chroot) - Guide to setup a MultiArch Chroot container to run Steam and Wine.
-- [crispy-landslide/archarm-mobile-fde-installer](https://github.com/crispy-landslide/archarm-mobile-fde-installer) - 
-- [dreemurrs-embedded/archarm-mobile-fde-installer](https://github.com/dreemurrs-embedded/archarm-mobile-fde-installer) - 
-- [whyrusleeping/git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs
-- [Piraty/dotfiles](https://github.com/Piraty/dotfiles) - dotfiles mirror
-- [manjaro-pinephone/arm-profiles](https://github.com/manjaro-pinephone/arm-profiles) - Mirror of ARM Profiles (Gitlab)
-- [void-linux/void-updates](https://github.com/void-linux/void-updates) - Update check system for void-packages
-- [leahneukirchen/xtools](https://github.com/leahneukirchen/xtools) - a few helpers for working with XBPS
-- [Piraty/xxtools](https://github.com/Piraty/xxtools) - Tools to ease packaging tasks for Void Linux
-- [K-arch27/pinebtrfs](https://github.com/K-arch27/pinebtrfs) - Making Btrfs Root on Pinephone
-- [jjsullivan5196/void-packages](https://github.com/jjsullivan5196/void-packages) - The Void source packages collection
-- [ysfgrgO7/post-install](https://github.com/ysfgrgO7/post-install) - post installation script inspired by DTOS
-- [lukrop/pkg-wrapper](https://github.com/lukrop/pkg-wrapper) - A simple wrapper for several package managers inspired by FreeBSD's pkg(8).
-- [vednoc/pkg](https://github.com/vednoc/pkg) - A wrapper for various package managers.
-- [zakariaGatter/xbps-hist](https://github.com/zakariaGatter/xbps-hist) - Xbps Package Manager History Viewer
-- [FatmanUK/xbps-autopatch](https://github.com/FatmanUK/xbps-autopatch) - Automatic patching for XBPS
-- [SafetyPanda/XIL](https://github.com/SafetyPanda/XIL) - XIL (pronounce zil, as in godzilla) is a simple, easy to use, add-on to the XBPS package manager.
-- [zakariaGatter/bsv](https://github.com/zakariaGatter/bsv) - Void Linx Server manager in pure bash
-- [ernierasta/xb](https://github.com/ernierasta/xb) - VoidLinux XBPS primitive wrapper with bash-completion
-- [lukrop/xbps-pkg](https://github.com/lukrop/xbps-pkg) - A simple wrapper for XBPS inspired by FreeBSD's pkg(8).
-- [moravec2/springlinux](https://github.com/moravec2/springlinux) - Spring Linux Live Iso
-- [moravec2/vd-pkgtool](https://github.com/moravec2/vd-pkgtool) - Gui for some Void Linux package (xbps) commands
-- [lynxcs/xbps-completion](https://github.com/lynxcs/xbps-completion) - Autocompletion for xbps-install and xbps-remove
-- [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - :penguin: Arch Linux ARM for your PinePhone/Pro and PineTab/2 (mirror)
-- [ymir-linux/void-packages](https://github.com/ymir-linux/void-packages) - The Void source libre packages collection
-- [Daniel-Abrecht/dpa-image-builder](https://github.com/Daniel-Abrecht/dpa-image-builder) - A few makefiles & stuff to create images for various devices (librem5, pinephone-pro)
-- [p-mng/proton-ge-custom-updater](https://github.com/p-mng/proton-ge-custom-updater) - Simple updater for custom Proton distributions.
-- [flubberding/ProtonUpdater](https://github.com/flubberding/ProtonUpdater) - Script to make it easier to update Proton GE to the latest version
-- [milky-sway/pinephone-scripts](https://github.com/milky-sway/pinephone-scripts) - Helper scripts for PinePhone and PinePhone Pro users
-- [jcgruenhage/void-packages](https://github.com/jcgruenhage/void-packages) - The Void source packages collection
-- [oSoWoSo/easybashgui](https://github.com/oSoWoSo/easybashgui) - EasyBashGUI  is a Bash functions library  for *BSD and GNU/Linux that aims to give simple GUI functions  using  yad, gtkdialog, kdialog, zenity, Xdialog, (c)dialog, whiptail or bash builtins
-- [kotoko/voidlinux-iso-extra](https://github.com/kotoko/voidlinux-iso-extra) - Void (Linux) installation ISO with additional programs
-- [BashGui/easybashgui](https://github.com/BashGui/easybashgui) - EasyBashGUI  is a Bash functions library  for *BSD and GNU/Linux that aims to give simple GUI functions  using  yad, gtkdialog, kdialog, zenity, Xdialog, gum, qarma, (c)dialog, whiptail or bash builti
-- [BigAnteater/KVM-GPU-Passthrough](https://github.com/BigAnteater/KVM-GPU-Passthrough) - This is a simple, mostly automated guide to pass a GPU through to a VM.
-- [jaromaz/yosild](https://github.com/jaromaz/yosild) - Yosild is a single shell script that builds a full, minimal Linux distribution based on BusyBox.
-- [kkga/config](https://github.com/kkga/config) - .files
-- [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
-- [void-linux/void-mklive](https://github.com/void-linux/void-mklive) - The Void Linux live image maker
-- [Bleyom/old-old-dotfiles](https://github.com/Bleyom/old-old-dotfiles) - 
-- [oSoWoSo/Void-In-Termux](https://github.com/oSoWoSo/Void-In-Termux) - This intends to allow a proot from Termux to Void Linux rootfs.
-- [Chrysostomus/zensu](https://github.com/Chrysostomus/zensu) - Simple gksu replacement using spacefm dialog, zenity or yad
-- [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-- [EmperorPenguin18/linux-installer](https://github.com/EmperorPenguin18/linux-installer) - Universal GNU+Linux installer script
-- [drake-newell/vrh](https://github.com/drake-newell/vrh) - vrh
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [123randomuser321/123randomuser321_void_templates](https://github.com/123randomuser321/123randomuser321_void_templates) - All xbps templates I created are gathered here
-- [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [mobinmob/abyss-packages](https://github.com/mobinmob/abyss-packages) - 
-- [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
-- [petervanderdoes/git-flow-completion](https://github.com/petervanderdoes/git-flow-completion) - Bash, Zsh and fish completion support for git-flow.
-- [raspberrypi/rpi-update](https://github.com/raspberrypi/rpi-update) - An easier way to update the firmware of your Raspberry Pi
-- [raspberrypi/rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom) - Installation scripts and binaries for the Raspberry Pi 4 and Raspberry Pi 5 bootloader EEPROMs
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
-- [db-inf/spacefm-plugins](https://github.com/db-inf/spacefm-plugins) - mijn spacefm plugins (some in English, sommige in het Nederlands)
-- [DeskPi-Team/deskpi](https://github.com/DeskPi-Team/deskpi) - DeskPi Pro is the Ultimate Case Kit for Raspberry Pi 4 with Full Size HDMI/2.5 Hard Disk Support and Safe Power Button, It has QC 3.0 Power Supply inside and New ICE Tower Cooler inside.
-- [terroo/wallset](https://github.com/terroo/wallset) - A wallpaper manager that makes it possible to put videos as wallpaper
-- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
-- [zdykstra/fuzzypkg](https://github.com/zdykstra/fuzzypkg) - 
-- [addy-dclxvi/paintmybox](https://github.com/addy-dclxvi/paintmybox) - My Void Linux Openbox dotfiles. It loads random theme & wallpaper then unify the window decorator, panel, terminal, startmenu, notifications, OSD popup, and desktop menu.
-- [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
-- [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
-- [not-void/nvoid](https://github.com/not-void/nvoid) - alternative xbps-src repo
-- [furryfixer/runit_sv_addons](https://github.com/furryfixer/runit_sv_addons) - Three short add-on scripts for runit "sv"
-- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
-- [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
-- [emacsomancer/vpnd](https://github.com/emacsomancer/vpnd) - Void Package Notifier Daemon
-- [pavolelsig/passthrough_helper_fedora](https://github.com/pavolelsig/passthrough_helper_fedora) - GPU passthrough helper
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-- [dcloud-ca/voidLuksSetup](https://github.com/dcloud-ca/voidLuksSetup) - Bash script for installing Void Linux with disk encryption
-- [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
-- [xdeb-org/xdeb](https://github.com/xdeb-org/xdeb) - XDEB - Convert deb (Debian) packages to xbps (Void Linux)
-- [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
-- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [silvernode/voidbuilds](https://github.com/silvernode/voidbuilds) - Scripts and package lists used to build image files on voidbuilds.xyz
-- [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
-- [rabbitinspace/abyss](https://github.com/rabbitinspace/abyss) - Another Void Linux bootstrap for UEFI systems written in Fish.
-- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
-- [PlatinumClaridge/LARBS](https://github.com/PlatinumClaridge/LARBS) - 
-- [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
-- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [taichifan/Void-In-Termux](https://github.com/taichifan/Void-In-Termux) - This intends to allow a proot from Termux to Void Linux rootfs.
-- [zbm-dev/zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS bootloader for root-on-ZFS systems with support for snapshots and native full disk encryption
-- [leahneukirchen/hrmpf](https://github.com/leahneukirchen/hrmpf) - hrmpf rescue system, built on Void Linux
-- [bahamas10/bash-vsv](https://github.com/bahamas10/bash-vsv) - Manage and view runit services
-- [oSoWoSo/passthrough_helper_void](https://github.com/oSoWoSo/passthrough_helper_void) - GPU passthrough helper
-- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
-- [addy-dclxvi/tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
-- [void-linux/void-packages](https://github.com/void-linux/void-packages) - The Void source packages collection
-- [oSoWoSo/voidlinux](https://github.com/oSoWoSo/voidlinux) - VOID linux post install script after base install
-- [sineto/vpsm](https://github.com/sineto/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
-- [huijunchen9260/dmenufm](https://github.com/huijunchen9260/dmenufm) - A simple file manager using dmenu
-- [bahamas10/vpm](https://github.com/bahamas10/vpm) - vpm - An XBPS package management helper for VoidLinux
-- [pavolelsig/passthrough_helper_manjaro](https://github.com/pavolelsig/passthrough_helper_manjaro) - 
-- [aguslr/multibootusb](https://github.com/aguslr/multibootusb) - A collection of GRUB files and scripts that will allow you to create a pendrive capable of booting different ISO files
-- [arcolinuxd/arco-awesome](https://github.com/arcolinuxd/arco-awesome) - All scripts necessary to have an awesome deskop experience on ArcoLinux or vanilla Arch Linux installation
-- [zen0bit/nixos](https://github.com/zen0bit/nixos) - config
-- [wine-staging/wine-staging](https://github.com/wine-staging/wine-staging) - Staging repository for Wine; mirror of https://gitlab.winehq.org/wine/wine-staging - Bugtracker and Patches: https://bugs.winehq.org/
-- [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [h0ek/POL_EntropiaUniverse](https://github.com/h0ek/POL_EntropiaUniverse) - PlayOnLinux script for Entropia Universe
-- [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
-- [arch-openrc/arch-openrc](https://github.com/arch-openrc/arch-openrc) - Arch Linux OpenRC packages.
+- ![Stars](https://img.shields.io/github/stars/tabletseeker/ytfzf_prime?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tabletseeker/ytfzf_prime](https://github.com/tabletseeker/ytfzf_prime) - A working update of the popular terminal tool ytfzf for searching and watching Youtube videos without ads or privacy concerns, but with the convenience of a docker container.
+- ![Stars](https://img.shields.io/github/stars/classabbyamp/mkinitcpio-tailscale?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [classabbyamp/mkinitcpio-tailscale](https://github.com/classabbyamp/mkinitcpio-tailscale) - Hook for mkinitcpio to enable tailscale access in early userspace
+- ![Stars](https://img.shields.io/github/stars/vaniacer/sshto?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [vaniacer/sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
+- ![Stars](https://img.shields.io/github/stars/giomatfois62/rofi-desktop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [giomatfois62/rofi-desktop](https://github.com/giomatfois62/rofi-desktop) - A rofi powered, menu driven desktop environment
+- ![Stars](https://img.shields.io/github/stars/zen0bit/awesome-stars?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zen0bit/awesome-stars](https://github.com/zen0bit/awesome-stars) - My Awesome List
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/VUR?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/VUR](https://github.com/oSoWoSo/VUR) - The Void source packages collection
+- ![Stars](https://img.shields.io/github/stars/sobolevn/git-secret?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
+- ![Stars](https://img.shields.io/github/stars/akinomyoga/ble.sh?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
+- ![Stars](https://img.shields.io/github/stars/ingydotnet/git-subrepo?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) - 
+- ![Stars](https://img.shields.io/github/stars/Encoded14/void-extra?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Encoded14/void-extra](https://github.com/Encoded14/void-extra) - 
+- ![Stars](https://img.shields.io/github/stars/nolaforensix/scalpel-2.02?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nolaforensix/scalpel-2.02](https://github.com/nolaforensix/scalpel-2.02) - This repo contains the source code for Scalpel 2.02, an improved version of the original Scalpel fast file carver.
+- ![Stars](https://img.shields.io/github/stars/danthem/undelete-btrfs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [danthem/undelete-btrfs](https://github.com/danthem/undelete-btrfs) - A script that attempts to undelete files in a BTRFS file system. Make sure you read the README.
+- ![Stars](https://img.shields.io/github/stars/RubaXa/bashkit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [RubaXa/bashkit](https://github.com/RubaXa/bashkit) - ~/.bashkit/ — it is the toolset for the developing bash scripts.
+- ![Stars](https://img.shields.io/github/stars/zen0bit/bashkit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zen0bit/bashkit](https://github.com/zen0bit/bashkit) - ~/.bashkit/ — it is the toolset for the developing bash scripts.
+- ![Stars](https://img.shields.io/github/stars/LinuxDroidMaster/Termux-Desktops?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
+- ![Stars](https://img.shields.io/github/stars/Speyll/dotfiles?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Speyll/dotfiles](https://github.com/Speyll/dotfiles) - Efficiency meets aesthetics, my dotfiles are fine-tuned for a seamless Linux experience. Take control of your system with this clean, minimalistic configuration. 🚀
+- ![Stars](https://img.shields.io/github/stars/alexmyczko/fnt?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [alexmyczko/fnt](https://github.com/alexmyczko/fnt) - apt for fonts, the missing font manager for macOS/linux
+- ![Stars](https://img.shields.io/github/stars/brandflake11/void-pro-audio?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [brandflake11/void-pro-audio](https://github.com/brandflake11/void-pro-audio) - Pro-audio package group/install script for Void Linux.
+- ![Stars](https://img.shields.io/github/stars/bahamas10/bash-web-server?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bahamas10/bash-web-server](https://github.com/bahamas10/bash-web-server) - An HTTP server in Pure Bash.
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/projekty?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/projekty](https://github.com/oSoWoSo/projekty) - 
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/gumak?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
+- ![Stars](https://img.shields.io/github/stars/jkool702/forkrun?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jkool702/forkrun](https://github.com/jkool702/forkrun) - runs multiple inputs through a script/function in parallel using bash coprocs
+- ![Stars](https://img.shields.io/github/stars/sgaunet/ansible-role-gh-release-installer?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sgaunet/ansible-role-gh-release-installer](https://github.com/sgaunet/ansible-role-gh-release-installer) - Ansible role for installing GitHub releases - Supports 100+ tools including Go/Rust binaries like bat, helm, k9s, terraform
+- ![Stars](https://img.shields.io/github/stars/eoli3n/void-config?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [eoli3n/void-config](https://github.com/eoli3n/void-config) - Scripts and Ansible playbook to setup Void Linux on ZFS.
+- ![Stars](https://img.shields.io/github/stars/pkgforge-dev/Lutris-AppImage
+Maintainer=@contrarybaton60?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pkgforge-dev/Lutris-AppImage](https://github.com/pkgforge-dev/Lutris-AppImage) - Unofficial AppImage of Lutris, with Wine included. [Maintainer=@contrarybaton60]
+- ![Stars](https://img.shields.io/github/stars/jdpedersen1/fzfm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jdpedersen1/fzfm](https://github.com/jdpedersen1/fzfm) - 
+- ![Stars](https://img.shields.io/github/stars/Benexl/yt-x?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Benexl/yt-x](https://github.com/Benexl/yt-x) - Browse youtube from your terminal
+- ![Stars](https://img.shields.io/github/stars/lazylinuxos/lazylinux-mklive?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lazylinuxos/lazylinux-mklive](https://github.com/lazylinuxos/lazylinux-mklive) - The LazyLinux live image maker
+- ![Stars](https://img.shields.io/github/stars/sabamdarif/termux-desktop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
+- ![Stars](https://img.shields.io/github/stars/agvxov/bashtutor?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [agvxov/bashtutor](https://github.com/agvxov/bashtutor) - Easily extendable utility to interactively showcase or teach CLIs, command line tasks, workflows and Bash itself.
+- ![Stars](https://img.shields.io/github/stars/imxade/aunix?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [imxade/aunix](https://github.com/imxade/aunix) - Simple but flexible Distro installer, that does the Least.
+- ![Stars](https://img.shields.io/github/stars/jdpedersen1/Void-Herbstluftwm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jdpedersen1/Void-Herbstluftwm](https://github.com/jdpedersen1/Void-Herbstluftwm) - My personal Void LInux Herbstluftwm setup as seen on my youtube channel Jake@Linux
+- ![Stars](https://img.shields.io/github/stars/Jipok/void-infect?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Jipok/void-infect](https://github.com/Jipok/void-infect) - Install Void linux over the existing OS on VPS
+- ![Stars](https://img.shields.io/github/stars/d3/d3?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- ![Stars](https://img.shields.io/github/stars/nestybox/sysbox?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
+- ![Stars](https://img.shields.io/github/stars/ROCm/ROCm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ROCm/ROCm](https://github.com/ROCm/ROCm) - AMD ROCm™ Software - GitHub Home
+- ![Stars](https://img.shields.io/github/stars/dracutdevs/dracut?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dracutdevs/dracut](https://github.com/dracutdevs/dracut) - dracut the event driven initramfs infrastructure
+- ![Stars](https://img.shields.io/github/stars/Tomas-M/linux-live?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
+- ![Stars](https://img.shields.io/github/stars/dragoonDorise/EmuDeck?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
+- ![Stars](https://img.shields.io/github/stars/gpakosz/.tmux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
+- ![Stars](https://img.shields.io/github/stars/dockur/windows?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+- ![Stars](https://img.shields.io/github/stars/pystardust/ytfzf?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
+- ![Stars](https://img.shields.io/github/stars/bats-core/bats-core?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+- ![Stars](https://img.shields.io/github/stars/JaKooLit/Hyprland-Dots?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
+- ![Stars](https://img.shields.io/github/stars/raylee/tldr-sh-client?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [raylee/tldr-sh-client](https://github.com/raylee/tldr-sh-client) - Simplified and community-driven man pages
+- ![Stars](https://img.shields.io/github/stars/juewuy/ShellCrash?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
+- ![Stars](https://img.shields.io/github/stars/eficode-academy/git-katas?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [eficode-academy/git-katas](https://github.com/eficode-academy/git-katas) - A set of exercises for deliberate Git Practice
+- ![Stars](https://img.shields.io/github/stars/owerdogan/whoami-project?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
+- ![Stars](https://img.shields.io/github/stars/jonglae/pipewire_save_load?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jonglae/pipewire_save_load](https://github.com/jonglae/pipewire_save_load) - 
+- ![Stars](https://img.shields.io/github/stars/k4m4/movies-for-hackers?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
+- ![Stars](https://img.shields.io/github/stars/wick3dr0se/matrix?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [wick3dr0se/matrix](https://github.com/wick3dr0se/matrix) - Matrix digital rain implemented in Bash
+- ![Stars](https://img.shields.io/github/stars/stefanzweifel/git-auto-commit-action?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+- ![Stars](https://img.shields.io/github/stars/mishakorzik/AllHackingTools?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mishakorzik/AllHackingTools](https://github.com/mishakorzik/AllHackingTools) - All-in-One Hacking Tools For Hackers! And more hacking tools! For termux.
+- ![Stars](https://img.shields.io/github/stars/Soroushnk/Astro?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
+- ![Stars](https://img.shields.io/github/stars/xubiaolin/docker-zerotier-planet?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 一分钟私有部署zerotier-planet服务
+- ![Stars](https://img.shields.io/github/stars/MegaManSec/SSH-Snake?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
+- ![Stars](https://img.shields.io/github/stars/kkrruumm/void-install-script?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [kkrruumm/void-install-script](https://github.com/kkrruumm/void-install-script) - TUI Shell script installer for Void Linux
+- ![Stars](https://img.shields.io/github/stars/ComplianceAsCode/content?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
+- ![Stars](https://img.shields.io/github/stars/vdsm/virtual-dsm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
+- ![Stars](https://img.shields.io/github/stars/lj3954/quickemu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lj3954/quickemu](https://github.com/lj3954/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- ![Stars](https://img.shields.io/github/stars/mgord9518/shappimage?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mgord9518/shappimage](https://github.com/mgord9518/shappimage) - An AppImage implementation made in shell script
+- ![Stars](https://img.shields.io/github/stars/ValShaped/rwfus?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ValShaped/rwfus](https://github.com/ValShaped/rwfus) - RW OverlayFS for Steam Deck!
+- ![Stars](https://img.shields.io/github/stars/olegos2/mobox?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [olegos2/mobox](https://github.com/olegos2/mobox) - 
+- ![Stars](https://img.shields.io/github/stars/mviereck/x11docker?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
+- ![Stars](https://img.shields.io/github/stars/nmimusic/unifetch?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nmimusic/unifetch](https://github.com/nmimusic/unifetch) - An unofficial inheritor of Neofetch
+- ![Stars](https://img.shields.io/github/stars/dabrown645/quickemu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dabrown645/quickemu](https://github.com/dabrown645/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- ![Stars](https://img.shields.io/github/stars/tailscale-dev/deck-tailscale?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tailscale-dev/deck-tailscale](https://github.com/tailscale-dev/deck-tailscale) - Tailscale install script for the Steam Deck
+- ![Stars](https://img.shields.io/github/stars/johnalanwoods/maintained-modern-unix?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/greater alternatives to common UNIX commands, which is maintained.
+- ![Stars](https://img.shields.io/github/stars/IlanCosman/tide?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
+- ![Stars](https://img.shields.io/github/stars/jdpedersen1/instaVM?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jdpedersen1/instaVM](https://github.com/jdpedersen1/instaVM) - Virtual machine creation tool and launcher
+- ![Stars](https://img.shields.io/github/stars/xplshn/AltSys?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [xplshn/AltSys](https://github.com/xplshn/AltSys) - An assortment of utilities that make up, an ALT(ernative SYS(tem
+- ![Stars](https://img.shields.io/github/stars/phette23/fishrc?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [phette23/fishrc](https://github.com/phette23/fishrc) - Fish shell customizations
+- ![Stars](https://img.shields.io/github/stars/BEPb/BEPb?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [BEPb/BEPb](https://github.com/BEPb/BEPb) - Config files for my GitHub profile.
+- ![Stars](https://img.shields.io/github/stars/mobinmob/void-66-services?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mobinmob/void-66-services](https://github.com/mobinmob/void-66-services) - 66 service frontends for voidlinux
+- ![Stars](https://img.shields.io/github/stars/awslabs/git-secrets?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
+- ![Stars](https://img.shields.io/github/stars/olegos2/termux-box?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [olegos2/termux-box](https://github.com/olegos2/termux-box) - 
+- ![Stars](https://img.shields.io/github/stars/teddysun/across?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/quickemu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/quickemu](https://github.com/oSoWoSo/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. Checkout also DistroHopper:
+- ![Stars](https://img.shields.io/github/stars/hawshemi/linux-optimizer?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [hawshemi/linux-optimizer](https://github.com/hawshemi/linux-optimizer) - Linux Optimizer
+- ![Stars](https://img.shields.io/github/stars/google/oss-fuzz?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
+- ![Stars](https://img.shields.io/github/stars/dylanaraps/pure-sh-bible?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
+- ![Stars](https://img.shields.io/github/stars/dylanaraps/pure-bash-bible?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+- ![Stars](https://img.shields.io/github/stars/hexisXz/ebps?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [hexisXz/ebps](https://github.com/hexisXz/ebps) - this is a script i made for myself  to make xbps easy and convenient to use
+- ![Stars](https://img.shields.io/github/stars/edoardottt/awesome-hacker-search-engines?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
+- ![Stars](https://img.shields.io/github/stars/Makrennel/hyprland-void?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Makrennel/hyprland-void](https://github.com/Makrennel/hyprland-void) - Binary repositories and xbps-src templates for building and installing Hyprland on Void Linux.
+- ![Stars](https://img.shields.io/github/stars/fsquillace/junest?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
+- ![Stars](https://img.shields.io/github/stars/lucasmz1/Qemu-AppImage?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lucasmz1/Qemu-AppImage](https://github.com/lucasmz1/Qemu-AppImage) - QEMU (Quick Emulator) is a free and open-source emulator that uses dynamic binary translation to emulate the processor of a computer.
+- ![Stars](https://img.shields.io/github/stars/ublue-os/bazzite?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
+- ![Stars](https://img.shields.io/github/stars/ivan-hc/AppMan?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ivan-hc/AppMan](https://github.com/ivan-hc/AppMan) - AppImage Package Manager. "AppMan" is a redistribution of "AM" Application Manager, that does not require root privileges to install and manage apps: same code, same apps... two different behavior.
+- ![Stars](https://img.shields.io/github/stars/ivan-hc/AM?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, an extensible database of AppImages and portable apps, lists for AppImages and other GNU/Linux binar
+- ![Stars](https://img.shields.io/github/stars/mxnt10/CloudDownYad?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mxnt10/CloudDownYad](https://github.com/mxnt10/CloudDownYad) - Gui for wget created in yad for download in gdrive, dropbox and others.
+- ![Stars](https://img.shields.io/github/stars/mustard-parfait/void-kernel-builds?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mustard-parfait/void-kernel-builds](https://github.com/mustard-parfait/void-kernel-builds) - Void linux kernel builds using linux-tkg patches and void-packages template
+- ![Stars](https://img.shields.io/github/stars/phyver/GameShell?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
+- ![Stars](https://img.shields.io/github/stars/HariSekhon/DevOps-Bash-tools?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
+- ![Stars](https://img.shields.io/github/stars/leitbogioro/Tools?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
+- ![Stars](https://img.shields.io/github/stars/qqxproject/qqX?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [qqxproject/qqX](https://github.com/qqxproject/qqX) - qqX Virtual Machine Manager - Next level front end for Quickemu / Qemu provides easy builds of Windows, Mac and Linux. Ideal for advanced users and beginners alike.
+- ![Stars](https://img.shields.io/github/stars/djeada/Bash-Scripts?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [djeada/Bash-Scripts](https://github.com/djeada/Bash-Scripts) - 100+ Bash scripts for automating routine tasks and streamlining your workflow.
+- ![Stars](https://img.shields.io/github/stars/TuxVinyards/quickemu-mod?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [TuxVinyards/quickemu-mod](https://github.com/TuxVinyards/quickemu-mod) - Virtual Machine Launcher & VM Tool Set -  Quickemu / Quickget wrapping script - A powerful text based alternative to QuickGUI for more advanced users
+- ![Stars](https://img.shields.io/github/stars/cultab/xinst?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [cultab/xinst](https://github.com/cultab/xinst) - Package install menu based on fzf supporting ~many~ package managers
+- ![Stars](https://img.shields.io/github/stars/M-Hafez22/packages-installer?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [M-Hafez22/packages-installer](https://github.com/M-Hafez22/packages-installer) - Scripts to install popular packages
+- ![Stars](https://img.shields.io/github/stars/android-generic/vendor_ag-archive?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [android-generic/vendor_ag-archive](https://github.com/android-generic/vendor_ag-archive) - 
+- ![Stars](https://img.shields.io/github/stars/tanrax/maza-ad-blocking?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Simple, native and efficient local ad blocker. Only Bash.
+- ![Stars](https://img.shields.io/github/stars/Security-Onion-Solutions/securityonion?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, a
+- ![Stars](https://img.shields.io/github/stars/CecilWesterhof/BashLibrary?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [CecilWesterhof/BashLibrary](https://github.com/CecilWesterhof/BashLibrary) - A library with useful Bash functions
+- ![Stars](https://img.shields.io/github/stars/grm34/Hyprwwland?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [grm34/Hyprwwland](https://github.com/grm34/Hyprwwland) - eww on Hyprland 🚀
+- ![Stars](https://img.shields.io/github/stars/michaeltd/bashpass?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [michaeltd/bashpass](https://github.com/michaeltd/bashpass) - Password management for the terminal and X.
+- ![Stars](https://img.shields.io/github/stars/h0m3/gpuicon?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [h0m3/gpuicon](https://github.com/h0m3/gpuicon) - Exactly what says in the tin. Its a GPU icon for your system tray
+- ![Stars](https://img.shields.io/github/stars/freddylist/void-packages?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [freddylist/void-packages](https://github.com/freddylist/void-packages) - My void-packages fork
+- ![Stars](https://img.shields.io/github/stars/freddylist/antivoid-packages?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [freddylist/antivoid-packages](https://github.com/freddylist/antivoid-packages) - Collection of templates that should not be in the official xbps repositories.
+- ![Stars](https://img.shields.io/github/stars/electrikjesus/easy-menu-system?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [electrikjesus/easy-menu-system](https://github.com/electrikjesus/easy-menu-system) - 
+- ![Stars](https://img.shields.io/github/stars/sxiii/linux-downloader?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sxiii/linux-downloader](https://github.com/sxiii/linux-downloader) - Bash script for autodownloading of different Linux distros and testing them in VMs
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/DistroHopper?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/DistroHopper](https://github.com/oSoWoSo/DistroHopper) - Quickly download, create and run VM of any#TODO operating system.
+- ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
+- ![Stars](https://img.shields.io/github/stars/termux/proot-distro?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
+- ![Stars](https://img.shields.io/github/stars/cjungmann/yaddemo?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [cjungmann/yaddemo](https://github.com/cjungmann/yaddemo) - Learning to use the YAD command
+- ![Stars](https://img.shields.io/github/stars/Le0xFF/VoidLinuxInstaller?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Le0xFF/VoidLinuxInstaller](https://github.com/Le0xFF/VoidLinuxInstaller) - A bash script to install Void Linux with optional LUKS encryption, optional LVM, btrfs filesystem and optional swap as file.
+- ![Stars](https://img.shields.io/github/stars/pivpn/pivpn?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
+- ![Stars](https://img.shields.io/github/stars/SteamDeckHomebrew/decky-plugin-database?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [SteamDeckHomebrew/decky-plugin-database](https://github.com/SteamDeckHomebrew/decky-plugin-database) - Decky Plugin Database. PR your plugins to this repository to have them added to the store!
+- ![Stars](https://img.shields.io/github/stars/0n1cOn3/FluxER?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [0n1cOn3/FluxER](https://github.com/0n1cOn3/FluxER) - FluxER - The bash script which installs and runs the Fluxion tool inside Termux. The wireless security auditing tool used to perform attacks such as WPA/WPA2 cracking and MITM attacks.
+- ![Stars](https://img.shields.io/github/stars/the-maldridge/xbps-mini-builder?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [the-maldridge/xbps-mini-builder](https://github.com/the-maldridge/xbps-mini-builder) - Miniature version of the buildbot for when you only want a few packages
+- ![Stars](https://img.shields.io/github/stars/CereusLinuxProject/cereus-mklive?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [CereusLinuxProject/cereus-mklive](https://github.com/CereusLinuxProject/cereus-mklive) - The Cereus Linux live image maker (MIRROR ONLY)
+- ![Stars](https://img.shields.io/github/stars/CereusLinuxProject/cereus-pkgs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [CereusLinuxProject/cereus-pkgs](https://github.com/CereusLinuxProject/cereus-pkgs) - The Cereus Linux source packages collection, based on void-packages (MIRROR ONLY).
+- ![Stars](https://img.shields.io/github/stars/sunknudsen/guides?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sunknudsen/guides](https://github.com/sunknudsen/guides) - Explore guides
+- ![Stars](https://img.shields.io/github/stars/89luca89/distrobox?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- ![Stars](https://img.shields.io/github/stars/agarrharr/awesome-cli-apps?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+- ![Stars](https://img.shields.io/github/stars/RetroDECK/RetroDECK?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [RetroDECK/RetroDECK](https://github.com/RetroDECK/RetroDECK) - RetroDECK brings you an all-in-one sandboxed application to play your retro games (and even not-so-retro games) on Linux/SteamOS.
+- ![Stars](https://img.shields.io/github/stars/shalva97/kde-configuration-files?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [shalva97/kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configuration files
+- ![Stars](https://img.shields.io/github/stars/pavolelsig/manjaro_helper_2021?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pavolelsig/manjaro_helper_2021](https://github.com/pavolelsig/manjaro_helper_2021) - GPU passthrough helper for Manjaro
+- ![Stars](https://img.shields.io/github/stars/NextWork123/VFIO-KVM?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [NextWork123/VFIO-KVM](https://github.com/NextWork123/VFIO-KVM) - 
+- ![Stars](https://img.shields.io/github/stars/luizm/action-sh-checker?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [luizm/action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck, shfmt and checkbashisms.
+- ![Stars](https://img.shields.io/github/stars/Frogging-Family/linux-tkg?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
+- ![Stars](https://img.shields.io/github/stars/void-builds/void-mklive?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [void-builds/void-mklive](https://github.com/void-builds/void-mklive) - The Void Linux live image maker
+- ![Stars](https://img.shields.io/github/stars/AndronixApp/AndronixOrigin?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
+- ![Stars](https://img.shields.io/github/stars/runfalk/synology-wireguard?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [runfalk/synology-wireguard](https://github.com/runfalk/synology-wireguard) - WireGuard support for some Synology NAS drives
+- ![Stars](https://img.shields.io/github/stars/AlexPresso/VideoStation-FFMPEG-Patcher?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AlexPresso/VideoStation-FFMPEG-Patcher](https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher) - Patcher to enable DTS, EAC3 and TrueHD transcoding support to Synology VideoStation (from DSM 6.2 to DSM 7.0 and above ; ffmpeg4, 5, 6, 7 ready)
+- ![Stars](https://img.shields.io/github/stars/homebridge/homebridge-syno-spk?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [homebridge/homebridge-syno-spk](https://github.com/homebridge/homebridge-syno-spk) - Homebridge Package for Synology DSM 7.
+- ![Stars](https://img.shields.io/github/stars/DAINRA/ungoogled-chromium-void?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [DAINRA/ungoogled-chromium-void](https://github.com/DAINRA/ungoogled-chromium-void) - Ungoogled Chromium template and builds for Void Linux
+- ![Stars](https://img.shields.io/github/stars/nextcloud/nextcloudpi?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
+- ![Stars](https://img.shields.io/github/stars/AndreVallestero/masars?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [AndreVallestero/masars](https://github.com/AndreVallestero/masars) - Manjaro ARM Sway auto ricing script
+- ![Stars](https://img.shields.io/github/stars/tqre/pinephone-arch?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tqre/pinephone-arch](https://github.com/tqre/pinephone-arch) - PKGBUILD to install p-boot bootloader and Megous' optimized kernel for PinePhone 1.2
+- ![Stars](https://img.shields.io/github/stars/Raezroth/Linux-ARM-Gaming-Chroot?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Raezroth/Linux-ARM-Gaming-Chroot](https://github.com/Raezroth/Linux-ARM-Gaming-Chroot) - Guide to setup a MultiArch Chroot container to run Steam and Wine.
+- ![Stars](https://img.shields.io/github/stars/crispy-landslide/archarm-mobile-fde-installer?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [crispy-landslide/archarm-mobile-fde-installer](https://github.com/crispy-landslide/archarm-mobile-fde-installer) - 
+- ![Stars](https://img.shields.io/github/stars/dreemurrs-embedded/archarm-mobile-fde-installer?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dreemurrs-embedded/archarm-mobile-fde-installer](https://github.com/dreemurrs-embedded/archarm-mobile-fde-installer) - 
+- ![Stars](https://img.shields.io/github/stars/whyrusleeping/git-ipfs-rehost?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [whyrusleeping/git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs
+- ![Stars](https://img.shields.io/github/stars/Piraty/dotfiles?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Piraty/dotfiles](https://github.com/Piraty/dotfiles) - dotfiles mirror
+- ![Stars](https://img.shields.io/github/stars/manjaro-pinephone/arm-profiles?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [manjaro-pinephone/arm-profiles](https://github.com/manjaro-pinephone/arm-profiles) - Mirror of ARM Profiles (Gitlab)
+- ![Stars](https://img.shields.io/github/stars/void-linux/void-updates?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [void-linux/void-updates](https://github.com/void-linux/void-updates) - Update check system for void-packages
+- ![Stars](https://img.shields.io/github/stars/leahneukirchen/xtools?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [leahneukirchen/xtools](https://github.com/leahneukirchen/xtools) - a few helpers for working with XBPS
+- ![Stars](https://img.shields.io/github/stars/Piraty/xxtools?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Piraty/xxtools](https://github.com/Piraty/xxtools) - Tools to ease packaging tasks for Void Linux
+- ![Stars](https://img.shields.io/github/stars/K-arch27/pinebtrfs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [K-arch27/pinebtrfs](https://github.com/K-arch27/pinebtrfs) - Making Btrfs Root on Pinephone
+- ![Stars](https://img.shields.io/github/stars/jjsullivan5196/void-packages?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jjsullivan5196/void-packages](https://github.com/jjsullivan5196/void-packages) - The Void source packages collection
+- ![Stars](https://img.shields.io/github/stars/ysfgrgO7/post-install?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ysfgrgO7/post-install](https://github.com/ysfgrgO7/post-install) - post installation script inspired by DTOS
+- ![Stars](https://img.shields.io/github/stars/lukrop/pkg-wrapper?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lukrop/pkg-wrapper](https://github.com/lukrop/pkg-wrapper) - A simple wrapper for several package managers inspired by FreeBSD's pkg(8).
+- ![Stars](https://img.shields.io/github/stars/vednoc/pkg?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [vednoc/pkg](https://github.com/vednoc/pkg) - A wrapper for various package managers.
+- ![Stars](https://img.shields.io/github/stars/zakariaGatter/xbps-hist?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zakariaGatter/xbps-hist](https://github.com/zakariaGatter/xbps-hist) - Xbps Package Manager History Viewer
+- ![Stars](https://img.shields.io/github/stars/FatmanUK/xbps-autopatch?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [FatmanUK/xbps-autopatch](https://github.com/FatmanUK/xbps-autopatch) - Automatic patching for XBPS
+- ![Stars](https://img.shields.io/github/stars/SafetyPanda/XIL?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [SafetyPanda/XIL](https://github.com/SafetyPanda/XIL) - XIL (pronounce zil, as in godzilla) is a simple, easy to use, add-on to the XBPS package manager.
+- ![Stars](https://img.shields.io/github/stars/zakariaGatter/bsv?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zakariaGatter/bsv](https://github.com/zakariaGatter/bsv) - Void Linx Server manager in pure bash
+- ![Stars](https://img.shields.io/github/stars/ernierasta/xb?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ernierasta/xb](https://github.com/ernierasta/xb) - VoidLinux XBPS primitive wrapper with bash-completion
+- ![Stars](https://img.shields.io/github/stars/lukrop/xbps-pkg?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lukrop/xbps-pkg](https://github.com/lukrop/xbps-pkg) - A simple wrapper for XBPS inspired by FreeBSD's pkg(8).
+- ![Stars](https://img.shields.io/github/stars/moravec2/springlinux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [moravec2/springlinux](https://github.com/moravec2/springlinux) - Spring Linux Live Iso
+- ![Stars](https://img.shields.io/github/stars/moravec2/vd-pkgtool?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [moravec2/vd-pkgtool](https://github.com/moravec2/vd-pkgtool) - Gui for some Void Linux package (xbps) commands
+- ![Stars](https://img.shields.io/github/stars/lynxcs/xbps-completion?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [lynxcs/xbps-completion](https://github.com/lynxcs/xbps-completion) - Autocompletion for xbps-install and xbps-remove
+- ![Stars](https://img.shields.io/github/stars/dreemurrs-embedded/Pine64-Arch?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dreemurrs-embedded/Pine64-Arch](https://github.com/dreemurrs-embedded/Pine64-Arch) - :penguin: Arch Linux ARM for your PinePhone/Pro and PineTab/2 (mirror)
+- ![Stars](https://img.shields.io/github/stars/ymir-linux/void-packages?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ymir-linux/void-packages](https://github.com/ymir-linux/void-packages) - The Void source libre packages collection
+- ![Stars](https://img.shields.io/github/stars/Daniel-Abrecht/dpa-image-builder?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Daniel-Abrecht/dpa-image-builder](https://github.com/Daniel-Abrecht/dpa-image-builder) - A few makefiles & stuff to create images for various devices (librem5, pinephone-pro)
+- ![Stars](https://img.shields.io/github/stars/p-mng/proton-ge-custom-updater?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [p-mng/proton-ge-custom-updater](https://github.com/p-mng/proton-ge-custom-updater) - Simple updater for custom Proton distributions.
+- ![Stars](https://img.shields.io/github/stars/flubberding/ProtonUpdater?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [flubberding/ProtonUpdater](https://github.com/flubberding/ProtonUpdater) - Script to make it easier to update Proton GE to the latest version
+- ![Stars](https://img.shields.io/github/stars/milky-sway/pinephone-scripts?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [milky-sway/pinephone-scripts](https://github.com/milky-sway/pinephone-scripts) - Helper scripts for PinePhone and PinePhone Pro users
+- ![Stars](https://img.shields.io/github/stars/jcgruenhage/void-packages?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jcgruenhage/void-packages](https://github.com/jcgruenhage/void-packages) - The Void source packages collection
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/easybashgui?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/easybashgui](https://github.com/oSoWoSo/easybashgui) - EasyBashGUI  is a Bash functions library  for *BSD and GNU/Linux that aims to give simple GUI functions  using  yad, gtkdialog, kdialog, zenity, Xdialog, (c)dialog, whiptail or bash builtins
+- ![Stars](https://img.shields.io/github/stars/kotoko/voidlinux-iso-extra?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [kotoko/voidlinux-iso-extra](https://github.com/kotoko/voidlinux-iso-extra) - Void (Linux) installation ISO with additional programs
+- ![Stars](https://img.shields.io/github/stars/BashGui/easybashgui?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [BashGui/easybashgui](https://github.com/BashGui/easybashgui) - EasyBashGUI  is a Bash functions library  for *BSD and GNU/Linux that aims to give simple GUI functions  using  yad, gtkdialog, kdialog, zenity, Xdialog, gum, qarma, (c)dialog, whiptail or bash builti
+- ![Stars](https://img.shields.io/github/stars/BigAnteater/KVM-GPU-Passthrough?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [BigAnteater/KVM-GPU-Passthrough](https://github.com/BigAnteater/KVM-GPU-Passthrough) - This is a simple, mostly automated guide to pass a GPU through to a VM.
+- ![Stars](https://img.shields.io/github/stars/jaromaz/yosild?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jaromaz/yosild](https://github.com/jaromaz/yosild) - Yosild is a single shell script that builds a full, minimal Linux distribution based on BusyBox.
+- ![Stars](https://img.shields.io/github/stars/kkga/config?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [kkga/config](https://github.com/kkga/config) - .files
+- ![Stars](https://img.shields.io/github/stars/MichaIng/DietPi?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
+- ![Stars](https://img.shields.io/github/stars/super-linter/super-linter?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
+- ![Stars](https://img.shields.io/github/stars/void-linux/void-mklive?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [void-linux/void-mklive](https://github.com/void-linux/void-mklive) - The Void Linux live image maker
+- ![Stars](https://img.shields.io/github/stars/Bleyom/old-old-dotfiles?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Bleyom/old-old-dotfiles](https://github.com/Bleyom/old-old-dotfiles) - 
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/Void-In-Termux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/Void-In-Termux](https://github.com/oSoWoSo/Void-In-Termux) - This intends to allow a proot from Termux to Void Linux rootfs.
+- ![Stars](https://img.shields.io/github/stars/Chrysostomus/zensu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Chrysostomus/zensu](https://github.com/Chrysostomus/zensu) - Simple gksu replacement using spacefm dialog, zenity or yad
+- ![Stars](https://img.shields.io/github/stars/CISOfy/lynis?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+- ![Stars](https://img.shields.io/github/stars/EmperorPenguin18/linux-installer?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [EmperorPenguin18/linux-installer](https://github.com/EmperorPenguin18/linux-installer) - Universal GNU+Linux installer script
+- ![Stars](https://img.shields.io/github/stars/drake-newell/vrh?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [drake-newell/vrh](https://github.com/drake-newell/vrh) - vrh
+- ![Stars](https://img.shields.io/github/stars/quickemu-project/quickemu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- ![Stars](https://img.shields.io/github/stars/123randomuser321/123randomuser321_void_templates?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [123randomuser321/123randomuser321_void_templates](https://github.com/123randomuser321/123randomuser321_void_templates) - All xbps templates I created are gathered here
+- ![Stars](https://img.shields.io/github/stars/alexanderepstein/Bash-Snippets?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+- ![Stars](https://img.shields.io/github/stars/mobinmob/abyss-packages?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [mobinmob/abyss-packages](https://github.com/mobinmob/abyss-packages) - 
+- ![Stars](https://img.shields.io/github/stars/Botspot/pi-apps?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
+- ![Stars](https://img.shields.io/github/stars/petervanderdoes/git-flow-completion?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [petervanderdoes/git-flow-completion](https://github.com/petervanderdoes/git-flow-completion) - Bash, Zsh and fish completion support for git-flow.
+- ![Stars](https://img.shields.io/github/stars/raspberrypi/rpi-update?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [raspberrypi/rpi-update](https://github.com/raspberrypi/rpi-update) - An easier way to update the firmware of your Raspberry Pi
+- ![Stars](https://img.shields.io/github/stars/raspberrypi/rpi-eeprom?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [raspberrypi/rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom) - Installation scripts and binaries for the Raspberry Pi 4 and Raspberry Pi 5 bootloader EEPROMs
+- ![Stars](https://img.shields.io/github/stars/PapirusDevelopmentTeam/papirus-icon-theme?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
+- ![Stars](https://img.shields.io/github/stars/db-inf/spacefm-plugins?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [db-inf/spacefm-plugins](https://github.com/db-inf/spacefm-plugins) - mijn spacefm plugins (some in English, sommige in het Nederlands)
+- ![Stars](https://img.shields.io/github/stars/DeskPi-Team/deskpi?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [DeskPi-Team/deskpi](https://github.com/DeskPi-Team/deskpi) - DeskPi Pro is the Ultimate Case Kit for Raspberry Pi 4 with Full Size HDMI/2.5 Hard Disk Support and Safe Power Button, It has QC 3.0 Power Supply inside and New ICE Tower Cooler inside.
+- ![Stars](https://img.shields.io/github/stars/terroo/wallset?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [terroo/wallset](https://github.com/terroo/wallset) - A wallpaper manager that makes it possible to put videos as wallpaper
+- ![Stars](https://img.shields.io/github/stars/adi1090x/rofi?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
+- ![Stars](https://img.shields.io/github/stars/zdykstra/fuzzypkg?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zdykstra/fuzzypkg](https://github.com/zdykstra/fuzzypkg) - 
+- ![Stars](https://img.shields.io/github/stars/addy-dclxvi/paintmybox?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [addy-dclxvi/paintmybox](https://github.com/addy-dclxvi/paintmybox) - My Void Linux Openbox dotfiles. It loads random theme & wallpaper then unify the window decorator, panel, terminal, startmenu, notifications, OSD popup, and desktop menu.
+- ![Stars](https://img.shields.io/github/stars/nodiscc/awesome-linuxaudio
+mirror?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
+- ![Stars](https://img.shields.io/github/stars/Lolzen/void-live-customizer?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
+- ![Stars](https://img.shields.io/github/stars/not-void/nvoid?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [not-void/nvoid](https://github.com/not-void/nvoid) - alternative xbps-src repo
+- ![Stars](https://img.shields.io/github/stars/furryfixer/runit_sv_addons?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [furryfixer/runit_sv_addons](https://github.com/furryfixer/runit_sv_addons) - Three short add-on scripts for runit "sv"
+- ![Stars](https://img.shields.io/github/stars/CCOSTAN/Home-AssistantConfig?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
+- ![Stars](https://img.shields.io/github/stars/thibmaek/awesome-raspberry-pi?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+- ![Stars](https://img.shields.io/github/stars/redox-os/redox?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
+- ![Stars](https://img.shields.io/github/stars/emacsomancer/vpnd?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [emacsomancer/vpnd](https://github.com/emacsomancer/vpnd) - Void Package Notifier Daemon
+- ![Stars](https://img.shields.io/github/stars/pavolelsig/passthrough_helper_fedora?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pavolelsig/passthrough_helper_fedora](https://github.com/pavolelsig/passthrough_helper_fedora) - GPU passthrough helper
+- ![Stars](https://img.shields.io/github/stars/VSCodium/vscodium?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+- ![Stars](https://img.shields.io/github/stars/dcloud-ca/voidLuksSetup?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dcloud-ca/voidLuksSetup](https://github.com/dcloud-ca/voidLuksSetup) - Bash script for installing Void Linux with disk encryption
+- ![Stars](https://img.shields.io/github/stars/sonic2kk/steamtinkerlaunch?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
+- ![Stars](https://img.shields.io/github/stars/xdeb-org/xdeb?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [xdeb-org/xdeb](https://github.com/xdeb-org/xdeb) - XDEB - Convert deb (Debian) packages to xbps (Void Linux)
+- ![Stars](https://img.shields.io/github/stars/WoeUSB/WoeUSB?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
+- ![Stars](https://img.shields.io/github/stars/Bash-it/bash-it?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- ![Stars](https://img.shields.io/github/stars/silvernode/voidbuilds?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [silvernode/voidbuilds](https://github.com/silvernode/voidbuilds) - Scripts and package lists used to build image files on voidbuilds.xyz
+- ![Stars](https://img.shields.io/github/stars/awesome-lists/awesome-bash?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
+- ![Stars](https://img.shields.io/github/stars/rabbitinspace/abyss?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [rabbitinspace/abyss](https://github.com/rabbitinspace/abyss) - Another Void Linux bootstrap for UEFI systems written in Fish.
+- ![Stars](https://img.shields.io/github/stars/aristocratos/bashtop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
+- ![Stars](https://img.shields.io/github/stars/PlatinumClaridge/LARBS?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [PlatinumClaridge/LARBS](https://github.com/PlatinumClaridge/LARBS) - 
+- ![Stars](https://img.shields.io/github/stars/oh-my-fish/oh-my-fish?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
+- ![Stars](https://img.shields.io/github/stars/pi-hole/pi-hole?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- ![Stars](https://img.shields.io/github/stars/taichifan/Void-In-Termux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [taichifan/Void-In-Termux](https://github.com/taichifan/Void-In-Termux) - This intends to allow a proot from Termux to Void Linux rootfs.
+- ![Stars](https://img.shields.io/github/stars/zbm-dev/zfsbootmenu?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zbm-dev/zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS bootloader for root-on-ZFS systems with support for snapshots and native full disk encryption
+- ![Stars](https://img.shields.io/github/stars/leahneukirchen/hrmpf?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [leahneukirchen/hrmpf](https://github.com/leahneukirchen/hrmpf) - hrmpf rescue system, built on Void Linux
+- ![Stars](https://img.shields.io/github/stars/bahamas10/bash-vsv?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bahamas10/bash-vsv](https://github.com/bahamas10/bash-vsv) - Manage and view runit services
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/passthrough_helper_void?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/passthrough_helper_void](https://github.com/oSoWoSo/passthrough_helper_void) - GPU passthrough helper
+- ![Stars](https://img.shields.io/github/stars/adi1090x/polybar-themes?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
+- ![Stars](https://img.shields.io/github/stars/addy-dclxvi/tint2-theme-collections?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [addy-dclxvi/tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
+- ![Stars](https://img.shields.io/github/stars/void-linux/void-packages?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [void-linux/void-packages](https://github.com/void-linux/void-packages) - The Void source packages collection
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/voidlinux?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/voidlinux](https://github.com/oSoWoSo/voidlinux) - VOID linux post install script after base install
+- ![Stars](https://img.shields.io/github/stars/sineto/vpsm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sineto/vpsm](https://github.com/sineto/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
+- ![Stars](https://img.shields.io/github/stars/huijunchen9260/dmenufm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [huijunchen9260/dmenufm](https://github.com/huijunchen9260/dmenufm) - A simple file manager using dmenu
+- ![Stars](https://img.shields.io/github/stars/bahamas10/vpm?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bahamas10/vpm](https://github.com/bahamas10/vpm) - vpm - An XBPS package management helper for VoidLinux
+- ![Stars](https://img.shields.io/github/stars/pavolelsig/passthrough_helper_manjaro?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pavolelsig/passthrough_helper_manjaro](https://github.com/pavolelsig/passthrough_helper_manjaro) - 
+- ![Stars](https://img.shields.io/github/stars/aguslr/multibootusb?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [aguslr/multibootusb](https://github.com/aguslr/multibootusb) - A collection of GRUB files and scripts that will allow you to create a pendrive capable of booting different ISO files
+- ![Stars](https://img.shields.io/github/stars/arcolinuxd/arco-awesome?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [arcolinuxd/arco-awesome](https://github.com/arcolinuxd/arco-awesome) - All scripts necessary to have an awesome deskop experience on ArcoLinux or vanilla Arch Linux installation
+- ![Stars](https://img.shields.io/github/stars/zen0bit/nixos?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zen0bit/nixos](https://github.com/zen0bit/nixos) - config
+- ![Stars](https://img.shields.io/github/stars/wine-staging/wine-staging?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [wine-staging/wine-staging](https://github.com/wine-staging/wine-staging) - Staging repository for Wine; mirror of https://gitlab.winehq.org/wine/wine-staging - Bugtracker and Patches: https://bugs.winehq.org/
+- ![Stars](https://img.shields.io/github/stars/dylanaraps/neofetch?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+- ![Stars](https://img.shields.io/github/stars/h0ek/POL_EntropiaUniverse?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [h0ek/POL_EntropiaUniverse](https://github.com/h0ek/POL_EntropiaUniverse) - PlayOnLinux script for Entropia Universe
+- ![Stars](https://img.shields.io/github/stars/Winetricks/winetricks?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
+- ![Stars](https://img.shields.io/github/stars/arch-openrc/arch-openrc?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [arch-openrc/arch-openrc](https://github.com/arch-openrc/arch-openrc) - Arch Linux OpenRC packages.
 
 ## Svelte 
 
-- [ed-asriyan/simplex-directory-frontend](https://github.com/ed-asriyan/simplex-directory-frontend) - https://simplex-directory.asriyan.me
+- ![Stars](https://img.shields.io/github/stars/ed-asriyan/simplex-directory-frontend?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [ed-asriyan/simplex-directory-frontend](https://github.com/ed-asriyan/simplex-directory-frontend) - https://simplex-directory.asriyan.me
 
 ## TypeScript 
 
-- [repohistory/repohistory](https://github.com/repohistory/repohistory) - GitHub repo analytics tool without 14 days limit
-- [almahdi/dt-tierlist](https://github.com/almahdi/dt-tierlist) - A tier list app for DT to use instead of GIMP.
-- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
-- [LitoMore/simple-icons-cdn](https://github.com/LitoMore/simple-icons-cdn) - 🎨 Colorable and resizable CDN for Simple Icons
-- [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
-- [jeb5/Sidetabs](https://github.com/jeb5/Sidetabs) - Because tabs should be vertical
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [KunalSin9h/secops](https://github.com/KunalSin9h/secops) - A Ubuntu Desktop Application for managing security.
-- [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
-- [spacebarchat/client](https://github.com/spacebarchat/client) - Open source, themeable and extendable discord-compatible native Spacebar client
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
-- [Athou/commafeed-browser-extension](https://github.com/Athou/commafeed-browser-extension) - Cross-browser extension for CommaFeed
-- [seladb/StarTrack-js](https://github.com/seladb/StarTrack-js) - GitHub star history and stats - based on JavaScript only!
-- [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - A professional and universal remastering tool for all major distributions
-- [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [oSoWoSo/gitmoji](https://github.com/oSoWoSo/gitmoji) - An emoji guide for your commit messages. 😜
-- [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center) - A tool to help you control performance, energy, fan and comfort settings on TUXEDO laptops.
-- [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-- [clevercli/clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
-- [menhera-org/TabArray](https://github.com/menhera-org/TabArray) - Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
-- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
-- [jurassicplayer/decky-autoflatpaks](https://github.com/jurassicplayer/decky-autoflatpaks) - A decky-loader plugin to manage, notify, and/or automatically update your steamdeck flatpaks without DesktopMode.
-- [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art assets from within gaming mode.
-- [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
-- [SteamGridDB/steam-rom-manager](https://github.com/SteamGridDB/steam-rom-manager) - The bulk game importer and artwork manager for Steam!
-- [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Decentralized private messenger with chat-shared tools and games for Desktop
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
-- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
-- [m-khvoinitsky/dark-background-light-text-extension](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Firefox addon that turns every page colors into "light text on dark background"
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
-- [eclipse-theia/theia-ide](https://github.com/eclipse-theia/theia-ide) - The Eclipse IDE is a modern and open IDE for cloud and desktop. The Theia IDE is based on the Theia platform. The Theia IDE is available as a downloadable desktop application. You can also try the lat
-- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
-- [Devsfy/wiregui](https://github.com/Devsfy/wiregui) - A graphical user interface for wireguard (client-side) for linux and windows
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
-- [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
-- [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
-- [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
-- [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- ![Stars](https://img.shields.io/github/stars/repohistory/repohistory?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [repohistory/repohistory](https://github.com/repohistory/repohistory) - GitHub repo analytics tool without 14 days limit
+- ![Stars](https://img.shields.io/github/stars/almahdi/dt-tierlist?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [almahdi/dt-tierlist](https://github.com/almahdi/dt-tierlist) - A tier list app for DT to use instead of GIMP.
+- ![Stars](https://img.shields.io/github/stars/actions/toolkit?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
+- ![Stars](https://img.shields.io/github/stars/LitoMore/simple-icons-cdn?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [LitoMore/simple-icons-cdn](https://github.com/LitoMore/simple-icons-cdn) - 🎨 Colorable and resizable CDN for Simple Icons
+- ![Stars](https://img.shields.io/github/stars/kando-menu/kando?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
+- ![Stars](https://img.shields.io/github/stars/jeb5/Sidetabs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jeb5/Sidetabs](https://github.com/jeb5/Sidetabs) - Because tabs should be vertical
+- ![Stars](https://img.shields.io/github/stars/toeverything/AFFiNE
+ə‘fain?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
+- ![Stars](https://img.shields.io/github/stars/KunalSin9h/secops?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [KunalSin9h/secops](https://github.com/KunalSin9h/secops) - A Ubuntu Desktop Application for managing security.
+- ![Stars](https://img.shields.io/github/stars/Legcord/Legcord?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
+- ![Stars](https://img.shields.io/github/stars/spacebarchat/client?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [spacebarchat/client](https://github.com/spacebarchat/client) - Open source, themeable and extendable discord-compatible native Spacebar client
+- ![Stars](https://img.shields.io/github/stars/daytonaio/daytona?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+- ![Stars](https://img.shields.io/github/stars/Athou/commafeed-browser-extension?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Athou/commafeed-browser-extension](https://github.com/Athou/commafeed-browser-extension) - Cross-browser extension for CommaFeed
+- ![Stars](https://img.shields.io/github/stars/seladb/StarTrack-js?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [seladb/StarTrack-js](https://github.com/seladb/StarTrack-js) - GitHub star history and stats - based on JavaScript only!
+- ![Stars](https://img.shields.io/github/stars/pieroproietti/penguins-eggs?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - A professional and universal remastering tool for all major distributions
+- ![Stars](https://img.shields.io/github/stars/iam4x/bobarr?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
+- ![Stars](https://img.shields.io/github/stars/spacedriveapp/spacedrive?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- ![Stars](https://img.shields.io/github/stars/oSoWoSo/gitmoji?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [oSoWoSo/gitmoji](https://github.com/oSoWoSo/gitmoji) - An emoji guide for your commit messages. 😜
+- ![Stars](https://img.shields.io/github/stars/tuxedocomputers/tuxedo-control-center?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center) - A tool to help you control performance, energy, fan and comfort settings on TUXEDO laptops.
+- ![Stars](https://img.shields.io/github/stars/openai-translator/openai-translator?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- ![Stars](https://img.shields.io/github/stars/clevercli/clevercli?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [clevercli/clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
+- ![Stars](https://img.shields.io/github/stars/menhera-org/TabArray?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [menhera-org/TabArray](https://github.com/menhera-org/TabArray) - Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
+- ![Stars](https://img.shields.io/github/stars/osmoscraft/osmosfeed?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
+- ![Stars](https://img.shields.io/github/stars/jurassicplayer/decky-autoflatpaks?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [jurassicplayer/decky-autoflatpaks](https://github.com/jurassicplayer/decky-autoflatpaks) - A decky-loader plugin to manage, notify, and/or automatically update your steamdeck flatpaks without DesktopMode.
+- ![Stars](https://img.shields.io/github/stars/SteamGridDB/decky-steamgriddb?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art assets from within gaming mode.
+- ![Stars](https://img.shields.io/github/stars/SteamDeckHomebrew/decky-loader?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
+- ![Stars](https://img.shields.io/github/stars/SteamGridDB/steam-rom-manager?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [SteamGridDB/steam-rom-manager](https://github.com/SteamGridDB/steam-rom-manager) - The bulk game importer and artwork manager for Steam!
+- ![Stars](https://img.shields.io/github/stars/deltachat/deltachat-desktop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Decentralized private messenger with chat-shared tools and games for Desktop
+- ![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
+- ![Stars](https://img.shields.io/github/stars/getumbrel/umbrel?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
+- ![Stars](https://img.shields.io/github/stars/hedgedoc/hedgedoc?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
+- ![Stars](https://img.shields.io/github/stars/m-khvoinitsky/dark-background-light-text-extension?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [m-khvoinitsky/dark-background-light-text-extension](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Firefox addon that turns every page colors into "light text on dark background"
+- ![Stars](https://img.shields.io/github/stars/tutao/tutanota?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
+- ![Stars](https://img.shields.io/github/stars/eclipse-theia/theia-ide?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [eclipse-theia/theia-ide](https://github.com/eclipse-theia/theia-ide) - The Eclipse IDE is a modern and open IDE for cloud and desktop. The Theia IDE is based on the Theia platform. The Theia IDE is available as a downloadable desktop application. You can also try the lat
+- ![Stars](https://img.shields.io/github/stars/eclipse-theia/theia?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- ![Stars](https://img.shields.io/github/stars/misskey-dev/misskey?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
+- ![Stars](https://img.shields.io/github/stars/Devsfy/wiregui?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Devsfy/wiregui](https://github.com/Devsfy/wiregui) - A graphical user interface for wireguard (client-side) for linux and windows
+- ![Stars](https://img.shields.io/github/stars/refined-github/refined-github?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- ![Stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
+- ![Stars](https://img.shields.io/github/stars/bitwarden/desktop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
+- ![Stars](https://img.shields.io/github/stars/sindresorhus/caprine?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
+- ![Stars](https://img.shields.io/github/stars/shiftkey/desktop?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
+- ![Stars](https://img.shields.io/github/stars/balena-io/etcher?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 
 ## Vala 
 
-- [bleakgrey/tootle](https://github.com/bleakgrey/tootle) - GTK-based Mastodon client for Linux
-- [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
-- [christianloopp/komorebi](https://github.com/christianloopp/komorebi) - A beautiful and customizable wallpapers manager for Linux
-- [zcot/conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-22, Mint 18-21 and more.
-- [teejee2008/conky-manager](https://github.com/teejee2008/conky-manager) - GUI for managing Conky widgets
+- ![Stars](https://img.shields.io/github/stars/bleakgrey/tootle?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [bleakgrey/tootle](https://github.com/bleakgrey/tootle) - GTK-based Mastodon client for Linux
+- ![Stars](https://img.shields.io/github/stars/dino/dino?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
+- ![Stars](https://img.shields.io/github/stars/christianloopp/komorebi?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [christianloopp/komorebi](https://github.com/christianloopp/komorebi) - A beautiful and customizable wallpapers manager for Linux
+- ![Stars](https://img.shields.io/github/stars/zcot/conky-manager2?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [zcot/conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-22, Mint 18-21 and more.
+- ![Stars](https://img.shields.io/github/stars/teejee2008/conky-manager?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [teejee2008/conky-manager](https://github.com/teejee2008/conky-manager) - GUI for managing Conky widgets
 
 ## Vue 
 
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
-- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+- ![Stars](https://img.shields.io/github/stars/Lissy93/dashy?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- ![Stars](https://img.shields.io/github/stars/hello-efficiency-inc/raven-reader?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
+- ![Stars](https://img.shields.io/github/stars/TeamPiped/Piped?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 
 ## Zig 
 
-- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
+- ![Stars](https://img.shields.io/github/stars/fairyglade/ly?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 
 
 ## License
