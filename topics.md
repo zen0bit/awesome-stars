@@ -1619,6 +1619,7 @@
 
 ## others 
 
+- [a1akris/simploxide](https://github.com/a1akris/simploxide) - SimpleX-Chat bot SDK for Rust
 - [pkgforge-dev/Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages) - AppImages That Truly Work On Any Linux System (Even musl-libc and non-FHS systems)
 - [text-forge/text-forge](https://github.com/text-forge/text-forge) - Simplicity to start, power to grow! A modular, scriptable, and language-agnostic text editor built for user empowerment. Lightweight, extensible, and open source.
 - [dani-77/d77void](https://github.com/dani-77/d77void) - d77void iso creator
