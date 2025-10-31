@@ -538,6 +538,7 @@
 
 ## cli 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [gmou3/scrapetubefzf](https://github.com/gmou3/scrapetubefzf) - Terminal-based portal to Youtube. An alternative to ytfzf.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
@@ -1080,6 +1081,7 @@
 
 ## hacktoberfest 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - A Linux "rice" configuration using Hyprland and Quickshell, featuring a curated selection of themes: Dracula, Catppuccin, Nord, Material, Gruvbox, and TokyoNight. Highly customizable for personalized 
 - [CiviWiki/OpenCiviWiki](https://github.com/CiviWiki/OpenCiviWiki) - Building a Better Democracy for the Internet Age
@@ -2295,6 +2297,7 @@
 
 ## rust 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
 - [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS) - A Graphical Interface for Distrobox
@@ -2461,6 +2464,7 @@
 
 ## terminal 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [tabletseeker/ytfzf_prime](https://github.com/tabletseeker/ytfzf_prime) - A working update of the popular terminal tool ytfzf for searching and watching Youtube videos without ads or privacy concerns, but with the convenience of a docker container.
 - [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
