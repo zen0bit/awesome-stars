@@ -1624,6 +1624,7 @@
 
 ## others 
 
+- [Letdown2491/runkit](https://github.com/Letdown2491/runkit) - Graphical manager for runit services.
 - [Julien-cpsn/desktop-tui](https://github.com/Julien-cpsn/desktop-tui) - A desktop environment without graphics
 - [jesuisse/godot-radial-menu-control](https://github.com/jesuisse/godot-radial-menu-control) - Provides a radial menu control
 - [a1akris/simploxide](https://github.com/a1akris/simploxide) - SimpleX-Chat bot SDK for Rust
