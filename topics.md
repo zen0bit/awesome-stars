@@ -234,6 +234,7 @@
 
 ## android 
 
+- [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 - [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An Android application for music recognition that uses AudD and ACRCloud services to perform song identification.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
 - [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) - A simple app for discovering tools that respects your privacy.
@@ -1273,6 +1274,7 @@
 
 ## kotlin 
 
+- [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 - [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) - A simple app for discovering tools that respects your privacy.
 - [crackededed/Xtra](https://github.com/crackededed/Xtra) - Third-party Twitch client for Android
 - [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
@@ -1629,6 +1631,7 @@
 
 ## others 
 
+- [oSoWoSo/xut](https://github.com/oSoWoSo/xut) - xtra user templates - Build and install packages for Void Linux, usinng templates from the abyss-packages unofficial repo. Read only mirror from codeberg
 - [su8/yoimnotpro](https://github.com/su8/yoimnotpro) - Small application center
 - [Letdown2491/nebula-gtk](https://github.com/Letdown2491/nebula-gtk) - A GUI frontend for Void Linux's XBPS software tooling.
 - [cheesewhe/awesome-repositories-collection](https://github.com/cheesewhe/awesome-repositories-collection) - A curated collection of awesome utilities and repositories organized by category
