@@ -1653,7 +1653,6 @@
 - [EUHunterTools/EU-Hunter-Tools](https://github.com/EUHunterTools/EU-Hunter-Tools) - 
 - [shazow/wifitui](https://github.com/shazow/wifitui) - Fast featureful friendly wifi terminal UI. 🛜✨
 - [almahdi/dt-tierlist](https://github.com/almahdi/dt-tierlist) - A tier list app for DT to use instead of GIMP.
-- [Encoded14/void-extra](https://github.com/Encoded14/void-extra) - 
 - [nolaforensix/scalpel-2.02](https://github.com/nolaforensix/scalpel-2.02) - This repo contains the source code for Scalpel 2.02, an improved version of the original Scalpel fast file carver.
 - [danthem/undelete-btrfs](https://github.com/danthem/undelete-btrfs) - A script that attempts to undelete files in a BTRFS file system. Make sure you read the README.
 - [candidtim/f2-commander](https://github.com/candidtim/f2-commander) - F2 Commander is an orthodox file manager for the modern world
