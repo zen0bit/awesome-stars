@@ -1014,6 +1014,7 @@
 
 ## godot 
 
+- [Maran23/script-ide](https://github.com/Maran23/script-ide) - Script-IDE is a plugin for Godot. It transforms the Script UI into an IDE like UI. Multiline Tabs are used for navigating between scripts. The default Outline got an overhaul and now shows all members
 - [diklor/advanced_radial_menu](https://github.com/diklor/advanced_radial_menu) - 
 - [InterstellarDragonDev/Godot-Pie](https://github.com/InterstellarDragonDev/Godot-Pie) - A simple Pie Menu made in godot
 - [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game
@@ -1638,6 +1639,9 @@
 
 ## others 
 
+- [binarylinuxx/xbps_updater](https://github.com/binarylinuxx/xbps_updater) - 
+- [aureliojargas/clitest](https://github.com/aureliojargas/clitest) - Command Line Tester
+- [WIttyJudge/adless](https://github.com/WIttyJudge/adless) - Local domains blocker written in Go
 - [atweiden/voidvault](https://github.com/atweiden/voidvault) - Bootstrap Void with FDE
 - [Prayag2/drawy](https://github.com/Prayag2/drawy) - Your handy, infinite, brainstorming tool!
 - [oSoWoSo/xut](https://github.com/oSoWoSo/xut) - xtra user templates - Build and install packages for Void Linux, usinng templates from the abyss-packages unofficial repo. Read only mirror from codeberg
