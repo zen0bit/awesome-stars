@@ -1323,6 +1323,7 @@
 
 ## linux 
 
+- [cyber-amr/mini-polkit](https://github.com/cyber-amr/mini-polkit) - mini agent for polkit authentication
 - [leukipp/cortile](https://github.com/leukipp/cortile) - Linux auto tiling manager with hot corner support for Openbox, Fluxbox, IceWM, Xfwm, KWin, Marco, Muffin, Mutter and other EWMH compliant window managers using the X11 window system. Therefore, this p
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - A Linux "rice" configuration using Hyprland and Quickshell, featuring a curated selection of themes: Dracula, Catppuccin, Nord, Material, Gruvbox, and TokyoNight. Highly customizable for personalized 
@@ -1639,6 +1640,7 @@
 
 ## others 
 
+- [OmarCastro/cmd-polkit](https://github.com/OmarCastro/cmd-polkit) - Easily create polkit authentication agents by using commands
 - [binarylinuxx/xbps_updater](https://github.com/binarylinuxx/xbps_updater) - 
 - [aureliojargas/clitest](https://github.com/aureliojargas/clitest) - Command Line Tester
 - [WIttyJudge/adless](https://github.com/WIttyJudge/adless) - Local domains blocker written in Go
