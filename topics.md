@@ -95,6 +95,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
@@ -207,6 +208,7 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
+- [web3](#web3)
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xcode](#xcode)
@@ -1070,6 +1072,20 @@
 
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 
+## gui 
+
+- [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
+- [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
+- [michaeltd/bashpass](https://github.com/michaeltd/bashpass) - Password management for the terminal and X.
+- [oSoWoSo/DistroHopper](https://github.com/oSoWoSo/DistroHopper) - Quickly download, create and run VM of any#TODO operating system.
+- [crsolver/goduz](https://github.com/crsolver/goduz) - A GDScript library for building user interfaces with Godot Engine 4
+- [VolodyaKEK/godot-immediate-gui](https://github.com/VolodyaKEK/godot-immediate-gui) - Immediate GUI for Godot Engine
+- [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+- [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
+- [moravec2/vd-pkgtool](https://github.com/moravec2/vd-pkgtool) - Gui for some Void Linux package (xbps) commands
+- [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
+- [Devsfy/wiregui](https://github.com/Devsfy/wiregui) - A graphical user interface for wireguard (client-side) for linux and windows
+
 ## hacking 
 
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
@@ -1921,7 +1937,6 @@
 - [ernierasta/xb](https://github.com/ernierasta/xb) - VoidLinux XBPS primitive wrapper with bash-completion
 - [lukrop/xbps-pkg](https://github.com/lukrop/xbps-pkg) - A simple wrapper for XBPS inspired by FreeBSD's pkg(8).
 - [moravec2/springlinux](https://github.com/moravec2/springlinux) - Spring Linux Live Iso
-- [moravec2/vd-pkgtool](https://github.com/moravec2/vd-pkgtool) - Gui for some Void Linux package (xbps) commands
 - [lynxcs/xbps-completion](https://github.com/lynxcs/xbps-completion) - Autocompletion for xbps-install and xbps-remove
 - [manjaro-pinephone/plasma-mobile](https://github.com/manjaro-pinephone/plasma-mobile) - Manjaro Plasma-Mobile
 - [ymir-linux/void-packages](https://github.com/ymir-linux/void-packages) - The Void source libre packages collection
@@ -1993,7 +2008,6 @@
 - [addy-dclxvi/gtk-theme-collections](https://github.com/addy-dclxvi/gtk-theme-collections) - Some GTK themes for a companion to my Xfwm, Openbox, and Fluxbox themes
 - [codedmart/slim-simple-void-theme](https://github.com/codedmart/slim-simple-void-theme) - Fancy SLiM theme for Void Linux
 - [Lolzen/void-live-customizer](https://github.com/Lolzen/void-live-customizer) - script to build a customized livecd of void linux using void-mklive
-- [Devsfy/wiregui](https://github.com/Devsfy/wiregui) - A graphical user interface for wireguard (client-side) for linux and windows
 - [not-void/nvoid](https://github.com/not-void/nvoid) - alternative xbps-src repo
 - [19742bytes/roonit](https://github.com/19742bytes/roonit) - "roonit" is a simple tool for enabling and disabling services in runit (Void Linux). Pronounced as "Rune-It" or "Ruined-It".
 - [furryfixer/runit_sv_addons](https://github.com/furryfixer/runit_sv_addons) - Three short add-on scripts for runit "sv"
@@ -2637,6 +2651,10 @@
 - [libreprojects/libreprojects](https://github.com/libreprojects/libreprojects) - 🔖 Collection of open source, usable, hosted web services! https://libreprojects.net
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
+
+## web3 
+
+- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
 
 ## windows 
 
