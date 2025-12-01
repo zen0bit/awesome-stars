@@ -191,7 +191,6 @@
 - [spring-boot](#spring-boot)
 - [statistics](#statistics)
 - [support](#support)
-- [svelte](#svelte)
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -794,7 +793,7 @@
 
 ## dotfiles 
 
-- [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - A Linux "rice" configuration using Hyprland and Quickshell, featuring a curated selection of themes: Dracula, Catppuccin, Nord, Material, Gruvbox, and TokyoNight. Highly customizable for personalized 
+- [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - A feature-rich Hyprland shell built with Quickshell. Introduces an interactive "Smart Capsule", wallpaper depth effects, and active system monitoring with resource alerts. Includes weather services, a
 - [Speyll/dotfiles](https://github.com/Speyll/dotfiles) - Efficiency meets aesthetics, my dotfiles are fine-tuned for a seamless Linux experience. Take control of your system with this clean, minimalistic configuration. 🚀
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
@@ -1137,7 +1136,7 @@
 - [oSoWoSo/void-user-repository](https://github.com/oSoWoSo/void-user-repository) - Void User Repository: Gathering xbps-src templates from community
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
-- [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - A Linux "rice" configuration using Hyprland and Quickshell, featuring a curated selection of themes: Dracula, Catppuccin, Nord, Material, Gruvbox, and TokyoNight. Highly customizable for personalized 
+- [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - A feature-rich Hyprland shell built with Quickshell. Introduces an interactive "Smart Capsule", wallpaper depth effects, and active system monitoring with resource alerts. Includes weather services, a
 - [CiviWiki/OpenCiviWiki](https://github.com/CiviWiki/OpenCiviWiki) - Building a Better Democracy for the Internet Age
 - [oSoWoSo/VUR](https://github.com/oSoWoSo/VUR) - The Void source packages collection
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
@@ -1367,7 +1366,7 @@
 - [cyber-amr/mini-polkit](https://github.com/cyber-amr/mini-polkit) - mini agent for polkit authentication
 - [leukipp/cortile](https://github.com/leukipp/cortile) - Linux auto tiling manager with hot corner support for Openbox, Fluxbox, IceWM, Xfwm, KWin, Marco, Muffin, Mutter and other EWMH compliant window managers using the X11 window system. Therefore, this p
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
-- [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - A Linux "rice" configuration using Hyprland and Quickshell, featuring a curated selection of themes: Dracula, Catppuccin, Nord, Material, Gruvbox, and TokyoNight. Highly customizable for personalized 
+- [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - A feature-rich Hyprland shell built with Quickshell. Introduces an interactive "Smart Capsule", wallpaper depth effects, and active system monitoring with resource alerts. Includes weather services, a
 - [zen0bit/awesome-stars](https://github.com/zen0bit/awesome-stars) - My Awesome List
 - [ashos/ashos](https://github.com/ashos/ashos) - The immutable/mutable meta-distribution (universal bootstrapper)
 - [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
@@ -1681,8 +1680,9 @@
 
 ## others 
 
+- [Passw/luccahuguet-yazelix](https://github.com/Passw/luccahuguet-yazelix) - Zellij and Yazi adding a File Tree to Helix & helix-friendly keybindigs for Zellij
 - [MeridianOXC/OpenXcom](https://github.com/MeridianOXC/OpenXcom) - Open-source clone of the original X-Com
-- [cfgnunes/nautilus-scripts](https://github.com/cfgnunes/nautilus-scripts) - A set of actions for extending the functionality of the GNOME Files (Nautilus), Nemo, Caja, Dolphin, Thunar and PCManFM-Qt file managers.
+- [cfgnunes/fm-scripts](https://github.com/cfgnunes/fm-scripts) - A set of actions for extending the functionality of the GNOME Files (Nautilus), Nemo, Caja, Dolphin, Thunar and PCManFM-Qt file managers.
 - [OmarCastro/cmd-polkit](https://github.com/OmarCastro/cmd-polkit) - Easily create polkit authentication agents by using commands
 - [binarylinuxx/xbps_updater](https://github.com/binarylinuxx/xbps_updater) - 
 - [aureliojargas/clitest](https://github.com/aureliojargas/clitest) - Command Line Tester
@@ -2519,10 +2519,6 @@
 
 - [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge
 
-## svelte 
-
-- [nonnorm/DietPi-Dashboard](https://github.com/nonnorm/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
-
 ## telegram 
 
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
@@ -2613,7 +2609,6 @@
 - [mtgatool/mtgatool-desktop](https://github.com/mtgatool/mtgatool-desktop) - 
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Decentralized private messenger with chat-shared tools and games for Desktop
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [nonnorm/DietPi-Dashboard](https://github.com/nonnorm/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 
 ## ubuntu 
