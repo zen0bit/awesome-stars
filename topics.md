@@ -191,6 +191,7 @@
 - [spring-boot](#spring-boot)
 - [statistics](#statistics)
 - [support](#support)
+- [svelte](#svelte)
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -535,6 +536,7 @@
 
 ## chrome-extension 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [topmonks/hlidac-shopu](https://github.com/topmonks/hlidac-shopu) - Hlídač shopů
 - [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 - [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
@@ -712,6 +714,7 @@
 
 ## developer-tools 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -1618,6 +1621,7 @@
 
 ## nodejs 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -1681,6 +1685,7 @@
 
 ## others 
 
+- [oSoWoSo/dotbot-xi](https://github.com/oSoWoSo/dotbot-xi) - dotbot xi plugin (Use xi from xtools)
 - [xbps-src-tutorials/xbps-src-tutorials.github.io](https://github.com/xbps-src-tutorials/xbps-src-tutorials.github.io) - xbps-src tutorials
 - [4e554c4c/base16-halloy](https://github.com/4e554c4c/base16-halloy) - Base16 color scheme template for halloy
 - [Passw/luccahuguet-yazelix](https://github.com/Passw/luccahuguet-yazelix) - Zellij and Yazi adding a File Tree to Helix & helix-friendly keybindigs for Zellij
@@ -2041,7 +2046,7 @@
 - [19742bytes/roonit](https://github.com/19742bytes/roonit) - "roonit" is a simple tool for enabling and disabling services in runit (Void Linux). Pronounced as "Rune-It" or "Ruined-It".
 - [furryfixer/runit_sv_addons](https://github.com/furryfixer/runit_sv_addons) - Three short add-on scripts for runit "sv"
 - [0x29aNull/DarkVoid](https://github.com/0x29aNull/DarkVoid) - 
-- [nikivdev/research](https://github.com/nikivdev/research) - Research (code, docs, ..)
+- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [robbraxman/braxme](https://github.com/robbraxman/braxme) - Brax.Me - Privacy Focused Social Media - Fully operational platform
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [emacsomancer/vpnd](https://github.com/emacsomancer/vpnd) - Void Package Notifier Daemon
@@ -2334,6 +2339,7 @@
 
 ## react 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [mtgatool/mtgatool-desktop](https://github.com/mtgatool/mtgatool-desktop) - 
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
@@ -2363,6 +2369,7 @@
 
 ## rust 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
@@ -2521,6 +2528,10 @@
 ## support 
 
 - [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge
+
+## svelte 
+
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## telegram 
 
