@@ -2001,7 +2001,7 @@
 - [dabisu/sakura](https://github.com/dabisu/sakura) - GTK/VTE based terminal emulator
 - [Kharacternyk/dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
 - [kkga/config](https://github.com/kkga/config) - .files
-- [Naereen/nanorc](https://github.com/Naereen/nanorc) - :wrench: :art: Some syntax highlighting files for the GNU/Nano editor :pencil: https://nano-editor.org/
+- [Naereen/nanorc](https://github.com/Naereen/nanorc) - [DEPRECATED] :wrench: :art: Some syntax highlighting files for the GNU/Nano editor :pencil: https://nano-editor.org/
 - [thermitegod/spacefm](https://github.com/thermitegod/spacefm) - SpaceFM File Manager
 - [Bleyom/old-old-dotfiles](https://github.com/Bleyom/old-old-dotfiles) - 
 - [Chrysostomus/zensu](https://github.com/Chrysostomus/zensu) - Simple gksu replacement using spacefm dialog, zenity or yad
