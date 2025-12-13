@@ -789,7 +789,7 @@
 - [ROCm/ROCm](https://github.com/ROCm/ROCm) - AMD ROCm™ Software - GitHub Home
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-- [genodelabs/genodians.org](https://github.com/genodelabs/genodians.org) - Website for stories around the Genode operating system
+- [genodelabs/genodians.org](https://github.com/genodelabs/genodians.org) - Website for stories around the Genode operating system (migrated to codeberg.org)
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -1374,7 +1374,7 @@
 - [ashos/ashos](https://github.com/ashos/ashos) - The immutable/mutable meta-distribution (universal bootstrapper)
 - [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
 - [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS) - A Graphical Interface for Distrobox
-- [psygreg/linuxtoys](https://github.com/psygreg/linuxtoys) - A collection of tools for Linux in a user-friendly way.
+- [psygreg/linuxtoys](https://github.com/psygreg/linuxtoys) - The user-friendly collection of tools for Linux.
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [Portable-Linux-Apps/Portable-Linux-Apps.github.io](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io) - Census, cataloging and distribution of all AppImages and portable apps for GNU/Linux, through the "AM" package manager. Largest AppImages collection!
 - [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
@@ -1684,6 +1684,7 @@
 
 ## others 
 
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [oSoWoSo/dotbot-xi](https://github.com/oSoWoSo/dotbot-xi) - dotbot xi plugin (Use xi from xtools)
 - [xbps-src-tutorials/xbps-src-tutorials.github.io](https://github.com/xbps-src-tutorials/xbps-src-tutorials.github.io) - xbps-src tutorials
 - [4e554c4c/base16-halloy](https://github.com/4e554c4c/base16-halloy) - Base16 color scheme template for halloy
@@ -2214,6 +2215,7 @@
 
 ## privacy 
 
+- [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) - A simple app for discovering tools that respects your privacy.
 - [umutcamliyurt/DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt) - A file and text encryption tool for Android
@@ -2368,6 +2370,7 @@
 
 ## rust 
 
+- [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
