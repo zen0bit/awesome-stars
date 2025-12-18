@@ -200,6 +200,7 @@
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
 - [trading](#trading)
+- [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -242,6 +243,8 @@
 
 ## android 
 
+- [Raival-e/Prism-File-Explorer](https://github.com/Raival-e/Prism-File-Explorer) - A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose.
+- [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
 - [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop.
 - [xoureldeen/Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 - [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
@@ -1331,6 +1334,7 @@
 
 ## kotlin 
 
+- [Raival-e/Prism-File-Explorer](https://github.com/Raival-e/Prism-File-Explorer) - A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose.
 - [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop.
 - [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 - [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) - A simple app for discovering tools that respects your privacy.
@@ -1726,7 +1730,6 @@
 - [cryptomator/cli](https://github.com/cryptomator/cli) - Cryptomator Command-Line Interface
 - [giomatfois62/rofi-desktop](https://github.com/giomatfois62/rofi-desktop) - A rofi powered, menu driven desktop environment
 - [EUHunterTools/EU-Hunter-Tools](https://github.com/EUHunterTools/EU-Hunter-Tools) - 
-- [shazow/wifitui](https://github.com/shazow/wifitui) - Fast featureful friendly wifi terminal UI. 🛜✨
 - [almahdi/dt-tierlist](https://github.com/almahdi/dt-tierlist) - A tier list app for DT to use instead of GIMP.
 - [nolaforensix/scalpel-2.02](https://github.com/nolaforensix/scalpel-2.02) - This repo contains the source code for Scalpel 2.02, an improved version of the original Scalpel fast file carver.
 - [danthem/undelete-btrfs](https://github.com/danthem/undelete-btrfs) - A script that attempts to undelete files in a BTRFS file system. Make sure you read the README.
@@ -1759,7 +1762,6 @@
 - [jdpedersen1/fzfm](https://github.com/jdpedersen1/fzfm) - 
 - [EliverLara/kde-control-station](https://github.com/EliverLara/kde-control-station) - A beautiful and modern configuration center for KDE inspired by MacOS!
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
-- [nemuTUI/nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [lazylinuxos/lazy-repo](https://github.com/lazylinuxos/lazy-repo) - LazyLinux custom repository
 - [lazylinuxos/lazylinux-mklive](https://github.com/lazylinuxos/lazylinux-mklive) - The LazyLinux live image maker
@@ -1853,7 +1855,6 @@
 - [qqxproject/qqX](https://github.com/qqxproject/qqX) - qqX Virtual Machine Manager - Next level front end for Quickemu / Qemu provides easy builds of Windows, Mac and Linux. Ideal for advanced users and beginners alike.
 - [stud0709/OneMoreSecret](https://github.com/stud0709/OneMoreSecret) - Password management based on Android KeyStore, QR and Bluetooth
 - [vmonaco/kloak](https://github.com/vmonaco/kloak) - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level.
-- [nkxxll/byebye](https://github.com/nkxxll/byebye) - byebye is a command line interface to logout, lock, suspend, hibernate, shutdown, reboot, from the command line on every Linux system (with xdg-screensaver on X11 or swaylock on wayland).
 - [VX-Linux/main](https://github.com/VX-Linux/main) - A pre-configured, secure systemd-free Plasma desktop. Based on the excellent Void Linux.
 - [avently/simplex-chat](https://github.com/avently/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
 - [TuxVinyards/quickemu-mod](https://github.com/TuxVinyards/quickemu-mod) - Virtual Machine Launcher & VM Tool Set -  Quickemu / Quickget wrapping script - A powerful text based alternative to QuickGUI for more advanced users
@@ -2622,6 +2623,29 @@
 ## trading 
 
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+
+## tui 
+
+- [Bharath-code/git-scope](https://github.com/Bharath-code/git-scope) - A fast TUI to see the status of all git repositories on your machine.
+- [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging
+- [lucky7xz/drako](https://github.com/lucky7xz/drako) - A grid-based, customizable and extendable TUI-Deck launcher
+- [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
+- [shazow/wifitui](https://github.com/shazow/wifitui) - Fast featureful friendly wifi terminal UI. 🛜✨
+- [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
+- [nemuTUI/nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU
+- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+- [cfoust/cy](https://github.com/cfoust/cy) - 🤖 time travel in the terminal
+- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
+- [toadle/lit](https://github.com/toadle/lit) - An easily configurable commandline quicklauncher.
+- [nkxxll/byebye](https://github.com/nkxxll/byebye) - byebye is a command line interface to logout, lock, suspend, hibernate, shutdown, reboot, from the command line on every Linux system (with xdg-screensaver on X11 or swaylock on wayland).
+- [oSoWoSo/DistroHopper](https://github.com/oSoWoSo/DistroHopper) - Quickly download, create and run VM of any#TODO operating system.
+- [rainbow-sh/tui-shop](https://github.com/rainbow-sh/tui-shop) - Something between a GUI and a CLI way of downloading apps.
+- [rainbow-sh/tui-shop-repo](https://github.com/rainbow-sh/tui-shop-repo) - The place that all apps from tui-store live in.
+- [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 
 ## twitter 
 
