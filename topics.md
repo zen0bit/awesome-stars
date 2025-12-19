@@ -1200,7 +1200,7 @@
 - [void-linux/void-mklive](https://github.com/void-linux/void-mklive) - The Void Linux live image maker
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
-- [oSoWoSo/Void-Wallpapers](https://github.com/oSoWoSo/Void-Wallpapers) - collection of wallpapers for Void linux (website will load all pictures, not for slow connections!)
+- [oSoWoSo/void-artwork](https://github.com/oSoWoSo/void-artwork) - collection of artwork for Void linux (website will load all pictures, not for slow connections!)
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
