@@ -136,6 +136,7 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [maven](#maven)
+- [microservices](#microservices)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
 - [music](#music)
@@ -553,6 +554,7 @@
 
 ## clash 
 
+- [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
 
 ## cli 
@@ -1382,6 +1384,7 @@
 - [cyber-amr/mini-polkit](https://github.com/cyber-amr/mini-polkit) - mini agent for polkit authentication
 - [leukipp/cortile](https://github.com/leukipp/cortile) - Linux auto tiling manager with hot corner support for Openbox, Fluxbox, IceWM, Xfwm, KWin, Marco, Muffin, Mutter and other EWMH compliant window managers using the X11 window system. Therefore, this p
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
+- [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
 - [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - A feature-rich Hyprland shell built with Quickshell. Introduces an interactive "Smart Capsule", wallpaper depth effects, and active system monitoring with resource alerts. Includes weather services, a
 - [zen0bit/awesome-stars](https://github.com/zen0bit/awesome-stars) - My Awesome List
 - [ashos/ashos](https://github.com/ashos/ashos) - The immutable/mutable meta-distribution (universal bootstrapper)
@@ -1535,6 +1538,7 @@
 
 ## macos 
 
+- [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
 - [alexmyczko/fnt](https://github.com/alexmyczko/fnt) - apt for fonts, the missing font manager for macOS/linux
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
@@ -1592,6 +1596,10 @@
 ## maven 
 
 - [Alovoa/alovoa](https://github.com/Alovoa/alovoa) - Free and open-source dating platform that respects your privacy
+
+## microservices 
+
+- [Bharath-code/git-scope](https://github.com/Bharath-code/git-scope) - A fast TUI to see the status of all git repositories on your machine.
 
 ## mobile 
 
@@ -1697,6 +1705,7 @@
 
 ## others 
 
+- [Galicarnax/svs](https://github.com/Galicarnax/svs) - Check/view status of runit services
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [oSoWoSo/dotbot-xi](https://github.com/oSoWoSo/dotbot-xi) - dotbot xi plugin (Use xi from xtools)
 - [xbps-src-tutorials/xbps-src-tutorials.github.io](https://github.com/xbps-src-tutorials/xbps-src-tutorials.github.io) - xbps-src tutorials
@@ -1722,7 +1731,6 @@
 - [text-forge/text-forge](https://github.com/text-forge/text-forge) - Simplicity to start, power to grow! A modular, scriptable, and language-agnostic text editor built for user empowerment. Lightweight, extensible, and open source.
 - [dani-77/d77void](https://github.com/dani-77/d77void) - d77void iso creator
 - [oSoWoSo/hrmpf](https://github.com/oSoWoSo/hrmpf) - hrmpf rescue system, built on Void Linux
-- [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
 - [cyprienbf/v](https://github.com/cyprienbf/v) - Simple Command-Line Helper for Void Linux
 - [classabbyamp/xX_tools_Xx](https://github.com/classabbyamp/xX_tools_Xx) - even more helpers for working with xbps and xbps-src
 - [classabbyamp/mkinitcpio-tailscale](https://github.com/classabbyamp/mkinitcpio-tailscale) - Hook for mkinitcpio to enable tailscale access in early userspace
@@ -2699,6 +2707,7 @@
 
 ## vpn 
 
+- [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
@@ -2732,6 +2741,7 @@
 
 ## windows 
 
+- [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
