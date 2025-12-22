@@ -1434,7 +1434,6 @@
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [oSoWoSo/DistroHopper](https://github.com/oSoWoSo/DistroHopper) - Quickly download, create and run VM of any#TODO operating system.
 - [HikariKnight/quickpassthrough](https://github.com/HikariKnight/quickpassthrough) - A project to remove the complexity of setting up GPU passthrough for qemu
-- [Le0xFF/VoidLinuxInstaller](https://github.com/Le0xFF/VoidLinuxInstaller) - A bash script to install Void Linux with optional LUKS encryption, optional LVM, btrfs filesystem and optional swap as file.
 - [maximstewart/SolarFM](https://github.com/maximstewart/SolarFM) - SolarFM is a Gtk + Python file manager.
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [gabeeOSLinux/gabeeOSLinux](https://github.com/gabeeOSLinux/gabeeOSLinux) - The beauty of Gnome | The power of Void
@@ -1712,7 +1711,7 @@
 - [4e554c4c/base16-halloy](https://github.com/4e554c4c/base16-halloy) - Base16 color scheme template for halloy
 - [Passw/luccahuguet-yazelix](https://github.com/Passw/luccahuguet-yazelix) - Zellij and Yazi adding a File Tree to Helix & helix-friendly keybindigs for Zellij
 - [MeridianOXC/OpenXcom](https://github.com/MeridianOXC/OpenXcom) - Open-source clone of the original X-Com
-- [cfgnunes/fm-scripts](https://github.com/cfgnunes/fm-scripts) - A set of actions for extending the functionality of the GNOME Files (Nautilus), Nemo, Caja, Dolphin, Thunar and PCManFM-Qt file managers.
+- [cfgnunes/nautilus-scripts](https://github.com/cfgnunes/nautilus-scripts) - A set of actions for extending the functionality of the GNOME Files (Nautilus), Nemo, Caja, Dolphin, Thunar and PCManFM-Qt file managers.
 - [OmarCastro/cmd-polkit](https://github.com/OmarCastro/cmd-polkit) - Easily create polkit authentication agents by using commands
 - [binarylinuxx/xbps_updater](https://github.com/binarylinuxx/xbps_updater) - 
 - [aureliojargas/clitest](https://github.com/aureliojargas/clitest) - Command Line Tester
