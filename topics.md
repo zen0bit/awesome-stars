@@ -1704,6 +1704,8 @@
 
 ## others 
 
+- [wisemapping/wisemapping-open-source](https://github.com/wisemapping/wisemapping-open-source) - Open Source Mindmap Tool
+- [oSoWoSo/vut](https://github.com/oSoWoSo/vut) - Void Linux Ultimate Tool: mainly for ease of xbps-src use
 - [Galicarnax/svs](https://github.com/Galicarnax/svs) - Check/view status of runit services
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [oSoWoSo/dotbot-xi](https://github.com/oSoWoSo/dotbot-xi) - dotbot xi plugin (Use xi from xtools)
