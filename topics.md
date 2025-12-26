@@ -1720,7 +1720,7 @@
 - [aureliojargas/clitest](https://github.com/aureliojargas/clitest) - Command Line Tester
 - [WIttyJudge/adless](https://github.com/WIttyJudge/adless) - Local domains blocker written in Go
 - [atweiden/voidvault](https://github.com/atweiden/voidvault) - Bootstrap Void with FDE
-- [Prayag2/drawy](https://github.com/Prayag2/drawy) - Your handy, infinite, brainstorming tool!
+- [Prayag2/drawy](https://github.com/Prayag2/drawy) - Your handy, infinite, brainstorming tool! The project has now moved to KDE Invent.
 - [oSoWoSo/xut](https://github.com/oSoWoSo/xut) - xtra user templates - Build and install packages for Void Linux, usinng templates from the abyss-packages unofficial repo. Read only mirror from codeberg
 - [su8/yoimnotpro](https://github.com/su8/yoimnotpro) - Small application center
 - [Letdown2491/nebula-gtk](https://github.com/Letdown2491/nebula-gtk) - A GUI frontend for Void Linux's XBPS software tooling.
