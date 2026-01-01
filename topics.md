@@ -1714,6 +1714,7 @@
 
 ## others 
 
+- [codevogel/peck](https://github.com/codevogel/peck) - 📷 Easily capture Screenshots / Screen Recordings on Wayland.
 - [joedefen/vappman](https://github.com/joedefen/vappman) - Visual (curses) interface to AppMan (AppImage Manager)
 - [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 - [wisemapping/wisemapping-open-source](https://github.com/wisemapping/wisemapping-open-source) - Open Source Mindmap Tool
