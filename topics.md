@@ -137,6 +137,7 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [maven](#maven)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
@@ -1394,7 +1395,7 @@
 - [nickprotop/LocalizationManager](https://github.com/nickprotop/LocalizationManager) - CLI tool and TUI editor for managing .NET .resx localization files. Validate translations, import/export CSV, add/remove languages, and edit interactively.
 - [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop.
 - [WladimirBec/svc](https://github.com/WladimirBec/svc) - SVC is a small and simple alternative to sv.
-- [cyber-amr/mini-polkit](https://github.com/cyber-amr/mini-polkit) - mini agent for polkit authentication
+- [amr-engineer/mini-polkit](https://github.com/amr-engineer/mini-polkit) - mini agent for polkit authentication
 - [leukipp/cortile](https://github.com/leukipp/cortile) - Linux auto tiling manager with hot corner support for Openbox, Fluxbox, IceWM, Xfwm, KWin, Marco, Muffin, Mutter and other EWMH compliant window managers using the X11 window system. Therefore, this p
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
@@ -1611,6 +1612,11 @@
 
 - [Alovoa/alovoa](https://github.com/Alovoa/alovoa) - Free and open-source dating platform that respects your privacy
 
+## mcp 
+
+- [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
+- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
+
 ## microservices 
 
 - [Bharath-code/git-scope](https://github.com/Bharath-code/git-scope) - A fast TUI to see the status of all git repositories on your machine.
@@ -1719,9 +1725,9 @@
 
 ## others 
 
+- [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [codevogel/peck](https://github.com/codevogel/peck) - 📷 Easily capture Screenshots / Screen Recordings on Wayland.
 - [joedefen/vappman](https://github.com/joedefen/vappman) - Visual (curses) interface to AppMan (AppImage Manager)
-- [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 - [wisemapping/wisemapping-open-source](https://github.com/wisemapping/wisemapping-open-source) - Open Source Mindmap Tool
 - [oSoWoSo/vut](https://github.com/oSoWoSo/vut) - Void Linux Ultimate Tool: mainly for ease of xbps-src use
 - [Galicarnax/svs](https://github.com/Galicarnax/svs) - Check/view status of runit services
