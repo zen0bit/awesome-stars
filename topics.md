@@ -1732,6 +1732,8 @@
 
 ## others 
 
+- [dani-77/wmd77](https://github.com/dani-77/wmd77) - wmd77 is a Penrose Lib Tiling Window Manager
+- [Letdown2491/waypoint-gtk](https://github.com/Letdown2491/waypoint-gtk) - A GTK-based snapshot and rollback tool for Btrfs filesystems on Void Linux.
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [codevogel/peck](https://github.com/codevogel/peck) - 📷 Easily capture Screenshots / Screen Recordings on Wayland.
 - [joedefen/vappman](https://github.com/joedefen/vappman) - Visual (curses) interface to AppMan (AppImage Manager)
