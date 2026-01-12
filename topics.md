@@ -2229,7 +2229,6 @@
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [candrewlee14/webman](https://github.com/candrewlee14/webman) - Add, remove, and manage different versions of web-distributed software binaries. No elevated permissions required!
-- [SafetyPanda/XIL](https://github.com/SafetyPanda/XIL) - XIL (pronounce zil, as in godzilla) is a simple, easy to use, add-on to the XBPS package manager.
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 
 ## penetration-testing 
