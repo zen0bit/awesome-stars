@@ -1740,6 +1740,7 @@
 
 ## others 
 
+- [wisemapping/wisemapping-desktop](https://github.com/wisemapping/wisemapping-desktop) - WiseMapping version in Desktop for local installation.
 - [lunarcloud/script-dialog](https://github.com/lunarcloud/script-dialog) - Allows a bash script to use the best available TUI or GUI dialog system
 - [dani-77/wmd77](https://github.com/dani-77/wmd77) - wmd77 is a Penrose Lib Tiling Window Manager
 - [Letdown2491/waypoint-gtk](https://github.com/Letdown2491/waypoint-gtk) - A GTK-based snapshot and rollback tool for Btrfs filesystems on Void Linux.
