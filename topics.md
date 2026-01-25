@@ -566,6 +566,7 @@
 
 ## cli 
 
+- [arimxyer/pass-cli](https://github.com/arimxyer/pass-cli) - A secure, cross-platform, always-free, and open-source alternative to 1password, bitwarden, etc., Password and API key manager for folks who live in the command line. (CLI + TUI)
 - [shikaan/keydex](https://github.com/shikaan/keydex) - 🔒 Terminal based password manager for KeePass databases.
 - [nickprotop/LocalizationManager](https://github.com/nickprotop/LocalizationManager) - CLI tool and TUI editor for managing .NET .resx localization files. Validate translations, import/export CSV, add/remove languages, and edit interactively.
 - [Bharath-code/git-scope](https://github.com/Bharath-code/git-scope) - A fast TUI to see the status of all git repositories on your machine.
@@ -1762,7 +1763,7 @@
 - [aureliojargas/clitest](https://github.com/aureliojargas/clitest) - Command Line Tester
 - [WIttyJudge/adless](https://github.com/WIttyJudge/adless) - Local domains blocker written in Go
 - [atweiden/voidvault](https://github.com/atweiden/voidvault) - Bootstrap Void with FDE
-- [Prayag2/drawy](https://github.com/Prayag2/drawy) - Your handy, infinite, brainstorming tool! The project has now moved to KDE Invent.
+- [Prayag2/drawy](https://github.com/Prayag2/drawy) - The project has now moved to KDE Invent.
 - [oSoWoSo/xut](https://github.com/oSoWoSo/xut) - xtra user templates - Build and install packages for Void Linux, usinng templates from the abyss-packages unofficial repo. Read only mirror from codeberg
 - [su8/yoimnotpro](https://github.com/su8/yoimnotpro) - Small application center
 - [Letdown2491/nebula-gtk](https://github.com/Letdown2491/nebula-gtk) - A GUI frontend for Void Linux's XBPS software tooling.
@@ -2678,6 +2679,7 @@
 
 ## tui 
 
+- [arimxyer/pass-cli](https://github.com/arimxyer/pass-cli) - A secure, cross-platform, always-free, and open-source alternative to 1password, bitwarden, etc., Password and API key manager for folks who live in the command line. (CLI + TUI)
 - [nickprotop/LocalizationManager](https://github.com/nickprotop/LocalizationManager) - CLI tool and TUI editor for managing .NET .resx localization files. Validate translations, import/export CSV, add/remove languages, and edit interactively.
 - [Bharath-code/git-scope](https://github.com/Bharath-code/git-scope) - A fast TUI to see the status of all git repositories on your machine.
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging
