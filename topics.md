@@ -1741,6 +1741,7 @@
 
 ## others 
 
+- [Shikakiben/JDownloader2-AppImage](https://github.com/Shikakiben/JDownloader2-AppImage) - JDownloader2-AppImage
 - [wisemapping/wisemapping-desktop](https://github.com/wisemapping/wisemapping-desktop) - WiseMapping version in Desktop for local installation.
 - [lunarcloud/script-dialog](https://github.com/lunarcloud/script-dialog) - Allows a bash script to use the best available TUI or GUI dialog system
 - [dani-77/wmd77](https://github.com/dani-77/wmd77) - wmd77 is a Penrose Lib Tiling Window Manager
