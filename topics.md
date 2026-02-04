@@ -1741,6 +1741,9 @@
 
 ## others 
 
+- [bahamas10/bmd](https://github.com/bahamas10/bmd) - Pretty-print markdown on your terminal with a (mostly) pure bash script.
+- [bahamas10/bash-tput](https://github.com/bahamas10/bash-tput) - A drop-in replacement for `tput` in Bash scripts that is extremely limited and opinionated.
+- [pierrecdevs/purebash-irc](https://github.com/pierrecdevs/purebash-irc) - Just a fun script, inspired by Dave Eddy
 - [Shikakiben/JDownloader2-AppImage](https://github.com/Shikakiben/JDownloader2-AppImage) - JDownloader2-AppImage
 - [wisemapping/wisemapping-desktop](https://github.com/wisemapping/wisemapping-desktop) - WiseMapping version in Desktop for local installation.
 - [lunarcloud/script-dialog](https://github.com/lunarcloud/script-dialog) - Allows a bash script to use the best available TUI or GUI dialog system
@@ -2606,6 +2609,7 @@
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
 - [shikaan/keydex](https://github.com/shikaan/keydex) - 🔒 Terminal based password manager for KeePass databases.
 - [nickprotop/LocalizationManager](https://github.com/nickprotop/LocalizationManager) - CLI tool and TUI editor for managing .NET .resx localization files. Validate translations, import/export CSV, add/remove languages, and edit interactively.
+- [Bharath-code/git-scope](https://github.com/Bharath-code/git-scope) - A fast TUI to see the status of all git repositories on your machine.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [tabletseeker/ytfzf_prime](https://github.com/tabletseeker/ytfzf_prime) - A working update of the popular terminal tool ytfzf for searching and watching Youtube videos without ads or privacy concerns, but with the convenience of a docker container.
