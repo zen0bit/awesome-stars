@@ -1535,6 +1535,7 @@
 ## llm 
 
 - [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge
+- [BalanceBalls/nekot](https://github.com/BalanceBalls/nekot) - A portable terminal AI interface
 
 ## localization 
 
@@ -2696,6 +2697,7 @@
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+- [BalanceBalls/nekot](https://github.com/BalanceBalls/nekot) - A portable terminal AI interface
 - [cfoust/cy](https://github.com/cfoust/cy) - 🤖 time travel in the terminal
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [toadle/lit](https://github.com/toadle/lit) - An easily configurable commandline quicklauncher.
