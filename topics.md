@@ -1742,6 +1742,7 @@
 
 ## others 
 
+- [inevolin/in-cli](https://github.com/inevolin/in-cli) - `in` is a lightweight CLI tool for running commands in directories. Simpler than find/xargs for daily tasks.
 - [bahamas10/bmd](https://github.com/bahamas10/bmd) - Pretty-print markdown on your terminal with a (mostly) pure bash script.
 - [bahamas10/bash-tput](https://github.com/bahamas10/bash-tput) - A drop-in replacement for `tput` in Bash scripts that is extremely limited and opinionated.
 - [pierrecdevs/purebash-irc](https://github.com/pierrecdevs/purebash-irc) - Just a fun script, inspired by Dave Eddy
