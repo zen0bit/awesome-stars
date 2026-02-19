@@ -398,6 +398,7 @@
 
 ## awesome-list 
 
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [avtzis/awesome-linux-ricing](https://github.com/avtzis/awesome-linux-ricing) - 🎨 Curated list of awesome themes, tools and apps for customizing the Linux environment.
@@ -976,6 +977,7 @@
 
 ## games 
 
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [RetroDECK/RetroDECK](https://github.com/RetroDECK/RetroDECK) - RetroDECK is a powerful all-in-one retro gaming platform designed for handheld gaming PCs like the Steam Deck, full Linux desktops, Linux HTPC setups, and Linux-based PC consoles such as the Steam Mac
 - [RareDevs/Rare](https://github.com/RareDevs/Rare) - Rare is an open source alternative for Epic Games Launcher, using Legendary.
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
@@ -1702,6 +1704,7 @@
 
 ## open-source 
 
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) - A simple app for discovering tools that respects your privacy.
 - [libreprojects/libreprojects](https://github.com/libreprojects/libreprojects) - 🔖 Collection of open source, usable, hosted web services! https://libreprojects.net
@@ -1747,6 +1750,7 @@
 
 ## others 
 
+- [masylum/whatajong](https://github.com/masylum/whatajong) - 
 - [elwint/voidsplash-plymouth](https://github.com/elwint/voidsplash-plymouth) - A plymouth splash screen theme for Void Linux.
 - [Midnight-Salmon/void-wallpapers](https://github.com/Midnight-Salmon/void-wallpapers) - A set of wallpapers for the Void Linux distribution.
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
