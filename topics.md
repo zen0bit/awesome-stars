@@ -227,11 +227,11 @@
 
 ## agent 
 
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 
 ## ai 
 
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) - Automatically capture and surface your team's tribal knowledge
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
@@ -441,7 +441,7 @@
 - [bahamas10/ysap](https://github.com/bahamas10/ysap) - You Suck at Programming - Dave Eddy
 - [shikaan/keydex](https://github.com/shikaan/keydex) - 🔒 Terminal based password manager for KeePass databases.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 - [zen0bit/awesome-stars](https://github.com/zen0bit/awesome-stars) - My Awesome List
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) - 
@@ -577,7 +577,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [gmou3/scrapetubefzf](https://github.com/gmou3/scrapetubefzf) - Terminal-based portal to Youtube. An alternative to ytfzf.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 - [alexmyczko/fnt](https://github.com/alexmyczko/fnt) - apt for fonts, the missing font manager for macOS/linux
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
@@ -617,7 +617,7 @@
 
 ## cloud 
 
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 
@@ -1905,7 +1905,7 @@
 - [SamDc73/distro-svg](https://github.com/SamDc73/distro-svg) - 
 - [Duncaen/go-xbps-src](https://github.com/Duncaen/go-xbps-src) - 
 - [hexisXz/ebps](https://github.com/hexisXz/ebps) - this is a script i made for myself  to make xbps easy and convenient to use
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [Makrennel/hyprland-void](https://github.com/Makrennel/hyprland-void) - Binary repositories and xbps-src templates for building and installing Hyprland on Void Linux.
 - [wrwrabbit/Partisan-SMS](https://github.com/wrwrabbit/Partisan-SMS) - Encrypted SMS messenger for Android
@@ -2556,7 +2556,7 @@
 ## shell 
 
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 - [Speyll/dotfiles](https://github.com/Speyll/dotfiles) - Efficiency meets aesthetics, my dotfiles are fine-tuned for a seamless Linux experience. Take control of your system with this clean, minimalistic configuration. 🚀
 - [RohitKushvaha01/ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) - A Simple Android Terminal Emulator
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -2909,7 +2909,7 @@
 ## zsh 
 
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [gabeeOSLinux/gabeeOSLinux](https://github.com/gabeeOSLinux/gabeeOSLinux) - The beauty of Gnome | The power of Void
