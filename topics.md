@@ -1025,6 +1025,7 @@
 
 ## github 
 
+- [oSoWoSo/distro-feeds](https://github.com/oSoWoSo/distro-feeds) - Linux distributions RSS feed site (from DistroWatch)
 - [gizmo385/gh-lazy](https://github.com/gizmo385/gh-lazy) - A terminal UI for interacting with GitHub
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) - A simple app for discovering tools that respects your privacy.
@@ -1416,6 +1417,7 @@
 
 ## linux 
 
+- [oSoWoSo/distro-feeds](https://github.com/oSoWoSo/distro-feeds) - Linux distributions RSS feed site (from DistroWatch)
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [bahamas10/ysap](https://github.com/bahamas10/ysap) - You Suck at Programming - Dave Eddy
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
@@ -1763,6 +1765,7 @@
 
 ## others 
 
+- [Lluciocc/Vish](https://github.com/Lluciocc/Vish) - Visual Scripting for Bash
 - [oSoWoSo/website-template](https://github.com/oSoWoSo/website-template) - Simple website template to use osowoso.org site design
 - [masylum/whatajong](https://github.com/masylum/whatajong) - 
 - [elwint/voidsplash-plymouth](https://github.com/elwint/voidsplash-plymouth) - A plymouth splash screen theme for Void Linux.
