@@ -58,7 +58,7 @@ jobs:
           git config --global user.name ${USERNAME}
           git pull
           file=README.tmp
-          grep -i 'Void' < README.md | grep -iv "QaidVoid" > void.md
+          grep -i 'Void' < README.md | grep -ivE "QaidVoid|Avoid" > void.md
           start=$(head -n +5 < README.md)
           end=$(tail -n +5 < README.md)
           echo "$start" > $file
