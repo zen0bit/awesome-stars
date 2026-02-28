@@ -1813,7 +1813,7 @@
 - [text-forge/text-forge](https://github.com/text-forge/text-forge) - A modular, scriptable, and language-agnostic text editor built for user empowerment. Lightweight, extensible, and open source. Completely in Godot!
 - [dani-77/d77void](https://github.com/dani-77/d77void) - d77void iso creator
 - [oSoWoSo/hrmpf](https://github.com/oSoWoSo/hrmpf) - hrmpf rescue system, built on Void Linux
-- [cyprienbf/v](https://github.com/cyprienbf/v) - Simple Command-Line Helper for Void Linux
+- [cypriennn/v](https://github.com/cypriennn/v) - Simple Command-Line Helper for Void Linux
 - [classabbyamp/xX_tools_Xx](https://github.com/classabbyamp/xX_tools_Xx) - even more helpers for working with xbps and xbps-src
 - [classabbyamp/mkinitcpio-tailscale](https://github.com/classabbyamp/mkinitcpio-tailscale) - Hook for mkinitcpio to enable tailscale access in early userspace
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
