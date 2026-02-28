@@ -7,6 +7,12 @@ on:
   push:
     paths: .github/workflows/update.yml
 
+permissions:
+  id-token: write
+  contents: write
+  pages: write
+  actions: read
+
 jobs:
   awesome-stars:
     name: ⭐update⭐
