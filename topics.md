@@ -1853,7 +1853,7 @@
 - [EliverLara/kde-control-station](https://github.com/EliverLara/kde-control-station) - A beautiful and modern configuration center for KDE inspired by MacOS!
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [lazylinuxos/lazy-repo](https://github.com/lazylinuxos/lazy-repo) - LazyLinux custom repository
+- [lazylinuxos/lazy-repo](https://github.com/lazylinuxos/lazy-repo) - The LazyLinux source packages collection, based on void-packages
 - [lazylinuxos/lazylinux-mklive](https://github.com/lazylinuxos/lazylinux-mklive) - The LazyLinux live image maker
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [L4ki/Slot-Plasma-Themes](https://github.com/L4ki/Slot-Plasma-Themes) - Slot Themes For Plasma Desktop
