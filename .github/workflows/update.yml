@@ -11,96 +11,108 @@ jobs:
   awesome-stars:
     name: ⭐update⭐
     runs-on: ubuntu-latest
+    outputs:
+      repository-name: ${{ steps.repository-name.outputs.value }}
     steps:
+      - uses: actions/checkout@v4
 
-    - uses: actions/checkout@v4
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.12"
 
-    - name: Install uv
-      uses: astral-sh/setup-uv@v5
-      with:
-        python-version: "3.12"
+      - name: Install starred
+        run: uv tool install starred
 
-    - name: Install starred
-      run: uv tool install starred
+      - name: get repository name
+        id: repository-name
+        run: echo "value=${GITHUB_REPOSITORY#*/}" >> $GITHUB_OUTPUT
 
-    - name: get repository name
-      run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+      - name: update repo category by language
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          REPOSITORY: ${{ github.repository }}
+          USERNAME: ${{ github.repository_owner }}
+        run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome⭐ by language'
 
-    - name: update repo category by language
-      env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN }}
-        REPOSITORY: ${{ env.REPOSITORY_NAME }}
-        USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome⭐ by language'
+      - name: update repo category by topic
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          REPOSITORY: ${{ github.repository }}
+          USERNAME: ${{ github.repository_owner }}
+        run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome⭐ by topic' --topic --topic_limit 500 --filename topics.md
 
-    - name: update repo category by topic
-      env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN }}
-        REPOSITORY: ${{ env.REPOSITORY_NAME }}
-        USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome⭐ by topic' --topic --topic_limit 500 --filename topics.md
+      - name: Add Void category
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          REPOSITORY: ${{ github.repository }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          git config --global user.email "zenobit@disroot.org"
+          git config --global user.name ${USERNAME}
+          git pull
+          file=README.tmp
+          grep -i 'Void' < README.md | grep -iv "QaidVoid" > void.md
+          start=$(head -n +5 < README.md)
+          end=$(tail -n +5 < README.md)
+          echo "$start" > $file
+          echo -e "\n# Void Linux related\n" >> $file
+          echo "(Not removed from Contents)" >> $file
+          cat void.md >> $file
+          echo "$end" >> $file
+          rm void.md
+          mv README.tmp README.md
+          git add README.md
+          git commit -m "Add Void Linux ⭐"
+          git push
 
-    - name: Add Void category
-      env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN }}
-        REPOSITORY: ${{ env.REPOSITORY_NAME }}
-        USERNAME: ${{ github.repository_owner }}
-      run: |
-        git config --global user.email "zenobit@disroot.org"
-        git config --global user.name ${USERNAME}
-        git pull
-        file=README.tmp
-        grep -i 'Void' < README.md | grep -iv "QaidVoid" > void.md
-        start=$(head -n +5 < README.md)
-        end=$(tail -n +5 < README.md)
-        echo "$start" > $file
-        echo -e "\n# Void Linux related\n" >> $file
-        echo "(Not removed from Contents)" >> $file
-        cat void.md >> $file
-        echo "$end" >> $file
-        rm void.md
-        mv README.tmp README.md
-        git add README.md
-        git commit -m "Add Void Linux ⭐"
-        git push
-
-    - name: Add ⭐⭐⭐ badges
-      env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN }}
-      run: |
-        rm -f new.md
-        git pull
-        while IFS= read -r line; do
-          if [[ $line == "- ["* ]] && [[ $line == *") "* ]]; then
-            REPO=$(echo "${line}" | grep -oP '\[\K[^]]+')
-            LINE=$(echo "${line}" | cut -d' ' -f2-)
-            # Possible style values: [flat, flat-square, plastic, for-the-badge, social]
-            echo "- ![Stars](https://img.shields.io/github/stars/${REPO}?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) ${LINE}" >> new.md
-          else
-            echo "${line}" >> new.md
-          fi
-        done < README.md
-        echo "done"
-        mv new.md README.md
-        git add --all || echo "git add fail"
-        git commit -m "Add ⭐⭐⭐ badges" || echo "git commi fail"
-        git push || echo "git push fail"
+      - name: Add ⭐⭐⭐ badges
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+        run: |
+          rm -f new.md
+          git pull
+          while IFS= read -r line; do
+            if [[ $line == "- ["* ]] && [[ $line == *") "* ]]; then
+              REPO=$(echo "${line}" | grep -oP '\[\K[^]]+')
+              LINE=$(echo "${line}" | cut -d' ' -f2-)
+              # Possible style values: [flat, flat-square, plastic, for-the-badge, social]
+              echo "- ![Stars](https://img.shields.io/github/stars/${REPO}?label=%E2%AD%90&style=plastic&logoSize=auto&labelColor=white&color=green) ${LINE}" >> new.md
+            else
+              echo "${line}" >> new.md
+            fi
+          done < README.md
+          echo "done"
+          mv new.md README.md
+          git add --all || echo "git add fail"
+          git commit -m "Add ⭐⭐⭐ badges" || echo "git commi fail"
+          git push || echo "git push fail"
 
   deploy:
+    name: Deploy to GitHub Pages
+    needs: [awesome-stars]
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
+      - name: Use repository name from awesome-stars job
+        env:
+          REPOSITORY_NAME: ${{ needs.awesome-stars.outputs.repository-name }}
+        run: |
+          echo "Repository name: ${REPOSITORY_NAME}"
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
           path: 'docs'
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
