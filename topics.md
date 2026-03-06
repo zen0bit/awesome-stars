@@ -1766,6 +1766,7 @@
 
 ## others 
 
+- [xlibre-void/xlibre](https://github.com/xlibre-void/xlibre) - XLibre for VOID linux
 - [Lluciocc/Vish](https://github.com/Lluciocc/Vish) - Visual Scripting for Bash
 - [oSoWoSo/website-template](https://github.com/oSoWoSo/website-template) - Simple website template to use osowoso.org site design
 - [masylum/whatajong](https://github.com/masylum/whatajong) - 
