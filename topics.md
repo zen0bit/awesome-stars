@@ -1766,6 +1766,7 @@
 
 ## others 
 
+- [decolua/9router](https://github.com/decolua/9router) - Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [xlibre-void/xlibre](https://github.com/xlibre-void/xlibre) - XLibre for VOID linux
 - [Lluciocc/Vish](https://github.com/Lluciocc/Vish) - Visual Scripting for Bash
