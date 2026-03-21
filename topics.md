@@ -335,7 +335,6 @@
 - [ashos/ashos](https://github.com/ashos/ashos) - The immutable/mutable meta-distribution (universal bootstrapper)
 - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [ysfgrgO7/post-install](https://github.com/ysfgrgO7/post-install) - post installation script inspired by DTOS
 - [EmperorPenguin18/linux-installer](https://github.com/EmperorPenguin18/linux-installer) - Universal GNU+Linux installer script
 - [mahmoudk1000/dotfiles](https://github.com/mahmoudk1000/dotfiles) - .files, that makes my Linux machine awesome.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
