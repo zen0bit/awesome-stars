@@ -450,7 +450,7 @@
 - [RubaXa/bashkit](https://github.com/RubaXa/bashkit) - ~/.bashkit/ — it is the toolset for the developing bash scripts.
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
-- [jkool702/forkrun](https://github.com/jkool702/forkrun) - runs multiple inputs through a script/function in parallel using bash coprocs
+- [jkool702/forkrun](https://github.com/jkool702/forkrun) - NUMA-Aware Contention-Free Dynamically-Auto-Tuning Bash-Native Streaming Parallelization Engine
 - [RohitKushvaha01/ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) - A Simple Android Terminal Emulator
 - [agvxov/bashtutor](https://github.com/agvxov/bashtutor) - Easily extendable utility to interactively showcase or teach CLIs, command line tasks, workflows and Bash itself.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -578,7 +578,7 @@
 - [nickprotop/LocalizationManager](https://github.com/nickprotop/LocalizationManager) - CLI tool and TUI editor for managing .NET .resx localization files. Validate translations, import/export CSV, add/remove languages, and edit interactively.
 - [Bharath-code/git-scope](https://github.com/Bharath-code/git-scope) - A fast TUI to see the status of all git repositories on your machine.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [gmou3/scrapetubefzf](https://github.com/gmou3/scrapetubefzf) - Terminal-based portal to Youtube. An alternative to ytfzf.
+- [gmou3/scrapetubefzf](https://github.com/gmou3/scrapetubefzf) - Terminal-based portal to YouTube. An alternative to ytfzf.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 - [alexmyczko/fnt](https://github.com/alexmyczko/fnt) - apt for fonts, the missing font manager for macOS/linux
@@ -1227,7 +1227,6 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [oSoWoSo/DistroHopper](https://github.com/oSoWoSo/DistroHopper) - Quickly download, create and run VM of any#TODO operating system.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [translate/translate](https://github.com/translate/translate) - Useful localization tools with Python API for building localization & translation systems
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [GDQuest/learn-gdscript](https://github.com/GDQuest/learn-gdscript) - Learn Godot's GDScript programming language from zero, right in your browser, for free.
@@ -2928,7 +2927,7 @@
 
 ## youtube 
 
-- [gmou3/scrapetubefzf](https://github.com/gmou3/scrapetubefzf) - Terminal-based portal to Youtube. An alternative to ytfzf.
+- [gmou3/scrapetubefzf](https://github.com/gmou3/scrapetubefzf) - Terminal-based portal to YouTube. An alternative to ytfzf.
 - [tabletseeker/ytfzf_prime](https://github.com/tabletseeker/ytfzf_prime) - A working update of the popular terminal tool ytfzf for searching and watching Youtube videos without ads or privacy concerns, but with the convenience of a docker container.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) - Browse youtube from your terminal
