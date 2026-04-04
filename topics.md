@@ -2588,6 +2588,7 @@
 
 ## shell 
 
+- [Kinderfeld/replace-sudo-with-doas](https://github.com/Kinderfeld/replace-sudo-with-doas) - Because sudo is a bloated mess.
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
