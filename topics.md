@@ -1469,6 +1469,7 @@
 - [SimonSchubert/LinuxCommandLibrary](https://github.com/SimonSchubert/LinuxCommandLibrary) - 1M+ downloads Linux reference app with basics, tips and formatted man pages
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [ufuayk/distributionhub](https://github.com/ufuayk/distributionhub) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
+- [lazylinuxos/lazy-repo](https://github.com/lazylinuxos/lazy-repo) - The LazyLinux source packages collection, based on void-packages
 - [imxade/aunix](https://github.com/imxade/aunix) - Simple but flexible Distro installer, that does the Least.
 - [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
@@ -1874,7 +1875,6 @@
 - [EliverLara/kde-control-station](https://github.com/EliverLara/kde-control-station) - A beautiful and modern configuration center for KDE inspired by MacOS!
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [lazylinuxos/lazy-repo](https://github.com/lazylinuxos/lazy-repo) - The LazyLinux source packages collection, based on void-packages
 - [lazylinuxos/lazylinux-mklive](https://github.com/lazylinuxos/lazylinux-mklive) - The LazyLinux live image maker
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [L4ki/Slot-Plasma-Themes](https://github.com/L4ki/Slot-Plasma-Themes) - Slot Themes For Plasma Desktop
