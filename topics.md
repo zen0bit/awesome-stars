@@ -1780,6 +1780,7 @@
 
 ## others 
 
+- [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [sofijacom/hyprland-void](https://github.com/sofijacom/hyprland-void) - void linux hyprland templates for building with xbps-src
 - [oSoWoSo/SimpleX-Themes](https://github.com/oSoWoSo/SimpleX-Themes) - Repository for SimpleX Chat themes
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for 
