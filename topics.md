@@ -2244,7 +2244,7 @@
 - [arcolinuxd/arco-awesome](https://github.com/arcolinuxd/arco-awesome) - All scripts necessary to have an awesome deskop experience on ArcoLinux or vanilla Arch Linux installation
 - [brezerk/q4wine](https://github.com/brezerk/q4wine) - Q4Wine is a Qt GUI for W.I.N.E. It will help you manage wine prefixes and installed applications.
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
-- [JonasNilson/idle_master_extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
+- [jonas-med-ett-s/idle_master_extended](https://github.com/jonas-med-ett-s/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
 - [Sleepydragn1/Disable-Nvidia-Telemetry](https://github.com/Sleepydragn1/Disable-Nvidia-Telemetry) - Windows utility to disable Nvidia's telemetry services
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
 - [zen0bit/nixos](https://github.com/zen0bit/nixos) - config
