@@ -1435,6 +1435,7 @@
 
 ## linux 
 
+- [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games
 - [oSoWoSo/SysMan](https://github.com/oSoWoSo/SysMan) - System Manager for Void Linux MIRROR of https://codeberg.org/oSoWoSo/SysMan
 - [oSoWoSo/distro-feeds](https://github.com/oSoWoSo/distro-feeds) - Linux distributions RSS feed site (from DistroWatch)
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
@@ -1780,6 +1781,8 @@
 
 ## others 
 
+- [BillWaller/C-Menu](https://github.com/BillWaller/C-Menu) - General Purpose Menu System in C
+- [ivan-hc/AppImage-tips](https://github.com/ivan-hc/AppImage-tips) - Tips for producing AppImage packages without libfuse2 and with support for delta updates.
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [sofijacom/hyprland-void](https://github.com/sofijacom/hyprland-void) - void linux hyprland templates for building with xbps-src
 - [oSoWoSo/SimpleX-Themes](https://github.com/oSoWoSo/SimpleX-Themes) - Repository for SimpleX Chat themes
