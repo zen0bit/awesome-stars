@@ -1786,7 +1786,7 @@
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [sofijacom/hyprland-void](https://github.com/sofijacom/hyprland-void) - void linux hyprland templates for building with xbps-src
 - [oSoWoSo/SimpleX-Themes](https://github.com/oSoWoSo/SimpleX-Themes) - Repository for SimpleX Chat themes
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for 
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. The free AI gateway — one endpoint, 160+ providers, zero downtime. Smart 4-tier auto-fallback (Subscription → API → Cheap → Free), prompt compression (save 15-75% tokens), 3-level p
 - [TensorBlock/forge](https://github.com/TensorBlock/forge) - Forge is a self-hosted middleware that unifies access to multiple AI model providers (like OpenAI, Anthropic) via a single API. It supports OpenAI-compatible interfaces, encrypted API key management, 
 - [xlibre-void/xlibre](https://github.com/xlibre-void/xlibre) - XLibre for VOID linux
 - [Lluciocc/Vish](https://github.com/Lluciocc/Vish) - Visual Scripting for Bash
