@@ -1202,7 +1202,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-- [oSoWoSo/void-user-repository](https://github.com/oSoWoSo/void-user-repository) - Void User Repository: Gathering xbps-src templates from community
+- [oSoWoSo/Void_Community_Repository](https://github.com/oSoWoSo/Void_Community_Repository) - Void Community Repository: xbps-src templates from community for binary repo https://repo.osowoso.org
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - AI‑integrated shell.
