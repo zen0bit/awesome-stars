@@ -1437,6 +1437,7 @@
 
 ## linux 
 
+- [Event-Horizon-VL/blackhole-vl](https://github.com/Event-Horizon-VL/blackhole-vl) - Community-driven repository of templates and build scripts for Void Linux packages
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games
 - [oSoWoSo/SysMan](https://github.com/oSoWoSo/SysMan) - System Manager for Void Linux MIRROR of https://codeberg.org/oSoWoSo/SysMan
 - [oSoWoSo/distro-feeds](https://github.com/oSoWoSo/distro-feeds) - Linux distributions RSS feed site (from DistroWatch)
@@ -1785,6 +1786,7 @@
 
 ## others 
 
+- [sofijacom/void-package](https://github.com/sofijacom/void-package) - Void Linux Software Repository
 - [BillWaller/C-Menu](https://github.com/BillWaller/C-Menu) - General Purpose Menu System in C
 - [ivan-hc/AppImage-tips](https://github.com/ivan-hc/AppImage-tips) - Tips for producing AppImage packages without libfuse2 and with support for delta updates.
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
