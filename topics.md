@@ -1787,6 +1787,7 @@
 
 ## others 
 
+- [oSoWoSo/oco-builder](https://github.com/oSoWoSo/oco-builder) - Generate images for Void Community Repository https://repo.osowoso.org
 - [noid-linux/xbps-repo](https://github.com/noid-linux/xbps-repo) - Custom XBPS Repository
 - [llun/feeds](https://github.com/llun/feeds) - Pulling website feeds and generate static aggregator site
 - [sofijacom/void-package](https://github.com/sofijacom/void-package) - Void Linux Software Repository
