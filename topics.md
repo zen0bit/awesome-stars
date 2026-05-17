@@ -1803,7 +1803,6 @@
 - [oSoWoSo/website-template](https://github.com/oSoWoSo/website-template) - Simple website template to use osowoso.org site design
 - [masylum/whatajong](https://github.com/masylum/whatajong) - 
 - [elwint/voidsplash-plymouth](https://github.com/elwint/voidsplash-plymouth) - A plymouth splash screen theme for Void Linux.
-- [Midnight-Salmon/void-wallpapers](https://github.com/Midnight-Salmon/void-wallpapers) - A set of wallpapers for the Void Linux distribution.
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [ivoronin/zrw](https://github.com/ivoronin/zrw) - zellij run --wait — run commands in Zellij panes with exit code propagation
 - [Woofshahenzup/XFCE-Genmon-Plugin-Suite-para-PuppyLinux](https://github.com/Woofshahenzup/XFCE-Genmon-Plugin-Suite-para-PuppyLinux) - Una colección modular de  scripts diseñados para el plugin Genmon en XFCE, que permite construir paneles completos,
