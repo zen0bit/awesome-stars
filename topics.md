@@ -1844,7 +1844,7 @@
 - [a1akris/simploxide](https://github.com/a1akris/simploxide) - SimpleX-Chat bot SDK for Rust
 - [pkgforge-dev/Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages) - AppImages That Truly Work On Any Linux System (Even musl-libc and non-FHS systems)
 - [text-forge/text-forge](https://github.com/text-forge/text-forge) - A modular, scriptable, and language-agnostic text editor built for user empowerment. Lightweight, extensible, and open source. Completely in Godot!
-- [dani-77/d77void](https://github.com/dani-77/d77void) - d77void iso creator
+- [d77void/d77void](https://github.com/d77void/d77void) - d77void iso creator
 - [oSoWoSo/hrmpf](https://github.com/oSoWoSo/hrmpf) - hrmpf rescue system, built on Void Linux
 - [cypriennn/v](https://github.com/cypriennn/v) - Simple Command-Line Helper for Void Linux
 - [classabbyamp/xX_tools_Xx](https://github.com/classabbyamp/xX_tools_Xx) - even more helpers for working with xbps and xbps-src
