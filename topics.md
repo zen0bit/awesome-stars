@@ -685,7 +685,7 @@
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [xyproto/cxx](https://github.com/xyproto/cxx) - :electric_plug: Configuration-free utility for building, testing and packaging executables written in C++. Can auto-detect compilation flags based on includes, via the package system and pkg-config.
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
-- [genodelabs/genode](https://github.com/genodelabs/genode) - Genode OS Framework
+- [genodelabs/genode](https://github.com/genodelabs/genode) - Genode OS Framework (migrated to https://codeberg.org/genodelabs/genode)
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 
@@ -948,7 +948,7 @@
 ## framework 
 
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [genodelabs/genode](https://github.com/genodelabs/genode) - Genode OS Framework
+- [genodelabs/genode](https://github.com/genodelabs/genode) - Genode OS Framework (migrated to https://codeberg.org/genodelabs/genode)
 
 ## frontend 
 
@@ -1516,7 +1516,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
-- [genodelabs/genode](https://github.com/genodelabs/genode) - Genode OS Framework
+- [genodelabs/genode](https://github.com/genodelabs/genode) - Genode OS Framework (migrated to https://codeberg.org/genodelabs/genode)
 - [rodlie/qtfm](https://github.com/rodlie/qtfm) - Qt File Manager
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [vednoc/pkg](https://github.com/vednoc/pkg) - A wrapper for various package managers.
@@ -1774,7 +1774,7 @@
 ## operating-system 
 
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
-- [genodelabs/genode](https://github.com/genodelabs/genode) - Genode OS Framework
+- [genodelabs/genode](https://github.com/genodelabs/genode) - Genode OS Framework (migrated to https://codeberg.org/genodelabs/genode)
 - [jaromaz/yosild](https://github.com/jaromaz/yosild) - Yosild is a single shell script that builds a full, minimal Linux distribution based on BusyBox.
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
