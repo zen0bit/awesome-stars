@@ -1792,6 +1792,7 @@
 
 ## others 
 
+- [sonicde-artix/sonicde-artix](https://github.com/sonicde-artix/sonicde-artix) - Main repository of the SonicDE for Artix Linux packages organization
 - [oSoWoSo/oco-builder](https://github.com/oSoWoSo/oco-builder) - Generate images for Void Community Repository https://repo.osowoso.org
 - [noid-linux/xbps-repo](https://github.com/noid-linux/xbps-repo) - Custom XBPS Repository
 - [llun/feeds](https://github.com/llun/feeds) - Pulling website feeds and generate static aggregator site
