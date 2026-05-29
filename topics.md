@@ -1792,6 +1792,9 @@
 
 ## others 
 
+- [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
+- [florintanasa/brgvos-void-repository](https://github.com/florintanasa/brgvos-void-repository) - Binary repositories and xbps-src templates for building and installing packages on BRGV-OS or Void Linux
+- [florintanasa/brgvos-void](https://github.com/florintanasa/brgvos-void) - BRGV-OS is based on Void Linux, is a custom Void Linux based distribution.
 - [sonicde-artix/sonicde-artix](https://github.com/sonicde-artix/sonicde-artix) - Main repository of the SonicDE for Artix Linux packages organization
 - [oSoWoSo/oco-builder](https://github.com/oSoWoSo/oco-builder) - Generate images for Void Community Repository https://repo.osowoso.org
 - [noid-linux/xbps-repo](https://github.com/noid-linux/xbps-repo) - Custom XBPS Repository
