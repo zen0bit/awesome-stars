@@ -254,6 +254,7 @@
 
 ## android 
 
+- [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [deathkiller/jazz2-native](https://github.com/deathkiller/jazz2-native) - 🎮 · Jazz² Resurrection: Native C++ reimplementation of Jazz Jackrabbit 2
 - [Raival-e/Prism-File-Explorer](https://github.com/Raival-e/Prism-File-Explorer) - A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose.
@@ -1450,6 +1451,7 @@
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [bahamas10/ysap](https://github.com/bahamas10/ysap) - You Suck at Programming - Dave Eddy
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
+- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [deathkiller/jazz2-native](https://github.com/deathkiller/jazz2-native) - 🎮 · Jazz² Resurrection: Native C++ reimplementation of Jazz Jackrabbit 2
 - [nickprotop/LocalizationManager](https://github.com/nickprotop/LocalizationManager) - CLI tool and TUI editor for managing .NET .resx localization files. Validate translations, import/export CSV, add/remove languages, and edit interactively.
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
@@ -1794,6 +1796,7 @@
 
 ## others 
 
+- [florintanasa/void-packages-brgvos](https://github.com/florintanasa/void-packages-brgvos) - The Void source packages collection with some packages used in BRGV-OS
 - [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
 - [florintanasa/brgvos-void-repository](https://github.com/florintanasa/brgvos-void-repository) - Binary repositories and xbps-src templates for building and installing packages on BRGV-OS or Void Linux
 - [florintanasa/brgvos-void](https://github.com/florintanasa/brgvos-void) - BRGV-OS is based on Void Linux, is a custom Void Linux based distribution.
@@ -2352,6 +2355,7 @@
 
 ## privacy 
 
+- [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) - A simple app for discovering tools that respects your privacy.
@@ -2559,6 +2563,7 @@
 
 ## security 
 
+- [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) - A simple app for discovering tools that respects your privacy.
 - [KunalSin9h/secops](https://github.com/KunalSin9h/secops) - A Ubuntu Desktop Application for managing security.
@@ -2918,6 +2923,7 @@
 
 ## windows 
 
+- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [deathkiller/jazz2-native](https://github.com/deathkiller/jazz2-native) - 🎮 · Jazz² Resurrection: Native C++ reimplementation of Jazz Jackrabbit 2
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
