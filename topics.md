@@ -2082,7 +2082,6 @@
 - [TLH-Deprecated-Linux-Configurations/electric-tantra-mklive](https://github.com/TLH-Deprecated-Linux-Configurations/electric-tantra-mklive) - Assembling the ISO using Void's void-mklive and some terminal magic
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [whyrusleeping/git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs
-- [opsview/ansible](https://github.com/opsview/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in
 - [cjb/GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
 - [3dsimo/3dsimo_kit](https://github.com/3dsimo/3dsimo_kit) - 
 - [presire/PPKeyboard_How_to_Install](https://github.com/presire/PPKeyboard_How_to_Install) - This is the installation procedure for the PinePhone keyboard driver.Please feel free to use it.
