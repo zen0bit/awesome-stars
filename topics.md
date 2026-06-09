@@ -1811,6 +1811,8 @@
 
 ## others 
 
+- [T4n-Labs/vur](https://github.com/T4n-Labs/vur) - Void User Repository
+- [vostoklinux/vostok-packages](https://github.com/vostoklinux/vostok-packages) - Void-based Linux with a human face. Fast, independent, and built for people who care about their system.
 - [madhvantyagi/SOUL.md](https://github.com/madhvantyagi/SOUL.md) - This repo contains different Soul.md files each file is different and allow your agents to behave in unique interesting personality.
 - [florintanasa/void-packages-brgvos](https://github.com/florintanasa/void-packages-brgvos) - The Void source packages collection with some packages used in BRGV-OS
 - [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
