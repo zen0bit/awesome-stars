@@ -1811,6 +1811,7 @@
 
 ## others 
 
+- [kirodubes/archlinux-tweak-tool-gtk4](https://github.com/kirodubes/archlinux-tweak-tool-gtk4) - 
 - [T4n-Labs/Let-X](https://github.com/T4n-Labs/Let-X) - Let-X (VUR-Helper)
 - [T4n-Labs/vur](https://github.com/T4n-Labs/vur) - Void User Repository
 - [vostoklinux/vostok-packages](https://github.com/vostoklinux/vostok-packages) - Void-based Linux with a human face. Fast, independent, and built for people who care about their system.
