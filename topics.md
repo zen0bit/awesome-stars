@@ -6,6 +6,7 @@
 ## Contents
 
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
@@ -234,6 +235,10 @@
 
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
+
+## agent-skills 
+
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 
 ## ai 
 
