@@ -1821,6 +1821,7 @@
 
 ## others 
 
+- [BryanLunduke/LCOS](https://github.com/BryanLunduke/LCOS) - The Lunduke Computer Operating System
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [kirodubes/archlinux-tweak-tool-gtk4](https://github.com/kirodubes/archlinux-tweak-tool-gtk4) - 
 - [T4n-Labs/Let-X](https://github.com/T4n-Labs/Let-X) - Let-X (VUR-Helper)
@@ -2342,6 +2343,7 @@
 
 ## package-manager 
 
+- [mendescotta/Caerus](https://github.com/mendescotta/Caerus) - A Void Linux package manager inspired by Synaptic
 - [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
