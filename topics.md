@@ -2203,7 +2203,6 @@
 - [db-inf/spacefm-plugins](https://github.com/db-inf/spacefm-plugins) - mijn spacefm plugins (some in English, sommige in het Nederlands)
 - [DeskPi-Team/deskpi](https://github.com/DeskPi-Team/deskpi) - DeskPi Pro is the Ultimate Case Kit for Raspberry Pi 4 with Full Size HDMI/2.5 Hard Disk Support and Safe Power Button, It has QC 3.0 Power Supply inside and New ICE Tower Cooler inside.
 - [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👾💙
-- [jcjordyn130/vur](https://github.com/jcjordyn130/vur) - A void user repository
 - [nenadstoisavljevic/t420-coreboot-guide](https://github.com/nenadstoisavljevic/t420-coreboot-guide) - Guide for flashing coreboot on the ThinkPad T420
 - [ipfs-shipyard/IGiS](https://github.com/ipfs-shipyard/IGiS) - Interplanetary Git Service
 - [mmhobi7/xwinwrap](https://github.com/mmhobi7/xwinwrap) - X11 Window in desktop enviroment background
