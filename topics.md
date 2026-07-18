@@ -197,6 +197,7 @@
 - [software](#software)
 - [spring](#spring)
 - [spring-boot](#spring-boot)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [support](#support)
 - [svelte](#svelte)
@@ -253,6 +254,7 @@
 
 ## ai-agents 
 
+- [fujibee/agmsg](https://github.com/fujibee/agmsg) - Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.
 - [pproenca/agent-tui](https://github.com/pproenca/agent-tui) - TUI automation for AI agents. Control any terminal app from code.
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
@@ -454,6 +456,7 @@
 
 ## bash 
 
+- [fujibee/agmsg](https://github.com/fujibee/agmsg) - Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.
 - [squidnose/Voidlinux-Post-Install-TUI](https://github.com/squidnose/Voidlinux-Post-Install-TUI) - A whiptale TUI for my voidlinux scripts with scripts.
 - [metal3d/bashsimplecurses](https://github.com/metal3d/bashsimplecurses) - A simple curses library made in bash to draw terminal interfaces
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
@@ -596,6 +599,7 @@
 
 ## claude-code 
 
+- [fujibee/agmsg](https://github.com/fujibee/agmsg) - Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
@@ -603,6 +607,7 @@
 
 ## cli 
 
+- [fujibee/agmsg](https://github.com/fujibee/agmsg) - Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.
 - [pproenca/agent-tui](https://github.com/pproenca/agent-tui) - TUI automation for AI agents. Control any terminal app from code.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
@@ -770,6 +775,7 @@
 
 ## developer-tools 
 
+- [fujibee/agmsg](https://github.com/fujibee/agmsg) - Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [nickprotop/LocalizationManager](https://github.com/nickprotop/LocalizationManager) - CLI tool and TUI editor for managing .NET .resx localization files. Validate translations, import/export CSV, add/remove languages, and edit interactively.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -2719,6 +2725,10 @@
 ## spring-boot 
 
 - [Alovoa/alovoa](https://github.com/Alovoa/alovoa) - Free and open-source dating platform that respects your privacy
+
+## sqlite 
+
+- [fujibee/agmsg](https://github.com/fujibee/agmsg) - Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.
 
 ## statistics 
 
