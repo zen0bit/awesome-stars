@@ -1848,7 +1848,6 @@
 - [oSoWoSo/oco-builder](https://github.com/oSoWoSo/oco-builder) - Generate images for Void Community Repository https://repo.osowoso.org
 - [noid-linux/xbps-repo](https://github.com/noid-linux/xbps-repo) - Custom XBPS Repository
 - [llun/feeds](https://github.com/llun/feeds) - Pulling website feeds and generate static aggregator site
-- [sofijacom/void-package](https://github.com/sofijacom/void-package) - Void Linux Software Repository
 - [BillWaller/C-Menu](https://github.com/BillWaller/C-Menu) - General Purpose Menu System in C
 - [ivan-hc/AppImage-tips](https://github.com/ivan-hc/AppImage-tips) - Tips for producing AppImage packages without libfuse2 and with support for delta updates.
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
