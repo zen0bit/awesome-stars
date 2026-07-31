@@ -1831,6 +1831,7 @@
 
 ## others 
 
+- [Keychron/zgm](https://github.com/Keychron/zgm) - Open source gaming mouse firmware built on Zephyr RTOS. Low latency, full customization, extensible driver model.
 - [BryanLunduke/LCOS](https://github.com/BryanLunduke/LCOS) - The Lunduke Computer Operating System
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [kirodubes/archlinux-tweak-tool-gtk4](https://github.com/kirodubes/archlinux-tweak-tool-gtk4) - 
@@ -2213,7 +2214,7 @@
 - [DeskPi-Team/deskpi](https://github.com/DeskPi-Team/deskpi) - DeskPi Pro is the Ultimate Case Kit for Raspberry Pi 4 with Full Size HDMI/2.5 Hard Disk Support and Safe Power Button, It has QC 3.0 Power Supply inside and New ICE Tower Cooler inside.
 - [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👾💙
 - [nenadstoisavljevic/t420-coreboot-guide](https://github.com/nenadstoisavljevic/t420-coreboot-guide) - Guide for flashing coreboot on the ThinkPad T420
-- [ipfs-shipyard/IGiS](https://github.com/ipfs-shipyard/IGiS) - Interplanetary Git Service
+- [ipfs-shipyard/IGiS](https://github.com/ipfs-shipyard/IGiS) - Old (2019) Interplanetary Git Service
 - [mmhobi7/xwinwrap](https://github.com/mmhobi7/xwinwrap) - X11 Window in desktop enviroment background
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [stefano-m/awesome-connman_widget](https://github.com/stefano-m/awesome-connman_widget) - A widget for the Awesome Window Manager to monitor the network with Connman
