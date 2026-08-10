@@ -277,6 +277,7 @@
 
 ## android 
 
+- [zapstore/zapstore](https://github.com/zapstore/zapstore) - The open app store
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [deathkiller/jazz2-native](https://github.com/deathkiller/jazz2-native) - 🎮 · Jazz² Resurrection: Native C++ reimplementation of Jazz Jackrabbit 2
 - [Raival-e/Prism-File-Explorer](https://github.com/Raival-e/Prism-File-Explorer) - A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose.
@@ -425,6 +426,7 @@
 
 ## awesome-list 
 
+- [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
@@ -1249,7 +1251,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-- [oSoWoSo/Void_Community_Repository](https://github.com/oSoWoSo/Void_Community_Repository) - Void Community Repository CI: xbps-src templates from community for binary repo
+- [oSoWoSo/vOid_Community_repOsitory](https://github.com/oSoWoSo/vOid_Community_repOsitory) - Void Community Repository CI: xbps-src templates from community for binary repo
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - AI‑integrated shell.
@@ -1481,6 +1483,7 @@
 
 ## linux 
 
+- [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [TheCodeVerseHub/EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) - A lightweight, Void Linux–based distribution powered by the custom Dynamod init system. Built for speed, modularity, and full user control, EclipseLinux provides a modern alternative for Linux enthusi
 - [Event-Horizon-VL/blackhole-vl](https://github.com/Event-Horizon-VL/blackhole-vl) - Unofficial community-driven user repository for Void Linux, providing additional XBPS packages, including Hyprland and other software, along with templates and build scripts.
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games
@@ -1650,6 +1653,7 @@
 
 ## mac 
 
+- [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
 
@@ -1836,6 +1840,7 @@
 
 ## others 
 
+- [techrockedge/void-package](https://github.com/techrockedge/void-package) - Void Linux Software Repository
 - [sonicde-void/sonicde-void](https://github.com/sonicde-void/sonicde-void) - SonicDE packages for Void Linux
 - [Keychron/zgm](https://github.com/Keychron/zgm) - Open source gaming mouse firmware built on Zephyr RTOS. Low latency, full customization, extensible driver model.
 - [BryanLunduke/LCOS](https://github.com/BryanLunduke/LCOS) - The Lunduke Computer Operating System
@@ -2982,6 +2987,7 @@
 
 ## web 
 
+- [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [libreprojects/libreprojects](https://github.com/libreprojects/libreprojects) - 🔖 Collection of open source, usable, hosted web services! https://libreprojects.net
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
@@ -2992,6 +2998,7 @@
 
 ## windows 
 
+- [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [deathkiller/jazz2-native](https://github.com/deathkiller/jazz2-native) - 🎮 · Jazz² Resurrection: Native C++ reimplementation of Jazz Jackrabbit 2
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
