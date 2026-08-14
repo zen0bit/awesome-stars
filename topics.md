@@ -1841,6 +1841,7 @@
 
 ## others 
 
+- [Neko-Void-Linux/cnr](https://github.com/Neko-Void-Linux/cnr) - custom neko repository of templates
 - [techrockedge/void-package](https://github.com/techrockedge/void-package) - Void Linux Software Repository
 - [sonicde-void/sonicde-void](https://github.com/sonicde-void/sonicde-void) - SonicDE packages for Void Linux
 - [Keychron/zgm](https://github.com/Keychron/zgm) - Open source gaming mouse firmware built on Zephyr RTOS. Low latency, full customization, extensible driver model.
