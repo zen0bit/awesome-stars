@@ -379,6 +379,7 @@
 
 ## automation 
 
+- [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
 - [sgaunet/ansible-role-gh-release-installer](https://github.com/sgaunet/ansible-role-gh-release-installer) - Ansible role for installing GitHub releases - Supports 100+ tools including Go/Rust binaries like bat, helm, k9s, terraform
 - [autobrr/distribrr](https://github.com/autobrr/distribrr) - An orchestrator for distributed download of torrents
 - [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
@@ -2455,6 +2456,7 @@
 
 ## productivity 
 
+- [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [Bharath-code/git-scope](https://github.com/Bharath-code/git-scope) - A fast TUI to see the status of all git repositories on your machine.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
