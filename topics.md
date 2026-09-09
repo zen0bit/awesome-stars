@@ -1855,6 +1855,7 @@
 
 ## others 
 
+- [cosmos72/twin](https://github.com/cosmos72/twin) - Text mode window environment. A terminal emulator and multiplexer with mouse support, overlapped windows and networked clients. Text-mode equivalent of X11 server + VNC server
 - [kmscon/kmscon](https://github.com/kmscon/kmscon) - Linux KMS/DRM based virtual Console Emulator
 - [bjarneo/omarchy-quickapps](https://github.com/bjarneo/omarchy-quickapps) - Radial, keyboard-driven app launcher for Hyprland, built with Quickshell.
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
