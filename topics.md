@@ -1053,6 +1053,7 @@
 
 ## gaming 
 
+- [MTSistemi/SkillFishOS](https://github.com/MTSistemi/SkillFishOS) - Steampunk gaming Linux distro for the AMD BC-250 (BC250, gfx1013 / Cyan Skillfish). Debian + KDE Plasma, live 40-CU control and overclocking, Steam/EmuDeck, on-device AI.
 - [omriharel/deej](https://github.com/omriharel/deej) - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
@@ -1496,6 +1497,7 @@
 
 ## linux 
 
+- [MTSistemi/SkillFishOS](https://github.com/MTSistemi/SkillFishOS) - Steampunk gaming Linux distro for the AMD BC-250 (BC250, gfx1013 / Cyan Skillfish). Debian + KDE Plasma, live 40-CU control and overclocking, Steam/EmuDeck, on-device AI.
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [TheCodeVerseHub/EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) - A lightweight, Void Linux–based distribution powered by the custom Dynamod init system. Built for speed, modularity, and full user control, EclipseLinux provides a modern alternative for Linux enthusi
 - [Event-Horizon-VL/blackhole-vl](https://github.com/Event-Horizon-VL/blackhole-vl) - Unofficial community-driven user repository for Void Linux, providing additional XBPS packages, including Hyprland and other software, along with templates and build scripts.
@@ -1518,7 +1520,7 @@
 - [ashos/ashos](https://github.com/ashos/ashos) - The immutable/mutable meta-distribution (universal bootstrapper)
 - [marhkb/pods](https://github.com/marhkb/pods) - Manage your containers
 - [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS) - A Graphical Interface for Distrobox
-- [psygreg/linuxtoys](https://github.com/psygreg/linuxtoys) - The user-friendly collection of tools for Linux.
+- [psygreg/linuxtoys](https://github.com/psygreg/linuxtoys) - Your Linux toolbox.
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [Portable-Linux-Apps/Portable-Linux-Apps.github.io](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io) - Census, cataloging and distribution of all AppImages and portable apps for GNU/Linux, through the "AM" package manager. Largest AppImages collection!
 - [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
@@ -1867,7 +1869,7 @@
 - [Keychron/zgm](https://github.com/Keychron/zgm) - Open source gaming mouse firmware built on Zephyr RTOS. Low latency, full customization, extensible driver model.
 - [BryanLunduke/LCOS](https://github.com/BryanLunduke/LCOS) - The Lunduke Computer Operating System
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
-- [kirodubes/archlinux-tweak-tool-gtk4](https://github.com/kirodubes/archlinux-tweak-tool-gtk4) - 
+- [kirodubes/archlinux-tweak-tool](https://github.com/kirodubes/archlinux-tweak-tool) - A GTK4 application for customising and maintaining Arch-based Linux systems. Thirty-one pages cover desktop environments, kernels, Plymouth, SDDM, shells, GTK and icon themes, wallpapers, packages and
 - [T4n-Labs/Let-X](https://github.com/T4n-Labs/Let-X) - Let-X (VUR-Helper)
 - [T4n-Labs/vur](https://github.com/T4n-Labs/vur) - Void User Repository
 - [vostoklinux/vostok-packages](https://github.com/vostoklinux/vostok-packages) - Void-based Linux with a human face. Fast, independent, and built for people who care about their system.
