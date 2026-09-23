@@ -1520,7 +1520,7 @@
 - [ashos/ashos](https://github.com/ashos/ashos) - The immutable/mutable meta-distribution (universal bootstrapper)
 - [marhkb/pods](https://github.com/marhkb/pods) - Manage your containers
 - [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS) - A Graphical Interface for Distrobox
-- [psygreg/linuxtoys](https://github.com/psygreg/linuxtoys) - Your Linux toolbox.
+- [psygreg/linuxtoys](https://github.com/psygreg/linuxtoys) - For everything Linux.
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [Portable-Linux-Apps/Portable-Linux-Apps.github.io](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io) - Census, cataloging and distribution of all AppImages and portable apps for GNU/Linux, through the "AM" package manager. Largest AppImages collection!
 - [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
