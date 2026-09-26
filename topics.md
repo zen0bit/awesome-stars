@@ -1869,6 +1869,9 @@
 
 ## others 
 
+- [akira-linux/akira-packages](https://github.com/akira-linux/akira-packages) - Independent source packages collection for Akira Linux, powered by the xbps-src build system.
+- [florintanasa/brgvos-installer](https://github.com/florintanasa/brgvos-installer) - BRGV-OS Linux installer implemented in GNU Bash. BRGV-OS is a spin Void Linux distribution.
+- [sdbtools/void-pi](https://github.com/sdbtools/void-pi) - Void Linux installer implemented in GNU Prolog.
 - [musqz/quickbox](https://github.com/musqz/quickbox) - Gui for managing quickemu vm's. Migration function. Snapshot function. Switch working dir. And more.
 - [musqz/quickbox-qt](https://github.com/musqz/quickbox-qt) - A QT/6 Gui for Quickemu.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
