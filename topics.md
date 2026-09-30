@@ -1273,6 +1273,7 @@
 
 ## hacktoberfest 
 
+- [distrochooser/distrochooser](https://github.com/distrochooser/distrochooser) - An orientation guide for Linux newbies
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
@@ -1508,6 +1509,7 @@
 
 ## linux 
 
+- [distrochooser/distrochooser](https://github.com/distrochooser/distrochooser) - An orientation guide for Linux newbies
 - [MTSistemi/SkillFishOS](https://github.com/MTSistemi/SkillFishOS) - Steampunk gaming Linux distro for the AMD BC-250 (BC250, gfx1013 / Cyan Skillfish). Debian + KDE Plasma, live 40-CU control and overclocking, Steam/EmuDeck, on-device AI.
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [TheCodeVerseHub/EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) - A lightweight, Void Linux–based distribution powered by the custom Dynamod init system. Built for speed, modularity, and full user control, EclipseLinux provides a modern alternative for Linux enthusi
@@ -3048,6 +3050,7 @@
 
 ## web 
 
+- [distrochooser/distrochooser](https://github.com/distrochooser/distrochooser) - An orientation guide for Linux newbies
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [libreprojects/libreprojects](https://github.com/libreprojects/libreprojects) - 🔖 Collection of open source, usable, hosted web services! https://libreprojects.net
