@@ -1181,7 +1181,6 @@
 - [colinbellino/lemmings](https://github.com/colinbellino/lemmings) - A small prototype trying to recreate the Lemmings game in Godot to learn the engine
 - [Kubulambula/Godot-GDShell](https://github.com/Kubulambula/Godot-GDShell) - Light-weight, powerful, customizable and modular in-game console for Godot 4.
 - [GDQuest/learn-gdscript](https://github.com/GDQuest/learn-gdscript) - Learn Godot's GDScript programming language from zero, right in your browser, for free.
-- [crsolver/goduz](https://github.com/crsolver/goduz) - A GDScript library for building user interfaces with Godot Engine 4
 - [VolodyaKEK/godot-immediate-gui](https://github.com/VolodyaKEK/godot-immediate-gui) - Immediate GUI for Godot Engine
 - [luxtorpeda-dev/luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool to run games using native Linux engines
 - [nonunknown/godot-powerful](https://github.com/nonunknown/godot-powerful) - List of plugins to turn godot into a most powerful engine that already is.
@@ -1243,7 +1242,6 @@
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [michaeltd/bashpass](https://github.com/michaeltd/bashpass) - Password management for the terminal and X.
 - [oSoWoSo/DistroHopper](https://github.com/oSoWoSo/DistroHopper) - Quickly download, create and run VM of any#TODO operating system.
-- [crsolver/goduz](https://github.com/crsolver/goduz) - A GDScript library for building user interfaces with Godot Engine 4
 - [VolodyaKEK/godot-immediate-gui](https://github.com/VolodyaKEK/godot-immediate-gui) - Immediate GUI for Godot Engine
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
@@ -1504,7 +1502,6 @@
 
 ## library 
 
-- [crsolver/goduz](https://github.com/crsolver/goduz) - A GDScript library for building user interfaces with Godot Engine 4
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 
 ## linux 
@@ -2982,7 +2979,6 @@
 
 - [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
 - [BalanceBalls/nekot](https://github.com/BalanceBalls/nekot) - A portable terminal AI interface
-- [crsolver/goduz](https://github.com/crsolver/goduz) - A GDScript library for building user interfaces with Godot Engine 4
 - [payne911/PieMenu](https://github.com/payne911/PieMenu) - A library for easy integration of a flexible circular WidgetGroup within libGDX
 
 ## userscript 
