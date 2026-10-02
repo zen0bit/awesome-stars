@@ -335,6 +335,7 @@
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
 - [0n1cOn3/FluxER](https://github.com/0n1cOn3/FluxER) - FluxER - The bash script which installs and runs the Fluxion tool inside Termux. The wireless security auditing tool used to perform WPA/WPA2 auditing and MITM auditing.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
+- [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - Andronix: Linux distros on Android without root (Termux + proot), with desktops in Termux:X11. App 8.x scripts are on the master branch.
 - [may215/awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -1458,6 +1459,7 @@
 ## kali-linux 
 
 - [0n1cOn3/FluxER](https://github.com/0n1cOn3/FluxER) - FluxER - The bash script which installs and runs the Fluxion tool inside Termux. The wireless security auditing tool used to perform WPA/WPA2 auditing and MITM auditing.
+- [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - Andronix: Linux distros on Android without root (Termux + proot), with desktops in Termux:X11. App 8.x scripts are on the master branch.
 - [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original by @derv82
 
 ## kotlin 
@@ -1583,7 +1585,7 @@
 - [RareDevs/Rare](https://github.com/RareDevs/Rare) - Rare is an open source alternative for Epic Games Launcher, using Legendary.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
-- [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
+- [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - Andronix: Linux distros on Android without root (Termux + proot), with desktops in Termux:X11. App 8.x scripts are on the master branch.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -2647,7 +2649,7 @@
 - [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern, distro-independent package manager that just works [maintainer=@QaidVoid]
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [KunalSin9h/secops](https://github.com/KunalSin9h/secops) - A Ubuntu Desktop Application for managing security.
+- [KunalSin9h/secops](https://github.com/KunalSin9h/secops) - A Ubuntu Security Suite Application.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -2685,7 +2687,7 @@
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) - A simple app for discovering tools that respects your privacy.
-- [KunalSin9h/secops](https://github.com/KunalSin9h/secops) - A Ubuntu Desktop Application for managing security.
+- [KunalSin9h/secops](https://github.com/KunalSin9h/secops) - A Ubuntu Security Suite Application.
 - [umutcamliyurt/DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt) - A file and text encryption tool for Android
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
@@ -2876,7 +2878,7 @@
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [termux/proot-distro](https://github.com/termux/proot-distro) - A utility for managing proot containers.
 - [0n1cOn3/FluxER](https://github.com/0n1cOn3/FluxER) - FluxER - The bash script which installs and runs the Fluxion tool inside Termux. The wireless security auditing tool used to perform WPA/WPA2 auditing and MITM auditing.
-- [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
+- [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - Andronix: Linux distros on Android without root (Termux + proot), with desktops in Termux:X11. App 8.x scripts are on the master branch.
 - [oSoWoSo/Void-In-Termux](https://github.com/oSoWoSo/Void-In-Termux) - This intends to allow a proot from Termux to Void Linux rootfs.
 - [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 
@@ -2964,11 +2966,12 @@
 
 - [alexmyczko/fnt](https://github.com/alexmyczko/fnt) - apt for fonts, the missing font manager for macOS/linux
 - [ufuayk/distributionhub](https://github.com/ufuayk/distributionhub) - A handy website that allows you to download all Linux/BSD distributions in one place with one click.
-- [KunalSin9h/secops](https://github.com/KunalSin9h/secops) - A Ubuntu Desktop Application for managing security.
+- [KunalSin9h/secops](https://github.com/KunalSin9h/secops) - A Ubuntu Security Suite Application.
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 - [hawshemi/linux-optimizer](https://github.com/hawshemi/linux-optimizer) - Linux Optimizer
 - [pieroproietti/penguins-eggs-legacy](https://github.com/pieroproietti/penguins-eggs-legacy) - A professional and universal remastering tool for all major distributions
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - Andronix: Linux distros on Android without root (Termux + proot), with desktops in Termux:X11. App 8.x scripts are on the master branch.
 - [Daniel-Abrecht/dpa-image-builder](https://github.com/Daniel-Abrecht/dpa-image-builder) - A few makefiles & stuff to create images for various devices (librem5, pinephone-pro)
 - [jaromaz/yosild](https://github.com/jaromaz/yosild) - Yosild is a single shell script that builds a full, minimal Linux distribution based on BusyBox.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
