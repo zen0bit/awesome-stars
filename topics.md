@@ -1872,6 +1872,8 @@
 
 ## others 
 
+- [mendescotta/voidlab](https://github.com/mendescotta/voidlab) - 
+- [Meniny/LyargoOS-Repo](https://github.com/Meniny/LyargoOS-Repo) - Xbps repository for LyargoOS Linux
 - [akira-linux/akira-packages](https://github.com/akira-linux/akira-packages) - Independent source packages collection for Akira Linux, powered by the xbps-src build system.
 - [florintanasa/brgvos-installer](https://github.com/florintanasa/brgvos-installer) - BRGV-OS Linux installer implemented in GNU Bash. BRGV-OS is a spin Void Linux distribution.
 - [sdbtools/void-pi](https://github.com/sdbtools/void-pi) - Void Linux installer implemented in GNU Prolog.
