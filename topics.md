@@ -1871,7 +1871,7 @@
 
 ## others 
 
-- [mendescotta/voidlab](https://github.com/mendescotta/voidlab) - 
+- [mendescotta/voidlab](https://github.com/mendescotta/voidlab) - Custom xbps repository
 - [Meniny/LyargoOS-Repo](https://github.com/Meniny/LyargoOS-Repo) - Xbps repository for LyargoOS Linux
 - [akira-linux/akira-packages](https://github.com/akira-linux/akira-packages) - Independent source packages collection for Akira Linux, powered by the xbps-src build system.
 - [florintanasa/brgvos-installer](https://github.com/florintanasa/brgvos-installer) - BRGV-OS Linux installer implemented in GNU Bash. BRGV-OS is a spin Void Linux distribution.
@@ -1908,7 +1908,7 @@
 - [sofijacom/hyprland-void](https://github.com/sofijacom/hyprland-void) - void linux hyprland templates for building with xbps-src
 - [oSoWoSo/SimpleX-Themes](https://github.com/oSoWoSo/SimpleX-Themes) - Repository for SimpleX Chat themes
 - [TensorBlock/forge](https://github.com/TensorBlock/forge) - Forge is a self-hosted middleware that unifies access to multiple AI model providers (like OpenAI, Anthropic) via a single API. It supports OpenAI-compatible interfaces, encrypted API key management, 
-- [xlibre-void/xlibre](https://github.com/xlibre-void/xlibre) - XLibre for VOID linux ( Main repository )
+- [xlibre-void/xlibre](https://github.com/xlibre-void/xlibre) - XLibre for VOID linux ( Main repository ) - xlibre-xserver-25.2.2
 - [Lluciocc/Vish](https://github.com/Lluciocc/Vish) - Visual Scripting for Bash
 - [oSoWoSo/website-template](https://github.com/oSoWoSo/website-template) - Simple website template to use osowoso.org site design
 - [masylum/whatajong](https://github.com/masylum/whatajong) - 
