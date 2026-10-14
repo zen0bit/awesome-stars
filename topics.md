@@ -1869,7 +1869,7 @@
 
 ## others 
 
-- [mendescotta/voidlab](https://github.com/mendescotta/voidlab) - Custom xbps repository
+- [mendescotta/voidlab-testing](https://github.com/mendescotta/voidlab-testing) - Custom xbps repository
 - [Meniny/LyargoOS-Repo](https://github.com/Meniny/LyargoOS-Repo) - Xbps repository for LyargoOS Linux
 - [akira-linux/akira-packages](https://github.com/akira-linux/akira-packages) - Independent source packages collection for Akira Linux, powered by the xbps-src build system.
 - [florintanasa/brgvos-installer](https://github.com/florintanasa/brgvos-installer) - BRGV-OS Linux installer implemented in GNU Bash. BRGV-OS is a spin Void Linux distribution.
@@ -1888,7 +1888,6 @@
 - [BryanLunduke/LCOS](https://github.com/BryanLunduke/LCOS) - The Lunduke Computer Operating System
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [kirodubes/archlinux-tweak-tool](https://github.com/kirodubes/archlinux-tweak-tool) - A GTK4 application for customising and maintaining Arch-based Linux systems. Thirty-one pages cover desktop environments, kernels, Plymouth, SDDM, shells, GTK and icon themes, wallpapers, packages and
-- [T4n-Labs/Let-X](https://github.com/T4n-Labs/Let-X) - Let-X (VUR-Helper)
 - [T4n-Labs/vur](https://github.com/T4n-Labs/vur) - Void User Repository
 - [vostoklinux/vostok-packages](https://github.com/vostoklinux/vostok-packages) - Void-based Linux with a human face. Fast, independent, and built for people who care about their system.
 - [madhvantyagi/SOUL.md](https://github.com/madhvantyagi/SOUL.md) - This repo contains different Soul.md files each file is different and allow your agents to behave in unique interesting personality.
@@ -2686,6 +2685,7 @@
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) - A simple app for discovering tools that respects your privacy.
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [KunalSin9h/secops](https://github.com/KunalSin9h/secops) - A Ubuntu Security Suite Application.
 - [umutcamliyurt/DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt) - A file and text encryption tool for Android
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
