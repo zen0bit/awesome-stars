@@ -1870,6 +1870,7 @@
 
 ## others 
 
+- [guruswarupa/LinuxTV](https://github.com/guruswarupa/LinuxTV) - LinuxTV is a TV-first app launcher for Linux systems.
 - [mendescotta/voidlab-testing](https://github.com/mendescotta/voidlab-testing) - Custom xbps repository
 - [Meniny/LyargoOS-Repo](https://github.com/Meniny/LyargoOS-Repo) - Xbps repository for LyargoOS Linux
 - [akira-linux/akira-packages](https://github.com/akira-linux/akira-packages) - Independent source packages collection for Akira Linux, powered by the xbps-src build system.
@@ -2373,7 +2374,6 @@
 - [Arkensor/DayZCommunityOfflineMode](https://github.com/Arkensor/DayZCommunityOfflineMode) - A community made offline mod for DayZ Standalone
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [TorchAPI/Torch](https://github.com/TorchAPI/Torch) - An extensible modding framework and improved client/DS for Space Engineers. Still a work in progress!
-- [h0ek/POL_EntropiaUniverse](https://github.com/h0ek/POL_EntropiaUniverse) - PlayOnLinux script for Entropia Universe
 - [audiorouterdev/audio-router](https://github.com/audiorouterdev/audio-router) - Routes audio from programs to different audio devices.
 - [deathlyrage/breakingpointmod](https://github.com/deathlyrage/breakingpointmod) - Breaking Point Mod ( Core Client / Server Code + Assets )
 - [EpochModTeam/DayZ-Epoch](https://github.com/EpochModTeam/DayZ-Epoch) - Experimental DayZ Mod for Arma 2
