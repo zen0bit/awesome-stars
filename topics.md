@@ -1922,7 +1922,7 @@
 - [bahamas10/bmd](https://github.com/bahamas10/bmd) - Pretty-print markdown on your terminal with a (mostly) pure bash script.
 - [bahamas10/bash-tput](https://github.com/bahamas10/bash-tput) - A drop-in replacement for `tput` in Bash scripts that is extremely limited and opinionated.
 - [pierrecdevs/purebash-irc](https://github.com/pierrecdevs/purebash-irc) - Just a fun script, inspired by Dave Eddy
-- [Shikakiben/JDownloader2-AppImage](https://github.com/Shikakiben/JDownloader2-AppImage) - JDownloader2-AppImage
+- [Shikakiben/JDownloader2-AppImage](https://github.com/Shikakiben/JDownloader2-AppImage) - JDownloader is a free, open-source download management tool with a huge community that makes downloading as easy and fast as it should be
 - [wisemapping/wisemapping-desktop](https://github.com/wisemapping/wisemapping-desktop) - WiseMapping version in Desktop for local installation.
 - [lunarcloud/script-dialog](https://github.com/lunarcloud/script-dialog) - Allows a bash script to use the best available TUI or GUI dialog system
 - [d77void/wmd77](https://github.com/d77void/wmd77) - wmd77 is a Penrose Lib Tiling Window Manager
@@ -1955,7 +1955,7 @@
 - [jesuisse/godot-radial-menu-control](https://github.com/jesuisse/godot-radial-menu-control) - Provides a radial menu control
 - [a1akris/simploxide](https://github.com/a1akris/simploxide) - SimpleX-Chat bot SDK for Rust
 - [pkgforge-dev/Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages) - AppImages That Truly Work On Any Linux System (Even musl-libc and non-FHS systems)
-- [text-forge/text-forge](https://github.com/text-forge/text-forge) - A modular, scriptable, and language-agnostic text editor built for user empowerment. Lightweight, extensible, and open source. Completely in Godot!
+- [text-forge/text-forge](https://github.com/text-forge/text-forge) - A modular, scriptable, and language-agnostic code editor built for user empowerment. Lightweight, extensible, and open source. Completely in Godot!
 - [d77void/d77void](https://github.com/d77void/d77void) - d77void iso creator
 - [oSoWoSo/hrmpf](https://github.com/oSoWoSo/hrmpf) - hrmpf rescue system, built on Void Linux
 - [cypriennn/v](https://github.com/cypriennn/v) - Simple Command-Line Helper for Void Linux
