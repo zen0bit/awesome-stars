@@ -1877,6 +1877,7 @@
 
 ## others 
 
+- [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - Directory of 34+ free LLM & AI APIs — permanent free tiers, trial credits, and no-card options. GPT-4o, Gemini, Claude, Llama, DeepSeek, Mistral & more. Synced daily from the live directory at free-ll
 - [Borderliner/Voidbleed](https://github.com/Borderliner/Voidbleed) - Bleed into the void — a Void Linux variant with niri, Noctalia v5 and a Bubble Tea TUI installer
 - [guruswarupa/LinuxTV](https://github.com/guruswarupa/LinuxTV) - LinuxTV is a TV-first app launcher for Linux systems.
 - [mendescotta/voidlab-testing](https://github.com/mendescotta/voidlab-testing) - Custom xbps repository
