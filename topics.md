@@ -2412,7 +2412,7 @@
 ## package-manager 
 
 - [VUP-Linux/vup](https://github.com/VUP-Linux/vup) - VUP + Vuru: A Package manager & User Repo for Void Linux
-- [mendescotta/Caerus](https://github.com/mendescotta/Caerus) - A package manager for Void Linux, inspired by Synaptic
+- [mendescotta/Caerus](https://github.com/mendescotta/Caerus) - A modern GTK4 package manager for Void and Chimera Linux
 - [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern, distro-independent package manager that just works [maintainer=@QaidVoid]
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 snapshot every package on your machine to one file, restore it on a new one
