@@ -1545,7 +1545,7 @@
 - [ashos/ashos](https://github.com/ashos/ashos) - The immutable/mutable meta-distribution (universal bootstrapper)
 - [marhkb/pods](https://github.com/marhkb/pods) - Manage your containers
 - [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS) - A Graphical Interface for Distrobox
-- [psygreg/linuxtoys](https://github.com/psygreg/linuxtoys) - For everything Linux - tools, tweaks and software manager.
+- [psygreg/linuxtoys](https://github.com/psygreg/linuxtoys) - For everything Linux - tools, tweaks and software manager - ready for the age of AI.
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [Portable-Linux-Apps/Portable-Linux-Apps.github.io](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io) - Census, cataloging and distribution of all AppImages and portable apps for GNU/Linux, through the "AM" package manager. Largest AppImages collection!
 - [oSoWoSo/gumak](https://github.com/oSoWoSo/gumak) - gumák and other usefull TUIs
@@ -1884,6 +1884,7 @@
 
 ## others 
 
+- [mrpiracy94/MrStore](https://github.com/mrpiracy94/MrStore) - A MrStore é uma loja comunitária de aplicações ZimaOS v2 com aplicações self-hosted instaláveis individualmente.
 - [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - Directory of 34+ free LLM & AI APIs — permanent free tiers, trial credits, and no-card options. GPT-4o, Gemini, Claude, Llama, DeepSeek, Mistral & more. Synced daily from the live directory at free-ll
 - [Borderliner/Voidbleed](https://github.com/Borderliner/Voidbleed) - Bleed into the void — a Void Linux variant with niri, Noctalia v5 and a Bubble Tea TUI installer
 - [guruswarupa/LinuxTV](https://github.com/guruswarupa/LinuxTV) - LinuxTV is a TV-first app launcher for Linux systems.
@@ -2135,7 +2136,7 @@
 - [CereusLinuxProject/vibrancy-icon-theme](https://github.com/CereusLinuxProject/vibrancy-icon-theme) - Theme files extracted from original source (for use with xbps-src or AUR).
 - [CereusLinuxProject/cereus-mklive](https://github.com/CereusLinuxProject/cereus-mklive) - The Cereus Linux live image maker (MIRROR ONLY)
 - [CereusLinuxProject/cereus-pkgs](https://github.com/CereusLinuxProject/cereus-pkgs) - The Cereus Linux source packages collection, based on void-packages (MIRROR ONLY).
-- [sunknudsen/guides](https://github.com/sunknudsen/guides) - Explore guides
+- [sunknudsen/guides](https://github.com/sunknudsen/guides) - Configure hardware and software for more privacy and security (or superproductivity).
 - [SolsticeSpectrum/blacknwhite](https://github.com/SolsticeSpectrum/blacknwhite) - This is my i3 rice
 - [wibyweb/wiby](https://github.com/wibyweb/wiby) - Wiby Search Engine
 - [jurassicplayer/decky-autoflatpaks](https://github.com/jurassicplayer/decky-autoflatpaks) - A decky-loader plugin to manage, notify, and/or automatically update your steamdeck flatpaks without DesktopMode.
