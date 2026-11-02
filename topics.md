@@ -1306,7 +1306,6 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [oSoWoSo/quickemu](https://github.com/oSoWoSo/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. Checkout also DistroHopper:
-- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -1919,7 +1918,7 @@
 - [sofijacom/hyprland-void](https://github.com/sofijacom/hyprland-void) - void linux hyprland templates for building with xbps-src
 - [oSoWoSo/SimpleX-Themes](https://github.com/oSoWoSo/SimpleX-Themes) - Repository for SimpleX Chat themes
 - [TensorBlock/forge](https://github.com/TensorBlock/forge) - Forge is a self-hosted middleware that unifies access to multiple AI model providers (like OpenAI, Anthropic) via a single API. It supports OpenAI-compatible interfaces, encrypted API key management, 
-- [xlibre-void/xlibre](https://github.com/xlibre-void/xlibre) - XLibre for VOID linux ( Main repository ) - xlibre-xserver-25.2.3
+- [xlibre-void/xlibre](https://github.com/xlibre-void/xlibre) - XLibre for VOID linux ( Main repository ) - xlibre-xserver-25.1.11 - architecture: x86_64-glibc , x86_64-musl , i686-glibc
 - [Lluciocc/Vish](https://github.com/Lluciocc/Vish) - Visual Scripting for Bash
 - [oSoWoSo/website-template](https://github.com/oSoWoSo/website-template) - Simple website template to use osowoso.org site design
 - [masylum/whatajong](https://github.com/masylum/whatajong) - 
