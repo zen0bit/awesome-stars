@@ -12,6 +12,7 @@
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
@@ -307,6 +308,7 @@
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [SkyD666/PodAura](https://github.com/SkyD666/PodAura) - All-in-on podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
+- [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) - Android client for the Soulseek peer-to-peer network
 - [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
@@ -344,6 +346,14 @@
 - [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
+
+## android-app 
+
+- [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
+- [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
+- [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
+- [lucien144/fyx](https://github.com/lucien144/fyx) - 📣 🇨🇿 Unofficial Nyx.cz client for iOS & Android written in Flutter.
 
 ## angular 
 
@@ -1905,7 +1915,6 @@
 - [vostoklinux/vostok-packages](https://github.com/vostoklinux/vostok-packages) - Void-based Linux with a human face. Fast, independent, and built for people who care about their system.
 - [madhvantyagi/SOUL.md](https://github.com/madhvantyagi/SOUL.md) - This repo contains different Soul.md files each file is different and allow your agents to behave in unique interesting personality.
 - [florintanasa/void-packages-brgvos](https://github.com/florintanasa/void-packages-brgvos) - The Void source packages collection with some packages used in BRGV-OS
-- [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
 - [florintanasa/brgvos-void-repository](https://github.com/florintanasa/brgvos-void-repository) - Binary repositories and xbps-src templates for building and installing packages on BRGV-OS or Void Linux
 - [florintanasa/brgvos-void](https://github.com/florintanasa/brgvos-void) - BRGV-OS is based on Void Linux, is a custom Void Linux based distribution.
 - [sonicde-artix/sonicde-artix](https://github.com/sonicde-artix/sonicde-artix) - Main repository of the SonicDE for Artix Linux packages organization
@@ -2475,6 +2484,7 @@
 - [umutcamliyurt/DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt) - A file and text encryption tool for Android
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
+- [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
 - [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
@@ -2701,6 +2711,7 @@
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [KunalSin9h/secops](https://github.com/KunalSin9h/secops) - A Ubuntu Security Suite Application.
 - [umutcamliyurt/DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt) - A file and text encryption tool for Android
+- [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
