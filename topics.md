@@ -308,7 +308,6 @@
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [SkyD666/PodAura](https://github.com/SkyD666/PodAura) - All-in-on podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
-- [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) - Android client for the Soulseek peer-to-peer network
 - [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
@@ -1256,6 +1255,7 @@
 
 ## gui 
 
+- [oSoWoSo/awesome-void-linux](https://github.com/oSoWoSo/awesome-void-linux) - A list of awesome applications, software, tools and other materials for Void Linux
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [michaeltd/bashpass](https://github.com/michaeltd/bashpass) - Password management for the terminal and X.
@@ -1889,6 +1889,8 @@
 
 ## others 
 
+- [mendescotta/Vessel](https://github.com/mendescotta/Vessel) - Void Linux ISO builder
+- [MordechaiShebuel/xbps-transaction-log](https://github.com/MordechaiShebuel/xbps-transaction-log) - Captures transactions from syslog, pulls them out into an idempotent file so transactions can be reversed.
 - [mrpiracy94/MrStore](https://github.com/mrpiracy94/MrStore) - A MrStore é uma loja comunitária de aplicações ZimaOS v2 com aplicações self-hosted instaláveis individualmente.
 - [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - Directory of 34+ free LLM & AI APIs — permanent free tiers, trial credits, and no-card options. GPT-4o, Gemini, Claude, Llama, DeepSeek, Mistral & more. Synced daily from the live directory at free-ll
 - [Borderliner/Voidbleed](https://github.com/Borderliner/Voidbleed) - Bleed into the void — a Void Linux variant with niri, Noctalia v5 and a Bubble Tea TUI installer
@@ -2484,7 +2486,6 @@
 - [umutcamliyurt/DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt) - A file and text encryption tool for Android
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
-- [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
 - [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
@@ -2711,7 +2712,6 @@
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [KunalSin9h/secops](https://github.com/KunalSin9h/secops) - A Ubuntu Security Suite Application.
 - [umutcamliyurt/DroidCrypt](https://github.com/umutcamliyurt/DroidCrypt) - A file and text encryption tool for Android
-- [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
@@ -2963,6 +2963,7 @@
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [nemuTUI/nemu](https://github.com/nemuTUI/nemu) - Ncurses UI for QEMU
 - [Benexl/yt-x](https://github.com/Benexl/yt-x) - Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with optional previews. (supports bash, zsh and dash)
+- [oSoWoSo/awesome-void-linux](https://github.com/oSoWoSo/awesome-void-linux) - A list of awesome applications, software, tools and other materials for Void Linux
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
