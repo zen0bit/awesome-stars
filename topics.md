@@ -227,6 +227,7 @@
 - [vim](#vim)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1889,6 +1890,7 @@
 
 ## others 
 
+- [cruglet/gdss](https://github.com/cruglet/gdss) - Godot-stylesheet. Experimental plugin which aims to integrate a CSS-like theming solution to the Godot Engine.
 - [mendescotta/Vessel](https://github.com/mendescotta/Vessel) - Void Linux ISO builder
 - [MordechaiShebuel/xbps-transaction-log](https://github.com/MordechaiShebuel/xbps-transaction-log) - Captures transactions from syslog, pulls them out into an idempotent file so transactions can be reversed.
 - [mrpiracy94/MrStore](https://github.com/mrpiracy94/MrStore) - A MrStore é uma loja comunitária de aplicações ZimaOS v2 com aplicações self-hosted instaláveis individualmente.
@@ -2304,7 +2306,6 @@
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [emacsomancer/vpnd](https://github.com/emacsomancer/vpnd) - Void Package Notifier Daemon
 - [pavolelsig/passthrough_helper_fedora](https://github.com/pavolelsig/passthrough_helper_fedora) - GPU passthrough helper
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [opentyrian/opentyrian](https://github.com/opentyrian/opentyrian) - An open-source port of the scrolling shooter Tyrian.
 - [iliana/emojos.in](https://github.com/iliana/emojos.in) - [MOVED] https://codeberg.org/iliana/emojos.app
 - [bedrocklinux/bedrocklinux-userland](https://github.com/bedrocklinux/bedrocklinux-userland) - This tracks development for the things such as scripts and (defaults for) config files for Bedrock Linux
@@ -3062,6 +3063,10 @@
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+
+## vscode 
+
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 
 ## vue 
 
