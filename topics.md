@@ -1966,7 +1966,7 @@
 - [4e554c4c/base16-halloy](https://github.com/4e554c4c/base16-halloy) - Base16 color scheme template for halloy
 - [Passw/luccahuguet-yazelix](https://github.com/Passw/luccahuguet-yazelix) - Zellij and Yazi adding a File Tree to Helix & helix-friendly keybindigs for Zellij
 - [MeridianOXC/OpenXcom](https://github.com/MeridianOXC/OpenXcom) - Open-source clone of the original X-Com
-- [cfgnunes/nautilus-scripts](https://github.com/cfgnunes/nautilus-scripts) - A set of actions for extending the functionality of the GNOME Files (Nautilus), Nemo, Caja, Dolphin, Thunar and PCManFM-Qt file managers.
+- [cfgnunes/nautilus-scripts](https://github.com/cfgnunes/nautilus-scripts) - Extra options in the right-click menu of the GNOME Files (Nautilus), Nemo, Caja, Dolphin, Thunar, and PCManFM-Qt file managers.
 - [OmarCastro/cmd-polkit](https://github.com/OmarCastro/cmd-polkit) - Easily create polkit authentication agents by using commands
 - [binarylinuxx/xbps_updater](https://github.com/binarylinuxx/xbps_updater) - 
 - [aureliojargas/clitest](https://github.com/aureliojargas/clitest) - Command line tester
