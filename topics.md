@@ -298,7 +298,7 @@
 
 ## android 
 
-- [zapstore/zapstore](https://github.com/zapstore/zapstore) - The open app store
+- [zapstore/zapstore](https://github.com/zapstore/zapstore) - The private app store
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [deathkiller/jazz2-native](https://github.com/deathkiller/jazz2-native) - 🎮 · Jazz² Resurrection: Native C++ reimplementation of Jazz Jackrabbit 2
 - [Raival-e/Prism-File-Explorer](https://github.com/Raival-e/Prism-File-Explorer) - A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose.
@@ -1788,7 +1788,7 @@
 
 ## mcp 
 
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
+- [asciimoo/nogon](https://github.com/asciimoo/nogon) - Your own search engine
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
@@ -1959,7 +1959,7 @@
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [ivoronin/zrw](https://github.com/ivoronin/zrw) - zellij run --wait — run commands in Zellij panes with exit code propagation
 - [Woofshahenzup/XFCE-Genmon-Plugin-Suite-para-PuppyLinux](https://github.com/Woofshahenzup/XFCE-Genmon-Plugin-Suite-para-PuppyLinux) - Una colección modular de  scripts diseñados para el plugin Genmon en XFCE, que permite construir paneles completos,
-- [inevolin/in-cli](https://github.com/inevolin/in-cli) - `in` is a lightweight CLI tool for running commands in directories. Simpler than find/xargs for daily tasks.
+- [inevolin/indo-cli](https://github.com/inevolin/indo-cli) - indo-cli: run one command in many folders. Honest exit codes and short output for scripts and AI agents. One Bash script, no dependencies.
 - [bahamas10/bmd](https://github.com/bahamas10/bmd) - Pretty-print markdown on your terminal with a (mostly) pure bash script.
 - [bahamas10/bash-tput](https://github.com/bahamas10/bash-tput) - A drop-in replacement for `tput` in Bash scripts that is extremely limited and opinionated.
 - [pierrecdevs/purebash-irc](https://github.com/pierrecdevs/purebash-irc) - Just a fun script, inspired by Dave Eddy
@@ -2497,7 +2497,7 @@
 
 ## privacy 
 
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
+- [asciimoo/nogon](https://github.com/asciimoo/nogon) - Your own search engine
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
@@ -3109,7 +3109,7 @@
 ## web 
 
 - [distrochooser/distrochooser](https://github.com/distrochooser/distrochooser) - An orientation guide for Linux newbies
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
+- [asciimoo/nogon](https://github.com/asciimoo/nogon) - Your own search engine
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [libreprojects/libreprojects](https://github.com/libreprojects/libreprojects) - 🔖 Collection of open source, usable, hosted web services! https://libreprojects.net
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
