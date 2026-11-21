@@ -1555,6 +1555,7 @@
 
 ## linux 
 
+- [Khame/kxbps](https://github.com/Khame/kxbps) - Native KDE Plasma front end for the xbps package manager
 - [AppImageCrafters/appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - GNU/Linux packaging solution using the AppImage format
 - [distrochooser/distrochooser](https://github.com/distrochooser/distrochooser) - An orientation guide for Linux newbies
 - [MTSistemi/SkillFishOS](https://github.com/MTSistemi/SkillFishOS) - Steampunk gaming Linux distro for the AMD BC-250 (BC250, gfx1013 / Cyan Skillfish). Debian + KDE Plasma, live 40-CU control and overclocking, Steam/EmuDeck, on-device AI.
@@ -1926,6 +1927,9 @@
 
 ## others 
 
+- [zen0bit/zen0bit-awesome-stars](https://github.com/zen0bit/zen0bit-awesome-stars) - A curated list of my GitHub stars!
+- [Khame/asusctl-void-linux](https://github.com/Khame/asusctl-void-linux) - Void Linux xbps-src packaging for asusctl, ASUS ROG control daemon + KDE widget
+- [Khame/void-packages](https://github.com/Khame/void-packages) - Void Linux binary packages repository for Khame XBPS repo
 - [imageupload-app/imageupload-widget](https://github.com/imageupload-app/imageupload-widget) - 
 - [cruglet/gdss](https://github.com/cruglet/gdss) - Godot-stylesheet. Experimental plugin which aims to integrate a CSS-like theming solution to the Godot Engine.
 - [mendescotta/Vessel](https://github.com/mendescotta/Vessel) - Void Linux ISO builder
@@ -2459,6 +2463,7 @@
 
 ## package-manager 
 
+- [Khame/kxbps](https://github.com/Khame/kxbps) - Native KDE Plasma front end for the xbps package manager
 - [VUP-Linux/vup](https://github.com/VUP-Linux/vup) - VUP + Vuru: A Package manager & User Repo for Void Linux
 - [mendescotta/Caerus](https://github.com/mendescotta/Caerus) - A modern GTK4 package manager for Void, Alpine and Chimera Linux
 - [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern, distro-independent package manager that just works [maintainer=@QaidVoid]
@@ -2693,6 +2698,7 @@
 
 ## rust 
 
+- [Khame/kxbps](https://github.com/Khame/kxbps) - Native KDE Plasma front end for the xbps package manager
 - [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
 - [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS and WebSocket traffic.
 - [Quaint-Studios/Reia](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO built with Godot and Rust.
