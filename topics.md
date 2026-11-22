@@ -1927,6 +1927,7 @@
 
 ## others 
 
+- [nerdyslacker/Sysentra](https://github.com/nerdyslacker/Sysentra) - Software and System management center for Void Linux and derivatives
 - [zen0bit/zen0bit-awesome-stars](https://github.com/zen0bit/zen0bit-awesome-stars) - A curated list of my GitHub stars!
 - [Khame/asusctl-void-linux](https://github.com/Khame/asusctl-void-linux) - Void Linux xbps-src packaging for asusctl, ASUS ROG control daemon + KDE widget
 - [Khame/void-packages](https://github.com/Khame/void-packages) - Void Linux binary packages repository for Khame XBPS repo
