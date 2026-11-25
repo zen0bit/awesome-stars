@@ -468,7 +468,7 @@
 
 ## awesome-list 
 
-- [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - 79 free LLM API providers & 460+ free models (limits, no-card options) + Free-LLM Router: all of them behind one OpenAI/Anthropic-compatible endpoint with instant failover. Run Claude Code, Codex, Cur
+- [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - 78 free LLM API providers & 450+ free models (limits, no-card options) + Free-LLM Router: all of them behind one OpenAI/Anthropic-compatible endpoint with instant failover. Run Claude Code, Codex, Cur
 - [Nriver/awesome-trilium](https://github.com/Nriver/awesome-trilium) - A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
@@ -657,7 +657,7 @@
 
 ## claude-code 
 
-- [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - 79 free LLM API providers & 460+ free models (limits, no-card options) + Free-LLM Router: all of them behind one OpenAI/Anthropic-compatible endpoint with instant failover. Run Claude Code, Codex, Cur
+- [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - 78 free LLM API providers & 450+ free models (limits, no-card options) + Free-LLM Router: all of them behind one OpenAI/Anthropic-compatible endpoint with instant failover. Run Claude Code, Codex, Cur
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
 - [fujibee/agmsg](https://github.com/fujibee/agmsg) - Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -1702,7 +1702,7 @@
 
 ## llm 
 
-- [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - 79 free LLM API providers & 460+ free models (limits, no-card options) + Free-LLM Router: all of them behind one OpenAI/Anthropic-compatible endpoint with instant failover. Run Claude Code, Codex, Cur
+- [nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) - 78 free LLM API providers & 450+ free models (limits, no-card options) + Free-LLM Router: all of them behind one OpenAI/Anthropic-compatible endpoint with instant failover. Run Claude Code, Codex, Cur
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
@@ -1927,6 +1927,7 @@
 
 ## others 
 
+- [noid-linux/noid-packages](https://github.com/noid-linux/noid-packages) - The Noid source packages collection
 - [nerdyslacker/Sysentra](https://github.com/nerdyslacker/Sysentra) - Software and System management center for Void Linux and derivatives
 - [zen0bit/zen0bit-awesome-stars](https://github.com/zen0bit/zen0bit-awesome-stars) - A curated list of my GitHub stars!
 - [Khame/asusctl-void-linux](https://github.com/Khame/asusctl-void-linux) - Void Linux xbps-src packaging for asusctl, ASUS ROG control daemon + KDE widget
