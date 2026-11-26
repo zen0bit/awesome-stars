@@ -1927,6 +1927,7 @@
 
 ## others 
 
+- [mendescotta/gnome51-void-linux](https://github.com/mendescotta/gnome51-void-linux) - GNOME 51 package templates for Void Linux (runit/elogind)
 - [noid-linux/noid-packages](https://github.com/noid-linux/noid-packages) - The Noid source packages collection
 - [nerdyslacker/Sysentra](https://github.com/nerdyslacker/Sysentra) - Software and System management center for Void Linux and derivatives
 - [zen0bit/zen0bit-awesome-stars](https://github.com/zen0bit/zen0bit-awesome-stars) - A curated list of my GitHub stars!
@@ -1939,7 +1940,6 @@
 - [mrpiracy94/MrStore](https://github.com/mrpiracy94/MrStore) - A MrStore é uma loja comunitária de aplicações ZimaOS v2 com aplicações self-hosted instaláveis individualmente.
 - [Borderliner/Voidbleed](https://github.com/Borderliner/Voidbleed) - Bleed into the void — a Void Linux variant with niri, Noctalia v5 and a Bubble Tea TUI installer
 - [guruswarupa/LinuxTV](https://github.com/guruswarupa/LinuxTV) - LinuxTV is a TV-first app launcher for Linux systems.
-- [mendescotta/voidlab-testing](https://github.com/mendescotta/voidlab-testing) - Custom xbps repository
 - [Meniny/LyargoOS-Repo](https://github.com/Meniny/LyargoOS-Repo) - Xbps repository for LyargoOS Linux
 - [akira-linux/akira-packages](https://github.com/akira-linux/akira-packages) - Independent source packages collection for Akira Linux, powered by the xbps-src build system.
 - [florintanasa/brgvos-installer](https://github.com/florintanasa/brgvos-installer) - BRGV-OS Linux installer implemented in GNU Bash. BRGV-OS is a spin Void Linux distribution.
@@ -2904,6 +2904,7 @@
 
 ## terminal 
 
+- [wimpysworld/nyala](https://github.com/wimpysworld/nyala) - A browser for the terminal 🦌
 - [DinosaursAreCute/DinosAmazingBashTui](https://github.com/DinosaursAreCute/DinosAmazingBashTui) - Pure bash TUI framework: build multi-page terminal UIs with XML + CSS-like themes, mouse support and live process panes. No Python, Node or ncurses.
 - [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking
 - [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
